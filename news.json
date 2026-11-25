@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:24:48.170Z",
+ "updated": "2026-11-25T11:32:59.597Z",
  "categories": {
   "science": [],
   "medical": [
@@ -268,6 +268,32 @@
   ],
   "ai": [
    {
+    "id": "ai-1795606006000-0",
+    "headline": "AI-made holiday ads promote products that don't exist, leaving shoppers with losses",
+    "summary": [
+     "Short vertical video ads made with artificial intelligence are drawing millions of views ahead of Black Friday. They promote items such as themed Advent calendars, heated robes and pet accessories. Experts say holiday gift scams are not new, but AI has made it cheaper to produce a convincing product demonstration. In an October 2026 shopping survey, 43% of Americans said they had been fooled by ads created with the technology.",
+     "Shoppers describe a range of problems. Content creator Maggie McGaugh, who makes unboxing videos about these items, says what arrives is usually much smaller and poorer in quality than the ads suggest. One shopper, Tia Evans, paid more than $200 for four robes after seeing the ad repeatedly. The website then went dark and her messages went unanswered. Another, Michelle Richard, is still waiting for her order. H&M said its name was falsely used to promote products it does not sell. Some shoppers also reported that their card details were misused on gambling websites."
+    ],
+    "bigPicture": "The story shows how cheap AI tools can make a fake product look real, and how seeing an ad many times can make it feel trustworthy. Digital media expert Christina Inge describes the holiday season as a \"perfect storm\" for impulse buying. Shoppers may need to be more careful about unfamiliar sellers and to check payment protections before buying. Retailers whose names are misused could also face pressure to respond, though the article does not say what may happen next.",
+    "source": "Tech Xplore",
+    "date": "2026-11-25T11:26:46.000Z",
+    "link": "https://techxplore.com/news/2026-11-fake-gifts-real-losses-ai.html",
+    "originalTitle": "Fake gifts, real losses as AI ads proliferate"
+   },
+   {
+    "id": "ai-1795551613000-1",
+    "headline": "Study finds AI can often identify 'anonymous' speakers from small personal details",
+    "summary": [
+     "Researchers at Northeastern University, Tianshi Li and Jianing Wen, tested how well AI can work out who someone is from an interview with the obvious clues removed. They picked 822 people with known identities from Reddit's \"Ask Me Anything\" community and turned their backgrounds into fictional interviews about work and technology. Names and other clear giveaways were taken out. The strongest AI systems still identified the speaker in roughly 400 of the interviews, often by combining details that seem harmless alone, such as a job description, a project and the years spent on it.",
+     "Web access helped the AI, but it was not essential: three models still named 15% to 28% of speakers using only what they learned in training. When the bots reported high or very high confidence, about nine in ten answers were right. In a second test on 143 interviews with even more clues removed, the AI still identified 85.3% of speakers. Telling the AI to protect identities did not fix the problem, because its web searches surfaced pages that named the speaker, and those links could be seen in the results. The researchers then trained another AI model to flag revealing passages, and removing them cut the average success rate from 75.1% to 35.1% on the smaller test set."
+    ],
+    "bigPicture": "Experts quoted in the article say anonymous data has never been as simple as removing a few identifiers, but AI makes re-identification cheaper and easier for people without special skills. That could mean people who once spoke freely on message boards face a higher risk of being exposed. The same methods might also help people decide what to share or keep separate across accounts, help developers build tools that warn about risky details before something is posted, and help police trace anonymous threats or protect victims and witnesses. Research like this could also give the public stronger grounds to ask lawmakers for privacy protections.",
+    "source": "Tech Xplore",
+    "date": "2026-11-24T20:20:13.000Z",
+    "link": "https://techxplore.com/news/2026-11-youre-anonymous-online-ai.html",
+    "originalTitle": "Think you're anonymous online? AI can blow your cover"
+   },
+   {
     "id": "ai-1795468500000-5",
     "headline": "MIT Study Suggests Brains May Process Many Languages in a Similar Way",
     "summary": [
@@ -400,6 +426,19 @@
   ],
   "ourworld": [
    {
+    "id": "ourworld-1795605877000-1",
+    "headline": "China Sends First Foreign Astronaut, from Pakistan, to Its Space Station on Shenzhou 24",
+    "summary": [
+     "China launched the Shenzhou 24 spacecraft on Wednesday morning from the Jiuquan Satellite Launch Center in the northwest of the country. On board were Chinese astronauts Tang Hongbo, 51, and Wu Yi, 39, along with Pakistani astronaut Muhammad Zeeshan Ali, 40. The craft separated from its rocket, reached its planned orbit, and the crew later entered the space station, where they posed for group photos with three astronauts from the Shenzhou 23 mission. It was the first joint flight of Chinese and foreign astronauts in the history of China's crewed space program.",
+     "The crew is set to carry out more than 90 science experiments and technology tests. Ali will run an experiment on photosynthetic cyanobacteria during his short stay, then return to Earth aboard the Shenzhou 23 spacecraft. This is the first spaceflight for Ali and Wu, while Tang has flown twice before and is now the first astronaut to board the Tiangong station three times. Tang said differences in language, culture and psychology made teamwork harder, but that efforts on both sides were paying off. Ali spoke in Mandarin at a news conference and quoted a line of Chinese poetry."
+    ],
+    "bigPicture": "The flight is part of an agreement China and Pakistan signed in February 2025, and leaders in both countries described it as a milestone for their relationship. Ali said he hopes cooperation could grow from one astronaut on one flight to several joint flights, and perhaps to the moon and Mars. A Pakistani minister said the day Pakistan sends astronauts on its own will come, though no timeline was given. The mission also comes as China prepares for a crewed lunar landing by 2030, while NASA aims to land astronauts on the moon in 2028.",
+    "source": "Phys.org",
+    "date": "2026-11-25T11:24:37.000Z",
+    "link": "https://phys.org/news/2026-11-china-shenzhou-spacecraft-chinese-pakistani.html",
+    "originalTitle": "China launches Shenzhou 24 spacecraft carrying 2 Chinese and 1 Pakistani astronaut"
+   },
+   {
     "id": "ourworld-1795602904000-0",
     "headline": "Euclid Space Telescope Finds Its First New Comet While Studying Distant Galaxies",
     "summary": [
@@ -528,6 +567,19 @@
     "date": "2026-11-24T09:29:15.000Z",
     "link": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
     "originalTitle": "Earth's next ice age may have already begun. Global warming stopped it"
+   },
+   {
+    "id": "ourworld-1795467001000-38",
+    "headline": "Strong El Niño expected to worsen heat and drought in parts of Africa",
+    "summary": [
+     "A strong El Niño is developing in the Pacific. It is expected to grow stronger toward the end of 2026 and last into early 2027. In parts of Africa, it is expected to make dangerous heat worse and bring severe drought. That could mean more heat-related illness and deaths, tighter water supplies, and more disruption to electricity, food and essential services.",
+     "The article was written by a researcher who studies heat waves and health. She explains that heat danger depends on more than air temperature. Humidity, sunlight and wind also affect how well the body can cool itself. Older people, infants, pregnant women, people with chronic illnesses and outdoor workers are especially vulnerable. Poorly ventilated homes and limited access to electricity or cooling can keep people dangerously hot, even at night. Where health records are weak, some heat-related deaths may go uncounted."
+    ],
+    "bigPicture": "El Niño affects weather around the world, but the risks may be greatest where extreme heat meets limited access to water, electricity and health care. Because El Niño can be tracked months in advance, early warnings could give governments a chance to act sooner. The author says that with the right preparations, many heat-related illnesses and deaths could be prevented. How much harm actually occurs may depend on how quickly warnings are turned into practical steps and funding.",
+    "source": "Phys.org",
+    "date": "2026-11-23T20:50:01.000Z",
+    "link": "https://phys.org/news/2026-11-super-el-nio-africa-crisis.html",
+    "originalTitle": "Super El Niño will add to Africa's heat crisis—how governments can protect people before it peaks"
    }
   ],
   "wellbeing": [
