@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Last 7 Days of Learn...Wow! News</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#123166; --card:#1e4990; --line:#4470b8; --ink:#fbf6ea; --soft:#d0dcf3;
+  --brass:#f0c466; --paper:#fbf9f3; --text:#1f2a44; --muted:#6b7488; --rule:#e2dccb;
+  --serif:'Fraunces',Georgia,serif;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,system-ui,sans-serif}
+body{background:radial-gradient(1100px 500px at 50% -20%,#2a62b8 0,var(--bg) 65%) no-repeat,var(--bg)}
+button{font-family:inherit;cursor:pointer}
+.wrap{max-width:1100px;margin:0 auto;padding:22px 14px 26px}
+h1{font-family:var(--serif);font-weight:700;font-size:clamp(24px,4.2vw,38px);line-height:1.12;margin:0 0 18px;text-align:center;letter-spacing:-.01em}
+h1 span{color:var(--brass)}
+
+.btns{display:grid;grid-template-columns:repeat(6,1fr);gap:10px}
+@media (max-width:820px){.btns{grid-template-columns:repeat(3,1fr)}}
+@media (max-width:420px){.btns{grid-template-columns:repeat(2,1fr)}}
+.btn{background:var(--card);color:var(--ink);border:1.5px solid var(--line);border-radius:14px;padding:14px 8px;min-height:64px;
+  font-weight:700;font-size:15.5px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;transition:.15s}
+.btn .ic{font-size:22px;line-height:1}
+.btn:hover{border-color:var(--brass)}
+.btn.on{background:var(--brass);color:#16203a;border-color:var(--brass)}
+
+.panel{position:relative;margin-top:14px;background:var(--paper);color:var(--text);border-radius:16px;overflow:hidden;display:none;box-shadow:0 10px 30px rgba(0,0,0,.25)}
+.panel.open{display:block;animation:drop .22s ease-out}
+@keyframes drop{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
+.phead{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;padding:14px 18px;border-bottom:1px solid var(--rule);background:#f4f0e4}
+.trow{display:flex;align-items:center;justify-content:space-between;gap:10px;width:100%}
+.ctrls{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.play{background:#16203a;color:var(--brass);border:0;border-radius:999px;padding:8px 16px;font-weight:700;font-size:14px;min-height:38px;min-width:96px}
+.speed{display:flex;background:#e7e1d0;border-radius:999px;padding:3px}
+.speed button{border:0;background:transparent;color:#16203a;border-radius:999px;padding:6px 11px;font-weight:600;font-size:13.5px;min-height:32px}
+.speed button.on{background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.15)}
+.phead b{font-family:var(--serif);font-size:21px;color:#16203a}
+.phead small{color:var(--muted);font-size:13px;display:block;margin-top:2px}
+.close{background:transparent;border:1.5px solid #c9c1ab;color:#16203a;border-radius:999px;padding:7px 14px;font-weight:600;font-size:14px;min-height:36px}
+.scroll{height:560px;max-height:70vh;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:4px 18px 10px}
+.story{padding:18px 0;border-bottom:1px solid var(--rule);display:grid;grid-template-columns:1fr auto;gap:14px;align-items:start}
+.side{position:sticky;top:8px}
+.wim{background:#16203a;color:var(--brass);border:0;border-radius:14px;padding:10px 10px;font-weight:700;font-size:13.5px;line-height:1.2;width:96px;display:flex;flex-direction:column;align-items:center;gap:4px}
+.wim span{font-size:20px}
+@media (min-width:700px){.wim{width:120px;font-size:14.5px}}
+.endnote{text-align:center;color:var(--muted);font-size:13.5px;padding:18px 0 30px}
+.pop{position:absolute;left:0;right:0;bottom:0;background:rgba(18,49,102,.55);display:none;align-items:center;justify-content:center;padding:16px}
+.pop.open{display:flex;animation:drop .2s ease-out}
+.popcard{background:#fff;border-radius:16px;max-width:620px;width:100%;max-height:100%;overflow:auto;padding:20px;border-top:6px solid var(--brass);box-shadow:0 12px 30px rgba(0,0,0,.3)}
+.popcard .lbl{font-size:12.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#2a62b8;margin-bottom:6px}
+.popcard h4{font-family:var(--serif);font-size:19px;line-height:1.3;margin:0 0 10px;color:#16203a}
+.popcard p{font-size:16px;line-height:1.6;margin:0 0 16px}
+.popcard button{background:var(--brass);color:#16203a;border:0;border-radius:999px;padding:11px 22px;font-weight:700;font-size:15px;min-height:42px}
+.story:last-child{border-bottom:0}
+.when{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#8a6a1f;background:#f6e7bf;border-radius:999px;padding:4px 10px;margin-bottom:8px}
+.story h3{font-family:var(--serif);font-weight:600;font-size:20px;line-height:1.28;margin:0 0 8px;color:#16203a}
+.story p{margin:0 0 10px;font-size:16px;line-height:1.6}
+.src{font-size:12.5px;color:var(--muted);margin:2px 0 10px}
+.empty{padding:28px 4px;text-align:center;color:var(--muted);font-size:16px;line-height:1.5}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>The Last 7 Days of <span>Learn...Wow!</span> News</h1>
+  <div class="btns" id="btns"></div>
+  <div class="panel" id="panel">
+    <div class="phead">
+      <div class="trow"><div><b id="ptitle"></b><small id="psub"></small></div><button class="close" id="close">Close</button></div>
+      <div class="ctrls">
+        <button class="play" id="play">⏸ Pause</button>
+        <div class="speed" id="speed"><button data-s="slow" class="on">Slow</button><button data-s="medium">Medium</button><button data-s="fast">Fast</button></div>
+      </div>
+    </div>
+    <div class="scroll" id="list"></div>
+    <div class="pop" id="pop"><div class="popcard">
+      <div class="lbl">💡 Why It Matters</div>
+      <h4 id="popH"></h4>
+      <p id="popP"></p>
+      <button id="popClose">Close &amp; keep scrolling</button>
+    </div></div>
+  </div>
+</div>
+
+<script>
+const CATS = [
+  { id: "science", name: "Science", ic: "🔬" },
+  { id: "medical", name: "Medical", ic: "🩺" },
+  { id: "technology", name: "Technology", ic: "💻" },
+  { id: "ai", name: "AI", ic: "🤖" },
+  { id: "ourworld", name: "Our World", ic: "🌍" },
+  { id: "wellbeing", name: "Well-Being", ic: "🌿" }
+];
+let DATA = null, current = null;
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s || "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+function dayLabel(iso) {
+  const d = new Date(iso), t = new Date();
+  const start = (x) => new Date(x.getFullYear(), x.getMonth(), x.getDate()).getTime();
+  const diff = Math.round((start(t) - start(d)) / 864e5);
+  if (diff <= 0) return "Today";
+  if (diff === 1) return "Yesterday";
+  return d.toLocaleDateString("en-US", { weekday: "long", month: "short", day: "numeric" });
+}
+const shortDate = (iso) => new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+
+function sendHeight() {
+  try { parent.postMessage({ lwNewsHeight: document.documentElement.scrollHeight }, "*"); } catch (e) {}
+}
+
+function render() {
+  const cat = CATS.find((c) => c.id === current);
+  const panel = $("panel");
+  document.querySelectorAll(".btn").forEach((b) => b.classList.toggle("on", b.dataset.id === current));
+  if (!cat) { panel.classList.remove("open"); sendHeight(); return; }
+  $("ptitle").textContent = cat.ic + " " + cat.name;
+  const cutoff = Date.now() - 7 * 864e5;
+  const stories = ((DATA && DATA.categories && DATA.categories[cat.id]) || [])
+    .filter((s) => Date.parse(s.date) >= cutoff)
+    .sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
+  $("psub").textContent = stories.length ? stories.length + " highlights · newest first" : "";
+  $("list").innerHTML = stories.length ? stories.map((s, i) => `
+    <article class="story">
+      <div>
+        <span class="when">${esc(dayLabel(s.date))}</span>
+        <h3>${esc(s.headline)}</h3>
+        ${(s.summary || []).map((p) => `<p>${esc(p)}</p>`).join("")}
+        <div class="src">Source: ${esc(s.source)} · ${esc(shortDate(s.date))}</div>
+      </div>
+      <div class="side">${s.bigPicture ? `<button class="wim" data-i="${i}"><span>💡</span>Why It Matters</button>` : ""}</div>
+    </article>`).join("") + `<div class="endnote">That's the last 7 days. Starting again from the top…</div>`
+    : `<div class="empty">This week's ${esc(cat.name)} highlights are on the way.<br>Check back soon.</div>`;
+  SHOWN = stories;
+  $("list").scrollTop = 0; pos = 0; holdUntil = performance.now() + 1500;
+  closePop();
+  panel.classList.add("open");
+  sendHeight();
+}
+
+$("btns").innerHTML = CATS.map((c) => `<button class="btn" data-id="${c.id}"><span class="ic">${c.ic}</span>${c.name}</button>`).join("");
+$("btns").addEventListener("click", (e) => {
+  const b = e.target.closest(".btn"); if (!b) return;
+  current = current === b.dataset.id ? null : b.dataset.id;
+  render();
+});
+$("close").addEventListener("click", () => { current = null; render(); });
+// ---- slow auto-scroll ----
+const SPEEDS = { slow: 16, medium: 30, fast: 52 }; // pixels per second
+let SHOWN = [], speed = "slow", userPaused = false, popOpen = false, touching = false;
+let pos = 0, last = 0, holdUntil = 0;
+if (window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches) userPaused = true;
+const list = $("list");
+
+function setPlayLabel() { $("play").textContent = userPaused ? "▶ Play" : "⏸ Pause"; }
+function tick(t) {
+  const dt = last ? Math.min(t - last, 100) / 1000 : 0; last = t;
+  const running = current && !userPaused && !popOpen && !touching && t > holdUntil;
+  if (running) {
+    if (Math.abs(list.scrollTop - pos) > 3) pos = list.scrollTop; // user moved it
+    pos += SPEEDS[speed] * dt;
+    const max = list.scrollHeight - list.clientHeight;
+    if (max > 0 && pos >= max) { pos = max; list.scrollTop = max; holdUntil = t + 3000; setTimeout(() => { if (current) { list.scrollTop = 0; pos = 0; holdUntil = performance.now() + 2000; } }, 3000); }
+    else list.scrollTop = pos;
+  }
+  requestAnimationFrame(tick);
+}
+requestAnimationFrame(tick);
+
+$("play").addEventListener("click", () => { userPaused = !userPaused; pos = list.scrollTop; setPlayLabel(); });
+$("speed").addEventListener("click", (e) => {
+  const b = e.target.closest("button"); if (!b) return;
+  speed = b.dataset.s;
+  document.querySelectorAll("#speed button").forEach((x) => x.classList.toggle("on", x === b));
+});
+// holding a finger on the list pauses; it picks back up 2 seconds after letting go
+list.addEventListener("touchstart", () => { touching = true; }, { passive: true });
+list.addEventListener("touchend", () => { setTimeout(() => { touching = false; pos = list.scrollTop; }, 2000); }, { passive: true });
+list.addEventListener("wheel", () => { pos = list.scrollTop; holdUntil = performance.now() + 2000; }, { passive: true });
+
+function openPop(s) {
+  $("popH").textContent = s.headline; $("popP").textContent = s.bigPicture;
+  $("pop").style.top = $("list").offsetTop + "px";
+  $("pop").classList.add("open"); popOpen = true;
+}
+function closePop() { $("pop").classList.remove("open"); popOpen = false; pos = list.scrollTop; holdUntil = performance.now() + 800; }
+list.addEventListener("click", (e) => {
+  const b = e.target.closest(".wim"); if (!b) return;
+  const s = SHOWN[+b.dataset.i]; if (s) openPop(s);
+});
+$("popClose").addEventListener("click", closePop);
+$("pop").addEventListener("click", (e) => { if (e.target.id === "pop") closePop(); });
+setPlayLabel();
+
+fetch("news.json?v=" + Date.now()).then((r) => r.json()).then((d) => { DATA = d; if (current) render(); }).catch(() => { DATA = { categories: {} }; });
+window.addEventListener("load", sendHeight);
+window.addEventListener("resize", sendHeight);
+</script>
+</body>
+</html>
