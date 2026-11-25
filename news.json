@@ -1,8 +1,152 @@
 {
- "updated": "2026-11-25T11:32:59.597Z",
+ "updated": "2026-11-25T11:43:33.135Z",
  "categories": {
-  "science": [],
+  "science": [
+   {
+    "id": "science-1795601182000-3",
+    "headline": "Northwestern physicists trap and cool a single positron, opening the way to a precise antimatter test",
+    "summary": [
+     "Physicists at Northwestern University have gained a high level of quantum control over a single positron, the antimatter partner of the electron. The team captured a fast-moving positron released by radioactive decay of sodium-22, slowed it, and cooled it to about 0.3 degrees above absolute zero. They then held it in a near-perfect vacuum, using electric and magnetic fields to keep it suspended so it never touched the walls of its container. Contact with ordinary matter would destroy it.",
+     "The positron stayed in the trap for months and settled into its lowest quantum energy state. Using microwaves, the researchers moved it between energy levels and detected the changes, a setup they call a \"one-positron quantum cyclotron.\" The study was led by Gerald Gabrielse, and Ph.D. student Thomas Myers is its first author."
+    ],
+    "bigPicture": "The next step is to measure the positron's magnetic properties as precisely as the team earlier measured the electron's, to about one part in 10 trillion, and then compare the two. The Standard Model of particle physics predicts that electrons and positrons should be nearly perfect mirror images. Any unexpected difference could point to a gap in that theory. It might also offer clues to why the universe holds so much more matter than antimatter. Whether such a difference exists is still unknown, and the measurement itself has yet to be made.",
+    "source": "ScienceDaily",
+    "date": "2026-11-25T10:06:22.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+    "originalTitle": "Physicists trap antimatter in a breakthrough that could explain why the universe exists"
+   },
+   {
+    "id": "science-1795570504000-12",
+    "headline": "Physicists find Einstein's Brownian motion model falls short for near-light-speed particles in early-universe plasma",
+    "summary": [
+     "Physicists at MIT and UC Santa Barbara have found that a well-known idea from Einstein misses something when particles move close to the speed of light. In 1905, Einstein explained that a particle in a fluid is slowed by drag while also being jostled by countless random pushes from surrounding atoms and molecules. The new work looked at heavy quarks moving through quark-gluon plasma, the extremely hot mixture of particles that filled the universe just after the Big Bang.",
+     "The researchers calculated the forces on a heavy quark in a simple model: a gas of quarks and gluons that interact only weakly. For small changes in motion, the results matched the familiar bell-shaped pattern. For larger changes, though, the pattern was lopsided. Big jolts happened more often than the traditional model predicts, and large slowdowns were more likely than equally large speed-ups. The study was published in Physical Review Letters."
+    ],
+    "bigPicture": "Scientists can briefly create tiny droplets of quark-gluon plasma in particle accelerators, and heavy quarks moving through them can reveal details about the plasma's inner structure. The new calculations suggest that how often rare, large jolts occur may depend on the plasma's microscopic nature, which could offer a new kind of clue. If the predictions are compared with accelerator results, physicists may learn more about this ancient state of matter and the conditions soon after the Big Bang. That remains a possibility for future work, and the researchers describe it as something their calculations could help with, not something already shown.",
+    "source": "ScienceDaily",
+    "date": "2026-11-25T01:35:04.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261121221119.htm",
+    "originalTitle": "Einstein’s 120-year-old theory may be missing something big about the Big Bang"
+   },
+   {
+    "id": "science-1795567201000-16",
+    "headline": "Underwater Robots Help Identify First Salp Species Living Only in the Deep Sea",
+    "summary": [
+     "Researchers have formally described a new species called the glass salp, Vitreosalpa gemini. It is the first salp known to live only in the deep sea. Salps are barrel-shaped, jellylike animals that drift through the ocean. Scientists count 50 known species, and most of them live offshore near the surface.",
+     "The first sighting of this unfamiliar salp in Monterey Bay's deep water came more than 20 years ago. Larry Madin then used specimens and data gathered by MBARI's remotely operated vehicles to write the description, which appeared in the journal Marine Biodiversity. The glass salp lives at depths of 280 to 2,200 meters (920 to 7,200 feet). It is a slow swimmer with a delicate, watery body. Its feeding and metabolic rates are much lower than those of its surface-dwelling relatives. Without sunlight, it eats detritus and single-celled protozoans rather than living phytoplankton."
+    ],
+    "bigPicture": "Salps are an important link in the ocean carbon cycle, because they eat phytoplankton and tiny bits of organic material called marine snow. Their blooms can move carbon quickly to the deep seafloor. Finding a salp that lives only in the deep sea shows how much remains unknown in the largest living space on the planet, as Madin put it. Robotic vehicles that can observe fragile animals undisturbed may help scientists learn more about other gelatinous creatures in the deep ocean.",
+    "source": "Phys.org",
+    "date": "2026-11-25T00:40:01.000Z",
+    "link": "https://phys.org/news/2026-11-underwater-robots-reveal-salp-species.html",
+    "originalTitle": "Underwater robots reveal first salp species known to live exclusively in deep sea"
+   },
+   {
+    "id": "science-1795564803000-20",
+    "headline": "Researcher Proposes Calling Mitochondria the 'Lungs of the Cell' to Help Students Learn",
+    "summary": [
+     "Many people learn that mitochondria are the \"powerhouse of the cell,\" a phrase that goes back to a 1957 Scientific American article. Dr. Aaron Morton, a regenerative medicine researcher at Texas A&M University, thinks this description can leave students with a fact they memorize but cannot use. He has met students, even graduate students, who can explain how oxygen gets into the lungs and bloodstream but not what happens once it reaches cells.",
+     "Morton suggests a second description: mitochondria are the \"lungs of the cell.\" He introduced the phrase in a recently published study about a new way to examine mitochondrial structure. His reasoning is that mitochondria use oxygen, much as lungs do, so the comparison ties breathing to what happens inside cells."
+    ],
+    "bigPicture": "Morton does not want teachers to drop the \"powerhouse\" idea. He sees the two phrases working together: \"powerhouse\" says what mitochondria help produce, and \"lungs of the cell\" helps explain how and why oxygen matters. He hopes teachers in high school biology and introductory college courses will try the comparison without waiting for textbooks to change. The summary of the article notes that how well this metaphor works as a teaching tool has not yet been established, so it remains an idea to test in classrooms.",
+    "source": "Phys.org",
+    "date": "2026-11-25T00:00:03.000Z",
+    "link": "https://phys.org/news/2026-11-mitochondria-rebranding-goodbye-powerhouse-cell.html",
+    "originalTitle": "Mitochondria rebranding: Goodbye, powerhouse of the cell. Hello, lungs of the cell?"
+   },
+   {
+    "id": "science-1795519100000-31",
+    "headline": "Ordinary-Looking Metal EuSi Shows Rare, Hidden Form of Magnetism",
+    "summary": [
+     "Researchers have found strong evidence of an unusual magnetic state in europium silicide (EuSi), a fairly simple metallic compound. The material has no overall magnetization, yet its magnetism strongly affects how its electrons behave. The state is called p-wave magnetism, and in it an electron's spin is tied to the direction it travels. The work began about three years ago at the Max Planck Institute for Chemical Physics of Solids in Dresden, Germany, where Dr. Erjian Cheng grew high-quality single crystals of the material.",
+     "Between roughly 33 and 62 kelvin (about minus 400 to minus 348 degrees Fahrenheit), the magnetic moments of the europium atoms arrange themselves in a repeating spiral. Their orientations balance out across the spiral, so the material shows no net magnetization. A team of 38 scientists from 19 institutions confirmed the spiral using neutron diffraction. Photoemission measurements then showed magnetic energy separations above 100 millielectronvolts, and spin-resolved measurements showed the electron spin polarization changing sign across successive magnetic zones. The spiral can also twist in two opposite directions, forming domains of opposite handedness about ten micrometers across, and these domains responded differently to circularly polarized light."
+    ],
+    "bigPicture": "Because EuSi is a relatively simple metal, it may give scientists a practical way to study p-wave magnetism in detail. That could help researchers better understand exotic quantum materials. The researchers say the field could eventually lead to new ways of controlling electronic properties, and possibly to future electronic technologies. Those applications are still possibilities, and this work mainly offers a clearer view of the underlying physics.",
+    "source": "ScienceDaily",
+    "date": "2026-11-24T11:18:20.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261123005341.htm",
+    "originalTitle": "A simple metal is hiding a strange new form of magnetism"
+   },
+   {
+    "id": "science-1795518546000-32",
+    "headline": "Pollen in a 2,200-year-old Roman ship's coatings reveals its waterproofing recipes and repairs",
+    "summary": [
+     "Researchers studied the protective coatings on Ilovik-Paržine 1, a Roman Republic ship that sank about 2,200 years ago off the coast of what is now Croatia. Of 10 coating samples, most were pitch made from pine. One sample combined pine tar with beeswax, a mixture Greek shipbuilders called zopissa. The beeswax made the coating more flexible and easier to spread while hot, which would have suited timbers that shift with the waves.",
+     "The sticky coatings also trapped tiny pollen grains that survived for thousands of years. The pollen came from a mix of landscapes, including coastal forests of holly oak and pine, shrubland, riverside plants, and mountain trees such as fir and beech. The pattern of coatings suggests the ship got four or five separate batches. The stern and middle shared one, while the bow had three different ones. Earlier work on the ship's ballast pointed to Brundisium, now Brindisi, as its likely birthplace. The pollen suggests some coatings were applied near there and others along the northeastern Adriatic coast, close to where the ship sank."
+    ],
+    "bigPicture": "Archaeologists have mostly studied the wooden parts of ancient ships, and the materials that kept them watertight have received much less attention. This study suggests that pollen and chemical analysis could help trace where a vessel was built, repaired and sailed. Similar methods might one day be applied to other wrecks to compare shipbuilding traditions across the Adriatic and beyond. That could add detail to our picture of ancient sea travel that the wood alone cannot provide.",
+    "source": "ScienceDaily",
+    "date": "2026-11-24T11:09:06.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
+    "originalTitle": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick"
+   },
+   {
+    "id": "science-1795430753000-37",
+    "headline": "Newly found viruses hint at how viruses and cell compartments evolved together",
+    "summary": [
+     "Researchers at the University of Miami have identified a previously unknown group of viruses. These viruses may help fill a gap in the evolutionary story of encapsulins, which are tiny protein compartments found inside cells. The work was published in Nature Communications. Scientists had long thought encapsulins evolved from viruses, but the new evidence points to a more tangled history in which the two may have evolved from each other repeatedly over millions of years.",
+     "Both viruses and encapsulins use proteins with a particular three-dimensional shape called the HK97-fold, which can assemble into protective shells. The new viruses have smaller, simpler genomes than other viruses with these shells. They also show traits of both viruses and encapsulins, so they could be evolutionary in-between forms. The team did not grow the viruses in a lab. Instead, they searched huge genetic databases holding billions of DNA sequences from soil, seawater, wastewater, the human gut and other places. They used AI tools, including protein language models and AlphaFold, along with bioinformatics and models of protein behavior."
+    ],
+    "bigPicture": "The findings suggest that the shells of viruses might sometimes do more than carry and protect genetic material. They could possibly also support chemical reactions, though the researchers say more work is needed to confirm this. If so, scientists may need to pay more attention to the non-infective forms of viruses. The search methods could also be used to study other poorly understood viruses, and the researchers say they might help in understanding newly emerging viruses and pathogens. The work may also offer clues about how early life developed, since life involves both enclosing chemical reactions and storing information that can be inherited.",
+    "source": "ScienceDaily",
+    "date": "2026-11-23T10:45:53.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
+    "originalTitle": "Mysterious new viruses reveal a missing link in evolution"
+   },
+   {
+    "id": "science-1795411823000-39",
+    "headline": "Researcher argues Iron Age ruler Verica, linked to Rome's invasion of Britain, was a woman",
+    "summary": [
+     "Dr. Miles Russell of Bournemouth University argues that Verica, an Iron Age British ruler long assumed to be male, was a woman. Verica ruled the Atrebates, a tribe whose lands covered much of present-day Hampshire and West Sussex. Around AD 40, Verica was forced from power and fled to Rome to ask Emperor Claudius for help. The Roman historian Cassius Dio said this appeal was why Claudius chose to invade Britain in AD 43.",
+     "Russell offers several clues. The name ends in \"a,\" as did the names of other female rulers of the era, such as Cartimandua and Boudica. Coins from Verica's reign carry the Latin title \"rex,\" usually translated as \"king,\" but Russell says it was not limited to men and notes that Cleopatra held it too. The coins also show a slender, feminine figure on horseback, unlike the male warriors on other British rulers' coins. Russell suggests that earlier historians assumed Verica was male because of 19th-century attitudes."
+    ],
+    "bigPicture": "If Russell's interpretation holds, it could change how Verica is remembered, as an early and significant female leader whose exile may have set the Roman invasion in motion. He also argues that Verica was a useful ally who gave Rome tactical information, rather than merely someone who whispered in an emperor's ear. The work builds on earlier Bournemouth research suggesting women held a central place in Iron Age British society. Together, these studies may encourage researchers to look again at the role women played in the politics of the time.",
+    "source": "ScienceDaily",
+    "date": "2026-11-23T05:30:23.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm",
+    "originalTitle": "Archaeologists reveal a powerful Iron Age king may have been a woman"
+   },
+   {
+    "id": "science-1795406067000-40",
+    "headline": "Colbert-Named Trapdoor Spider Has a Genome Much Larger Than Ours",
+    "summary": [
+     "A small trapdoor spider from California's coastal dunes, Aptostichus stephencolberti, has a genome about 50% larger than the human genome, even though the spider is only about the size of a quarter. Its genome has 4.6 billion DNA base pairs and 52 chromosomes, compared with 46 in human cells. Researchers at UC Davis say this is the first genome sequenced from a spider in this family, and the results appeared in the Journal of Heredity.",
+     "A bigger genome does not necessarily mean more genes. About 77% of this spider's genome is repetitive DNA that shows up many times. The team also noted that spiders lack the usual repeating DNA sequences found in telomeres, the protective caps on chromosome ends. This may help explain why spider chromosomes seem to evolve faster than those of vertebrates. The spider got its name after Stephen Colbert learned in 2008 that researcher Jason Bond had named a spider after Neil Young, and Colbert asked for one of his own on his show."
+    ],
+    "bigPicture": "The genome work is part of the California Conservation Genomics project, which aims to build genetic information that can guide conservation choices. This spider lives only along a limited stretch of Central California coast and rarely travels far from its burrow, so the data could help researchers identify separate populations that may need special protection. Rising sea levels and invasive species are listed as threats, and the team wants to learn how climate change, fire and urbanization affect genetic diversity. Understanding spider genetics might also help scientists explore spider venom compounds, some of which have shown promise as possible painkillers or as tools for controlling agricultural pests.",
+    "source": "ScienceDaily",
+    "date": "2026-11-23T03:54:27.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm",
+    "originalTitle": "This tiny spider named after Stephen Colbert has a genome 50% larger than a human’s"
+   },
+   {
+    "id": "science-1795347074000-44",
+    "headline": "Why DNA's thymine may have helped early life withstand harsh sunlight",
+    "summary": [
+     "Researchers at Texas A&M University have studied a long-standing puzzle in the history of life. DNA uses a building block called thymine, while RNA uses uracil instead. Thymine is more prone to certain kinds of damage from ultraviolet (UV) light, so its adoption has looked like a disadvantage, especially before Earth had a protective ozone layer.",
+     "The team, led by Dr. Peter Rentzepis with research assistants Keyvan Khosh Abady and Negar Karpourazar, exposed thymine and uracil to controlled UV radiation meant to mimic early Earth. They then examined the molecules using light-based methods, including absorption, fluorescence and Raman spectroscopy. Their results, published in PNAS, suggest thymine tends to steer UV damage toward forms that are easier to reverse."
+    ],
+    "bigPicture": "The findings offer a possible explanation for why thymine became part of DNA despite its apparent weakness, and they hint that managing damage may have mattered as much as resisting it for early life. The team also produced reference measurements of how these molecules respond to light, which could eventually help with detecting harmful microorganisms and checking whether UV disinfection, such as in water treatment, has worked. The researchers next hope to explore whether life's chemical building blocks formed entirely on Earth or were partly delivered by meteorites. These remain open questions and possible directions rather than settled results.",
+    "source": "ScienceDaily",
+    "date": "2026-11-22T11:31:14.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm",
+    "originalTitle": "DNA’s secret sunscreen may have helped life survive on early Earth"
+   }
+  ],
   "medical": [
+   {
+    "id": "medical-1795605227000-0",
+    "headline": "Fewer older adults with cognitive disorders take risky medications, but one in three still do",
+    "summary": [
+     "A University at Buffalo study looked at 2,796 independently living adults with dementia or other cognitive disorders. It found that the share taking potentially inappropriate medications fell from 39.3% in 2011 to 29.3% in 2022. The researchers used the American Geriatrics Society's Beers Criteria, a list of about 100 medications that may be risky for older adults, and focused on those that could be especially harmful with cognitive disorders. The data came from the Medical Expenditure Panel Survey and represent about 29.7 million older Americans.",
+     "The study did not look at why exposure dropped, though the lead author points to growing awareness among clinicians and researchers. He stresses that roughly one-third of this group is still exposed. The team says medication reviews at routine appointments could help, along with tools such as the Drug Burden Index. They also describe 'deprescribing,' which means lowering a dose, stopping a drug, or switching to a milder option under medical supervision."
+    ],
+    "bigPicture": "Older adults now outnumber children under age 5 worldwide, and many people over 65 have at least two chronic conditions, so medication safety is likely to matter to more families. Because most of these patients have a regular source of care, the researchers say risky prescriptions could be spotted and addressed with their care team. It is not yet known whether better medication use will improve quality of life or reduce hospital and emergency room visits, so more research is needed. Anyone concerned about a medication should talk with a doctor or pharmacist before changing it.",
+    "source": "ScienceDaily",
+    "date": "2026-11-25T11:13:47.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm",
+    "originalTitle": "Common sleep and anxiety drugs could be harming aging brains"
+   },
    {
     "id": "medical-1795576806000-5",
     "headline": "FDA approves giredestrant, first new early-stage breast cancer hormone therapy in over 20 years",
@@ -67,6 +211,19 @@
     "date": "2026-11-24T23:20:01.000Z",
     "link": "https://medicalxpress.com/news/2026-11-fda-nelkarmi-alk-positive-small.html",
     "originalTitle": "FDA approves Nelkarmi for ALK-positive non-small cell lung cancer"
+   },
+   {
+    "id": "medical-1795556404000-17",
+    "headline": "Study in mice explains how an experimental antibody reversed type 1 diabetes",
+    "summary": [
+     "Researchers at UC Davis Health have worked out how an experimental antibody reverses type 1 diabetes in mice. In this condition, the immune system mistakenly attacks the insulin-producing beta cells in the pancreas, and people end up needing lifelong insulin. Most experimental treatments target T cells, but this team looked instead at the innate immune system, a less-studied part of the picture. Their results appear in the journal Diabetes.",
+     "Using a mouse model and single-cell sequencing, the team found that the antibody led to the creation of myeloid-derived suppressor cells, which help control inflammation. These cells moved to the pancreatic islet and dampened the immune activity that harms beta cells. The treatment relied on an anti-inflammatory molecule called interleukin-10; without it, these cells did not develop and the therapy stopped working. Soon after treatment, signs of stress inside beta cells also dropped sharply, which the researchers think may help restore normal blood sugar and protect beta-cell function."
+    ],
+    "bigPicture": "Most people are diagnosed with type 1 diabetes after damage to their beta cells has already happened, so treatments that can reverse the disease process are of real interest. Current treatments manage the condition but do not reverse the underlying autoimmune process. These findings point to immune pathways that might one day be targeted in people, though so far the work has only been done in mice and more research is needed before human studies can begin. The researchers also suggest that understanding these immune cells could possibly help with other autoimmune diseases, and future work will look at adapting the approach for people and whether similar mechanisms can be safely activated.",
+    "source": "Medical Xpress",
+    "date": "2026-11-24T21:40:04.000Z",
+    "link": "https://medicalxpress.com/news/2026-11-antibody-therapy-reverses-diabetes-mice.html",
+    "originalTitle": "How antibody therapy reverses type 1 diabetes in mice"
    },
    {
     "id": "medical-1795517864000-35",
@@ -136,6 +293,19 @@
   ],
   "technology": [
    {
+    "id": "technology-1795606801000-0",
+    "headline": "EU Unveils Quantum Act, Hoping to Avoid Repeating Its Mistakes on AI",
+    "summary": [
+     "The European Union is set to present plans on Wednesday that it says will turn the continent into a global leader in quantum computing. Officials worry Europe could fall behind again, since it already trails the United States and China in artificial intelligence. Quantum computing uses the physics of atoms and subatomic particles to solve certain problems much faster than ordinary computers. The EU says it wants to be a world leader in the field by 2030.",
+     "A draft of the proposed law, called the Quantum Act, was seen by AFP and could still change. It would give European companies priority for public money over firms from outside the EU, though public bodies could also buy from countries the EU has partnerships with. Tech chief Henna Virkkunen is due to present it in the European Parliament, and it will only become law after talks between EU states and Parliament. An EU official said the aim is to avoid making the same mistakes as with AI, by investing early and helping companies grow larger."
+    ],
+    "bigPicture": "Europe is already strong in quantum research but lags in turning it into commercial products, so this law is an attempt to close that gap. The EU points to possible benefits such as new drugs, earlier medical diagnoses, longer-lasting batteries and secure communications, and quantum might even speed up AI. There are also risks, since quantum technology could break the encryption that protects digital data. One industry voice said quantum could become the next AI, develop alongside it, or fail to gain enough uptake, depending on the rules, funding and government choices.",
+    "source": "Tech Xplore",
+    "date": "2026-11-25T11:40:01.000Z",
+    "link": "https://techxplore.com/news/2026-11-ai-eu-quantum-big.html",
+    "originalTitle": "After AI, EU bets on quantum as next big thing"
+   },
+   {
     "id": "technology-1795573778000-2",
     "headline": "Researchers Send a One-Word Message Through a Wall Using Changes in Gravity",
     "summary": [
@@ -160,6 +330,19 @@
     "date": "2026-11-24T21:20:16.000Z",
     "link": "https://techxplore.com/news/2026-11-georgia-waffle-house-cooling-energy.html",
     "originalTitle": "Georgia Waffle House cuts cooling energy use by 40% with new salt-based AC system"
+   },
+   {
+    "id": "technology-1795543207000-6",
+    "headline": "Space lasers send data fast, but clouds make them less reliable than radio",
+    "summary": [
+     "Spacecraft have talked to Earth by radio since Sputnik, but crowded and tightly regulated radio frequencies make it hard to expand capacity. Infrared lasers can carry far more data. A NASA demonstration called TBIRD sent 200 gigabits per second from orbit and moved five terabytes in one five-minute pass, though it had near-perfect conditions.",
+     "A paper by Dr. Slava Turyshev argues that reliability, not speed, is the main problem. A laser beam from low Earth orbit may cover a patch under 20 meters across, so keeping it aimed at a telescope is hard. Ground stations must also switch off uplink lasers when planes pass overhead. Turbulent air distorts the light, and thick clouds block it completely."
+    ],
+    "bigPicture": "The paper suggests that sharing ground stations among several satellite companies could make the costs more reasonable, especially if the stations stay busy at least half the time. Common standards from CCSDS and the U.S. Space Development Agency aim to let equipment from different suppliers work together. Turyshev sees little chance that lasers will replace radio soon. A hybrid setup could use lasers for large video and imagery downloads and radio for steering and emergencies, which might help keep astronauts and space systems connected in any weather.",
+    "source": "Tech Xplore",
+    "date": "2026-11-24T18:00:07.000Z",
+    "link": "https://techxplore.com/news/2026-11-space-lasers-fast-clouds.html",
+    "originalTitle": "Space lasers are fast, but clouds still rule the forecast"
    },
    {
     "id": "technology-1795534813000-11",
@@ -294,6 +477,32 @@
     "originalTitle": "Think you're anonymous online? AI can blow your cover"
    },
    {
+    "id": "ai-1795536015000-2",
+    "headline": "Study Says Common AI Buzzwords May Mislead the Public About What the Technology Does",
+    "summary": [
+     "Researchers at Simon Fraser University say the words the AI industry uses may be confusing people about how the technology works and what harm it can cause. In a study published in the journal AI and Ethics, they call this practice \"glosslighting.\" The term combines a glossary of words with gaslighting, meaning manipulating how people understand something. The authors argue that vague, abstract language helps shape public opinion, hide harms and avoid scrutiny.",
+     "The team gives a couple of examples. Saying data lives in \"the cloud\" skips over the large, energy-intensive data centers and server farms that store and process it. Calling a chatbot's false output a \"hallucination\" makes it sound humanlike and suggests a simple slip, rather than a systemic error a company should answer for. The study was led by assistant professor Nicholas Vincent, with computing science student Ayana Hussain and Ph.D. candidate Weina Jin. Vincent says most of their suggested alternative terms would make communication easier, though some may need extra explanation."
+    ],
+    "bigPicture": "The researchers say more precise wording could make AI companies more transparent and accountable. It could also challenge the idea that ever more powerful AI is inevitable. Vincent suggests that as shoppers become pickier, they may ask for clearer descriptions of what an AI product actually is. If that happens, it could encourage plainer language, but the study does not say whether the industry will change how it talks.",
+    "source": "Tech Xplore",
+    "date": "2026-11-24T16:00:15.000Z",
+    "link": "https://techxplore.com/news/2026-11-glosslighting-overhaul-industry-ai-buzzwords.html",
+    "originalTitle": "'Glosslighting' the public: Study calls for overhaul of industry-led AI buzzwords"
+   },
+   {
+    "id": "ai-1795527601000-4",
+    "headline": "Study of Sierra Leone teachers suggests chatbots could be a cheaper route to information than web search",
+    "summary": [
+     "Researchers studied how teachers in Sierra Leone used an AI chatbot called theTeacher.AI, which works inside WhatsApp like any other contact. More than 500 teachers were trained to use it, and over 100 of them answered a survey. The idea behind the study is that although mobile phones are common in Africa, only 37% of people there use the internet. Many of those who do go online prefer social networking apps to search engines, partly because search results lead to large foreign websites that use up costly data.",
+     "Among the teachers surveyed, 77% said they used the chatbot for information about teaching, 69% used books and 37% used the internet. Almost 70% of the questions they asked were for facts or concepts, a common use of search engines elsewhere. The authors calculated that an average web page needs 718 times more data to load than an AI response, which makes the chatbot 98% cheaper, even when computing costs are included. Use of the tool did fall over time, though. Across all trained teachers, the share using it dropped from 62% in the first month to 19% in the 17th month, which suggests the first version may not have been useful over the long term for most of them."
+    ],
+    "bigPicture": "Where data is scarce and expensive, a chatbot that needs far less bandwidth than a web page could be a practical way to get information. The findings hint that some regions might rely on AI tools instead of traditional web search, as some places skipped older technologies before. The steep drop in use over 17 months shows that low cost alone may not keep people engaged. Whether tools like this become lasting resources could depend on how well they meet users' needs over time.",
+    "source": "Tech Xplore",
+    "date": "2026-11-24T13:40:01.000Z",
+    "link": "https://techxplore.com/news/2026-11-chatbots-leapfrog-web-saharan-africa.html",
+    "originalTitle": "Chatbots may leapfrog web search in sub-Saharan Africa"
+   },
+   {
     "id": "ai-1795468500000-5",
     "headline": "MIT Study Suggests Brains May Process Many Languages in a Similar Way",
     "summary": [
@@ -425,6 +634,19 @@
    }
   ],
   "ourworld": [
+   {
+    "id": "ourworld-1795606804000-0",
+    "headline": "California Prepares for Flooding as Very High Tides Meet El Niño Storms",
+    "summary": [
+     "Californians are getting ready for a combination of unusually high tides and El Niño-driven weather during Thanksgiving week, the busiest travel week of the year in the U.S. Forecasters said seawater could spill into low-lying parts of the San Francisco Bay Area on Wednesday and Thursday. The National Weather Service's Dial Hoang said flooding could reach nearly 3 feet (0.9 meters) at the Wednesday peak, and that this year's tides are expected to be the highest since January 1983.",
+     "The weather service also warned of dangerous breaking waves of up to 30 feet (9 meters) on Wednesday, with hazardous beach conditions lasting through Sunday. San Francisco International Airport officials said its runways are no longer at risk of flooding, but authorities still encouraged residents to rethink holiday travel. Mayor Daniel Lurie called the situation \"extremely serious\" and urged people not to drive through floodwaters. He also noted that strong winds could bring down trees and that waterfront streets can flood even with little rain."
+    ],
+    "bigPicture": "King tides happen every year because of the positions of the Earth, moon and sun, and more are expected in December and January. This year the ocean is also warmer than usual, which makes it expand, and that can add to flood risk when tides are high. A coastal oceanographer said the last time tides this high met El Niño storms, the damage ran to hundreds of millions of dollars. The state may fare better this time thanks to storm preparation and infrastructure improvements, though risks remain, and the coming months could show how well those measures hold up.",
+    "source": "Phys.org",
+    "date": "2026-11-25T11:40:04.000Z",
+    "link": "https://phys.org/news/2026-11-california-braces-threat-huge-tides.html",
+    "originalTitle": "California braces for flooding threat from huge tides, El Niño"
+   },
    {
     "id": "ourworld-1795605877000-1",
     "headline": "China Sends First Foreign Astronaut, from Pakistan, to Its Space Station on Shenzhou 24",
@@ -569,6 +791,19 @@
     "originalTitle": "Earth's next ice age may have already begun. Global warming stopped it"
    },
    {
+    "id": "ourworld-1795472401000-31",
+    "headline": "Webb's dust map of Cassiopeia A hints at a star's layers mixing before it exploded",
+    "summary": [
+     "NASA's James Webb Space Telescope has produced a detailed mid-infrared view of Cassiopeia A, a well-known supernova remnant. A remnant is the cloud of gas and dust left behind when a massive star explodes. The new data suggests that the inside of the star changed dramatically, possibly only hours before it died. The findings were published in The Astrophysical Journal Letters.",
+     "Stars build up layers of different elements as they age, with heavier elements fusing deeper inside. When a star explodes, those elements are scattered and some turn into dust grains. By mapping the makeup of solar-system-sized dust clumps, researchers found signs of a \"shell merger,\" in which layers inside the star mix before the explosion. The team used earlier data from the Spitzer Space Telescope to choose three regions to study. Two lay in a region where an inward-moving shock wave meets debris thrown outward by the blast. One was mostly silica dust and the other mostly carbon dust. The third, called the Green Monster, is rich in magnesium silicates and came from material the star shed before exploding."
+    ],
+    "bigPicture": "Reading a star's final hours from dust that has been drifting for hundreds of years gives astronomers a new way to study how massive stars are built. One of the researchers said this understanding is essential for explaining which elements a supernova releases into the galaxy and how they enrich future stars and planets. The study also offers a method that other astronomers could use on different supernova remnants. If it works elsewhere, it might help show how common these late-stage mixing events are, though that remains to be seen.",
+    "source": "Phys.org",
+    "date": "2026-11-23T22:20:01.000Z",
+    "link": "https://phys.org/news/2026-11-webb-evidence-star-layers-merged.html",
+    "originalTitle": "Webb finds evidence star's layers may have merged just hours before Cas A supernova"
+   },
+   {
     "id": "ourworld-1795467001000-38",
     "headline": "Strong El Niño expected to worsen heat and drought in parts of Africa",
     "summary": [
@@ -584,6 +819,19 @@
   ],
   "wellbeing": [
    {
+    "id": "wellbeing-1795603980000-0",
+    "headline": "Small daily doses of peppermint oil linked to lower blood pressure in small study",
+    "summary": [
+     "Researchers at the University of Lancashire tested whether peppermint oil could help people with mildly raised blood pressure. They recruited 40 adults aged 18 to 65 who had elevated blood pressure or stage 1 hypertension, an early stage of high blood pressure. Participants were randomly placed in one of two groups.",
+     "One group took 100 microliters of food-grade peppermint oil a day, about a tenth of a milliliter, split into two doses mixed with water. The other group took a peppermint-flavored placebo without the active compounds. After 20 days, the top number (systolic) in the peppermint group fell from roughly 130 to 122 mmHg, while the placebo group stayed almost the same. After accounting for starting levels, the peppermint group averaged 8.5 mmHg lower. The study appeared in PLOS One."
+    ],
+    "bigPicture": "High blood pressure is a major risk factor for heart disease, and the researchers suggest peppermint oil might one day become a simple, low-cost, well-tolerated option. That remains a possibility, not a conclusion: the study was small and lasted under three weeks. Larger and longer trials are needed to see whether the effect lasts and whether peppermint oil could work alongside existing treatments. The researchers stress that people should not use it to replace prescribed medication, or swallow essential oils not made for oral use.",
+    "source": "ScienceDaily",
+    "date": "2026-11-25T10:53:00.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261123231553.htm",
+    "originalTitle": "Peppermint oil significantly lowers blood pressure in just 20 days"
+   },
+   {
     "id": "wellbeing-1795579919000-1",
     "headline": "Brain scans reveal three biological patterns that cut across ADHD and anxiety diagnoses",
     "summary": [
@@ -595,6 +843,19 @@
     "date": "2026-11-25T04:11:59.000Z",
     "link": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
     "originalTitle": "Stanford scientists discover 3 hidden brain types behind ADHD and anxiety"
+   },
+   {
+    "id": "wellbeing-1795434917000-2",
+    "headline": "Japanese team tests light-activated egg antibodies to target gum disease bacteria",
+    "summary": [
+     "Researchers at Nagoya University in Japan have developed an experimental gum disease treatment that aims at one harmful bacterium, Porphyromonas gingivalis, and leaves helpful mouth microbes alone. The method pairs antibodies from the egg yolks of hens immunized against the bacterium with a light-sensitive dye. When near-infrared light is shone on the area, the dye activates and damages the bacteria it has attached to. The work was published in the Journal of Translational Medicine.",
+     "In lab tests, the treatment attached only to P. gingivalis and did not affect other bacteria or healthy human gum cells. Standard antimicrobial light therapy, by comparison, damaged gum cells and slowed healing. In mice with periodontitis, the new approach significantly reduced loss of the jawbone that supports teeth. It also lowered P. gingivalis while preserving helpful Streptococcus bacteria, whereas antibiotics and standard light therapy removed both good and bad bacteria."
+    ],
+    "bigPicture": "Periodontitis can loosen teeth and eventually cause tooth loss, so gentler, more precise treatments are of real interest. These results come only from human cell cultures and mice, and the researchers note that gum disease involves several bacterial species, so targeting one may not be enough for every case. The team plans to use artificial intelligence to look for other bacteria that could be targeted. Because gum disease has been linked to conditions such as rheumatoid arthritis and diabetes, they suggest this research could eventually help identify which patients might benefit from particular treatments.",
+    "source": "ScienceDaily",
+    "date": "2026-11-23T11:55:17.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
+    "originalTitle": "New gum disease treatment kills bad bacteria while sparing the good"
    },
    {
     "id": "wellbeing-1795399330000-2",
