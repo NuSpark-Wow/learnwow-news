@@ -64,7 +64,8 @@ const CATEGORIES = [
     guide: "Well-Being: mental health, stress, sleep, nutrition, fitness, healthy habits and everyday wellness. Not hospital treatments or drug research.",
     feeds: [
       { url: "https://www.sciencedaily.com/rss/mind_brain.xml", source: "ScienceDaily" },
-      { url: "https://medicalxpress.com/rss-feed/psychology-psychiatry-news/", source: "Medical Xpress" },
+      { url: "https://www.sciencedaily.com/rss/mind_brain/mental_health.xml", source: "ScienceDaily" },
+      { url: "https://www.sciencedaily.com/rss/top/health.xml", source: "ScienceDaily" },
       { url: "https://www.sciencedaily.com/rss/health_medicine/nutrition.xml", source: "ScienceDaily" },
       { url: "https://www.sciencedaily.com/rss/health_medicine/fitness.xml", source: "ScienceDaily" },
     ],
@@ -138,6 +139,7 @@ async function claude(prompt, maxTokens = 1200) {
 }
 function json(text) {
   const a = text.indexOf("{"), b = text.lastIndexOf("}");
+  if (a < 0 || b <= a) throw new Error("AI reply was not complete JSON");
   return JSON.parse(text.slice(a, b + 1));
 }
 const key = (t) => t.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
@@ -185,8 +187,12 @@ async function main() {
         `Button: ${cat.name}. What belongs here: ${cat.guide}\n\n` +
         `Pick up to ${want} stories from the list that best fit this button and are the most significant or fascinating for a general national audience. ` +
         `Pick distinct stories (no two about the same thing). Skip local-only items, minor product promos, funding announcements, and anything graphic.\n\n` +
-        `${list}\n\nReply with JSON only: {"picks":[numbers]}`, 200);
-      const picks = [...new Set((json(pickText).picks || []).map(Number))].filter((n) => items[n]).slice(0, want);
+        `${list}\n\nReply with ONLY this JSON and nothing else, no explanation: {"picks":[numbers]}`, 800);
+      let nums;
+      try { nums = json(pickText).picks || []; }
+      catch { const m = pickText.match(/"picks"\s*:\s*\[([^\]]*)/); nums = m ? m[1].split(",") : []; }
+      const picks = [...new Set(nums.map((x) => parseInt(x, 10)))].filter((n) => items[n]).slice(0, want);
+      console.log(`  picked ${picks.length}`);
 
       for (const n of picks) {
         const it = items[n];
@@ -201,7 +207,7 @@ async function main() {
           `"summary":["paragraph 1 (3-4 sentences)","optional paragraph 2 (2-4 sentences)"],` +
           `"bigPicture":"one paragraph (3-4 sentences): why this matters and what it could lead to. Frame possibilities as possibilities, never as facts."}\n\n` +
           `MATERIAL\nTitle: ${it.title}\nSource: ${it.source}\nPublished: ${it.date}\nFeed summary: ${it.desc}\nArticle text:\n${body || "(not available — use the feed summary only)"}`,
-          1200));
+          2000));
         if (!out.headline || !Array.isArray(out.summary) || !out.summary.length) continue;
         existing.push({
           id: `${cat.id}-${Date.parse(it.date)}-${n}`,
