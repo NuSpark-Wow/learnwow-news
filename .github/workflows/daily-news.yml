@@ -1,0 +1,28 @@
+name: Daily News Update
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Build the last 7 days of news
+        run: node build-news.mjs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      - name: Save news.json
+        run: |
+          git config user.name "learnwow-news-bot"
+          git config user.email "actions@github.com"
+          git add news.json
+          git diff --staged --quiet || (git commit -m "Daily news update" && git push)
