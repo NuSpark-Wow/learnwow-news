@@ -111,7 +111,9 @@ function dayLabel(iso) {
 const shortDate = (iso) => new Date(iso).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
 
 function sendHeight() {
-  try { parent.postMessage({ lwNewsHeight: document.documentElement.scrollHeight }, "*"); } catch (e) {}
+  // measure the content itself (not the frame), so the box shrinks back when a window closes
+  const h = Math.ceil(document.querySelector(".wrap").getBoundingClientRect().height);
+  try { parent.postMessage({ lwNewsHeight: h }, "*"); } catch (e) {}
 }
 
 function render() {
