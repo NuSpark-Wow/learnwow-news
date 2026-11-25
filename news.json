@@ -1,1 +1,666 @@
-{"updated":null,"categories":{}}
+{
+ "updated": "2026-11-25T11:24:48.170Z",
+ "categories": {
+  "science": [],
+  "medical": [
+   {
+    "id": "medical-1795576806000-5",
+    "headline": "FDA approves giredestrant, first new early-stage breast cancer hormone therapy in over 20 years",
+    "summary": [
+     "The FDA has approved giredestrant, a once-daily pill for early-stage breast cancer. It is the first new hormone therapy for this stage of the disease in more than two decades. The approval covers estrogen receptor-positive (ER+) cancer, which accounts for about 70% of all breast cancer diagnoses. The drug targets and breaks down estrogen receptors in breast tissue, cutting off the hormone that remaining cancer cells need to grow.",
+     "After surgery, patients usually take daily hormone-blocking pills for up to 10 years to help keep the cancer from returning. The article notes that the side effects of standard treatments are often harsh, and many women stop taking them early, which raises their risk of relapse. In the lidERA trial, reported in the Journal of Clinical Oncology, giredestrant improved disease-free survival and lowered the risk of cancer spreading to other organs. It was also better tolerated than standard therapy, and the benefits were seen in both premenopausal and postmenopausal women. Two oncologists quoted in the article described the approval as practice-changing."
+    ],
+    "bigPicture": "Hormone therapy only works if people can keep taking it, so a treatment that is easier to tolerate could matter a great deal to patients and their care teams. If giredestrant proves as effective and manageable in everyday use as it did in the trial, more women might stay on treatment for the full course, which could lower the chance of the cancer coming back. The approval may also change what doctors consider standard care for early-stage ER+ breast cancer. Individual patients would still need to talk with their own doctors about which option suits them.",
+    "source": "Medical Xpress",
+    "date": "2026-11-25T03:20:06.000Z",
+    "link": "https://medicalxpress.com/news/2026-11-early-stage-breast-cancer-gains.html",
+    "originalTitle": "Early-stage breast cancer gains first newly approved hormone therapy in more than 20 years"
+   },
+   {
+    "id": "medical-1795568983000-9",
+    "headline": "Gut antibody IgA may help guard against colon cancer in mice, study finds",
+    "summary": [
+     "Researchers at Rockefeller University report that immunoglobulin A (IgA), an antibody found in large amounts in the digestive tract, may help protect against colon cancer. In a study published in Nature, mice that could not make IgA developed more than twice as many colon tumors as mice with normal levels. The pattern held across several different mouse models of colon cancer, which the team described as a convincing effect.",
+     "The scientists also looked at how this protection might work. Cells lining the intestine constantly divide to replace old or damaged ones, and IgA appears to keep that process in check. It binds to a receptor on those cells called DMBT1. When bacteria are present, DMBT1 sends signals that encourage cells to divide, and IgA acts like a brake on that activity. Without IgA, cells divided faster than they should, and changes in gene activity linked to cell growth showed up before any tumors could be seen."
+    ],
+    "bigPicture": "People with IgA deficiency, which affects about 1 in 500 people in the U.S., are known to face a higher risk of colorectal cancer, and this work may help explain why. The findings also add to our understanding of how gut bacteria, immune defenses and intestinal cells interact, possibly even in people whose immune systems are otherwise healthy. The results come from mice, so it is not yet known whether the same approach would work in people. Still, the senior author raises the possibility of stepping in before tumors form, rather than only treating cancers that already exist.",
+    "source": "ScienceDaily",
+    "date": "2026-11-25T01:09:43.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261123005348.htm",
+    "originalTitle": "Scientists discover a hidden gut defense that could prevent colon cancer"
+   },
+   {
+    "id": "medical-1795566006000-12",
+    "headline": "FDA approves two-drug combination for advanced GIST after imatinib stops working",
+    "summary": [
+     "The U.S. Food and Drug Administration has approved bezuclastinib, taken together with sunitinib, as a second-line treatment for adults with advanced gastrointestinal stromal tumors (GIST). It is meant for people who have already been treated with imatinib. The decision rests on the phase 3 PEAK study, which was led by Dana-Farber Cancer Institute.",
+     "PEAK enrolled 413 patients with advanced GIST who had previously received imatinib. They were randomly assigned to receive either the two-drug combination or sunitinib alone. The combination cut the risk of the cancer progressing or of death by 50%, and the share of patients whose tumors responded rose from 26% to 46%. Patients tolerated the combination well. One of the study's experts said it replaces sunitinib alone, which has been the standard for about 20 years."
+    ],
+    "bigPicture": "GIST is diagnosed in roughly 4,000 to 5,000 people in the U.S. each year, and drugs that block the KIT gene mutation have helped many of them. Tumors often become resistant, usually by picking up additional KIT mutations. Bezuclastinib targets common mutations of this kind, and the PEAK results support the idea that blocking a wider range of KIT mutations can lead to better and longer-lasting results than a single drug. This could mean more options for people whose first treatment stops working, though the material does not say how patients will fare over the long term.",
+    "source": "Medical Xpress",
+    "date": "2026-11-25T00:20:06.000Z",
+    "link": "https://medicalxpress.com/news/2026-11-fda-bezuclastinib-combination-sunitinib-line.html",
+    "originalTitle": "FDA approves bezuclastinib in combination with sunitinib as new second-line therapy for patients with GIST"
+   },
+   {
+    "id": "medical-1795563112000-15",
+    "headline": "Experimental nose drops improve memory in aging and Alzheimer's-model mice, early study finds",
+    "summary": [
+     "Researchers at the University of Sydney have developed experimental nose drops that improved learning and memory in older mice. The treated animals performed about as well as young mice on tests of working memory, spatial memory and object recognition. Untreated older mice showed the usual age-related decline. The study was published in Advanced Science and led by Professor Greg Neely.",
+     "The drops deliver mRNA, a set of genetic instructions, inside tiny fat-based particles. The mRNA tells cells to make brain-derived neurotrophic factor (BDNF), a natural protein that helps neurons survive and form connections. BDNF levels tend to fall with age and are linked to Alzheimer's disease. The approach builds on the same kind of mRNA technology used in COVID-19 vaccines."
+    ],
+    "bigPicture": "Getting medicines into the brain is difficult because the blood-brain barrier blocks many drugs. The nose may offer a non-invasive route around it, though this has so far been shown only in mice. If the results hold up in people, the approach might one day be used alongside treatments that clear amyloid plaques. It could also be explored for other conditions such as stroke or traumatic brain injury. Professor Neely said human clinical trials would be the next step, and the work is described as a proof of concept.",
+    "source": "ScienceDaily",
+    "date": "2026-11-24T23:31:52.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+    "originalTitle": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice"
+   },
+   {
+    "id": "medical-1795562401000-16",
+    "headline": "FDA Grants Accelerated Approval to Nelkarmi for Previously Treated ALK-Positive Lung Cancer",
+    "summary": [
+     "The U.S. Food and Drug Administration has given accelerated approval to Nelkarmi (neladalkib), a kinase inhibitor, for adults with a specific kind of lung cancer. It is meant for people whose non-small cell lung cancer is ALK-positive and either locally advanced or metastatic, and who have already received treatment. The approval went to the companies Nuvalent and GSK. It covers patients who have previously taken alectinib as their only ALK inhibitor, or who have taken two or more ALK inhibitors along with platinum-based chemotherapy.",
+     "The decision rests on the Phase I/II ALKOVE-1 trial, which had 700 participants, with 222 patients in the main efficacy analysis. Among those treated only with alectinib before, 49% (33 of 67) had a confirmed response, and 52% of responders kept that response for at least 12 months. Among those who had two or more ALK inhibitors plus chemotherapy, 32% (50 of 155) responded, and 51% of responders held their response for at least 12 months. Common side effects, each affecting at least 20% of patients, included liver toxicity, musculoskeletal pain, constipation, altered taste, nerve problems in the hands and feet, swelling and fatigue. Five percent of patients stopped treatment permanently because of side effects, most often liver problems."
+    ],
+    "bigPicture": "People with ALK-positive lung cancer often move through several treatments over time, so having another option after earlier therapies matters. A representative of the patient group ALK Positive described the approval as important progress, noting that patients need treatments that control disease for a long time while still being tolerable. Because this is an accelerated approval, more evidence may be needed to learn how well the drug works over the long run. Families facing this diagnosis may want to talk with their care team about whether this therapy could suit their situation.",
+    "source": "Medical Xpress",
+    "date": "2026-11-24T23:20:01.000Z",
+    "link": "https://medicalxpress.com/news/2026-11-fda-nelkarmi-alk-positive-small.html",
+    "originalTitle": "FDA approves Nelkarmi for ALK-positive non-small cell lung cancer"
+   },
+   {
+    "id": "medical-1795517864000-35",
+    "headline": "Cannabis users tend to develop psychosis earlier, and the gap widens with age",
+    "summary": [
+     "A large analysis from UNSW Sydney, published in Biological Psychiatry, found that people who use cannabis have their first episode of psychosis about two and a half years earlier, on average, than people who do not. The researchers pooled 149 studies with more than 71,000 participants. Most of the studies were done since 2011 in Europe, North America and Australia, and most focused on people diagnosed with schizophrenia.",
+     "The gap grew with age. In studies where psychosis began at an average age of 20 to 24, users were affected about 1.6 years sooner. For ages 25 to 29 the gap was 4.43 years, and for onset at 30 or later it was 6.3 years. The analysis did not find a statistically significant difference among teenagers, but the researchers said this does not mean teens are safe. Psychosis rarely starts before the mid-teens, so there is little room for onset to move earlier, and other risk factors may hide any cannabis effect."
+    ],
+    "bigPicture": "The study relied on existing observational research, so it cannot prove that cannabis causes psychosis or brings it on sooner. Even so, the authors say the consistent pattern, especially the large gap in older adults who may have used cannabis for longer, supports a possible causal role. They suggest it may be worth widening health warnings beyond adolescents, since the idea that waiting until the mid-20s is enough may not hold up. Because psychosis can disrupt study, work and relationships, the researchers say delaying it even by a few years could possibly help people reach those milestones and might also ease pressure on healthcare systems.",
+    "source": "ScienceDaily",
+    "date": "2026-11-24T10:57:44.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261123005346.htm",
+    "originalTitle": "Cannabis users develop psychosis years earlier, and the gap grows with age"
+   },
+   {
+    "id": "medical-1795517271000-36",
+    "headline": "Researchers identify 'circadian depression,' a subtype tied to the body clock that SSRIs may not help",
+    "summary": [
+     "Researchers at the University of Sydney have described what they believe is a new subtype of depression, which they call circadian depression. It appears to be closely linked to the body's 24-hour internal clock, which helps control when we feel awake and when we feel sleepy. The team looked at clinical and genetic information from more than 10,000 Australians with depression. They found that nearly one in four of them, 2,604 people, showed signs of this subtype. The study focused on people with severe, recurrent or persistent depression, and the results were published in the British Journal of Psychiatry.",
+     "People with this subtype were more likely to be night owls, to sleep longer when depressed, and to wake up exhausted even after more time in bed. Their depression often began earlier in life, their symptoms tended to be more severe, and their genetic data showed a higher predisposition to inflammatory and cardiovascular problems and to neurodevelopmental conditions such as ADHD. The researchers also found that common antidepressants such as SSRIs and SNRIs tended to work less well for them and caused more side effects. Treatments aimed at the body clock, including light therapy, melatonin and antidepressants that target melatonin pathways, may be more suitable. The researchers advise anyone whose antidepressants are not working to talk with their clinician about their own situation."
+    ],
+    "bigPicture": "Depression is not one uniform illness, and this work adds to the evidence that different biological mechanisms can lie behind similar symptoms. If the findings hold up, doctors may be able to recognize this subtype sooner and offer treatments better matched to it, rather than starting everyone on the same medication. The researchers say this could be especially helpful for young people, who might otherwise spend valuable time on treatments that suit them less well. The study describes a pattern in a group of people, so it does not mean anyone should change their treatment without medical advice.",
+    "source": "ScienceDaily",
+    "date": "2026-11-24T10:47:51.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
+    "originalTitle": "Scientists discover a new type of depression that common antidepressants struggle to treat"
+   },
+   {
+    "id": "medical-1795480263000-37",
+    "headline": "Rising Tau Protein Linked to Worsening Depression in Older Adults With Normal Memory",
+    "summary": [
+     "Scientists have found a link between a protein tied to Alzheimer's disease and growing depressive symptoms in older adults. The protein, called tau, builds up in the brain, and researchers tracked it using several brain scans. Participants also filled out questionnaires about their mood at different points during the study. The data came from the Alzheimer's Disease Neuroimaging Initiative, which follows brain health over time.",
+     "Among people whose memory and thinking were still normal, faster tau buildup went along with a faster rise in depressive symptoms. Higher tau levels also helped predict more severe symptoms. The same pattern did not appear in people who already had mild cognitive impairment or Alzheimer's disease. The study, led by Teodora Markova of Brandeis University, was published in JNeurosci."
+    ],
+    "bigPicture": "Mood changes in later life may reflect what is happening in the brain before memory problems show up. In the future, tracking depressive symptoms over time, along with other assessments, could possibly help identify older adults at higher risk of neurodegenerative disease. The researchers stress that more work is needed to know whether early mood changes can reliably predict later cognitive decline. They plan to follow people over longer periods to see how tau, mood, and later outcomes fit together.",
+    "source": "ScienceDaily",
+    "date": "2026-11-24T00:31:03.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261121221134.htm",
+    "originalTitle": "Depression may be an early warning sign of Alzheimer's disease"
+   },
+   {
+    "id": "medical-1795429567000-40",
+    "headline": "Study finds acute myeloid leukemia can start taking shape decades before diagnosis",
+    "summary": [
+     "Researchers from the University of Cambridge and University College London have reconstructed how acute myeloid leukemia (AML), an aggressive blood cancer, develops over a lifetime. Their study, published in Nature, found that in two-thirds of the cases examined, the first cancer-driving mutation likely arose before the person turned 20. The disease can therefore be building for more than 50 years before it is diagnosed.",
+     "The team used stored yearly blood samples from a large ovarian cancer screening trial. They studied 47 women who later developed AML, whose average age at diagnosis was 72, and compared them with 46 similar women who stayed free of blood cancer. Using sensitive DNA sequencing and mathematical models, they worked backward to estimate when mutations appeared and how fast the affected cells grew."
+    ],
+    "bigPicture": "AML often seems to appear with little warning, and survival is poor: only about one in six patients lives at least five years after diagnosis. If growth rates can be measured from a few blood samples, doctors might one day be able to estimate who is at greatest risk years ahead of time. The researchers also suggest that slowing the growth of a high-risk clone over a decade or more could lower the chance it becomes leukemia, though this is still a possibility rather than a proven treatment. Most people with these blood-cell mutations never develop AML, so better ways to tell who is at risk could matter a great deal.",
+    "source": "ScienceDaily",
+    "date": "2026-11-23T10:26:07.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261121221122.htm",
+    "originalTitle": "Scientists discover that leukemia can begin developing 50 years before diagnosis"
+   },
+   {
+    "id": "medical-1795396577000-42",
+    "headline": "U.S. Loses Measles Elimination Status as Survey Finds Widespread Confusion About Vaccines",
+    "summary": [
+     "The Pan American Health Organization confirmed on Nov. 17, 2026, that the United States no longer qualifies as having eliminated measles. The country first earned that status in 2000, which meant no strain of the virus had spread continuously for 12 months or longer. The change comes during the nation's worst measles resurgence in decades. The CDC counted 5,412 confirmed cases in 2026 as of Nov. 12, more than double the 2,290 reported in all of 2025.",
+     "A new Annenberg Public Policy Center survey of 1,028 U.S. adults, taken Nov. 6-8, 2026, found many people are unsure about measles and its vaccine. About 64% correctly rejected the claim that childhood vaccines cause autism, while 17% believed it and 19% did not know. Research has found no evidence of a link, and the World Health Organization's vaccine safety committee reaffirmed this in 2025. Only 9% knew that about 1 in 1,000 infected children die from measles, and just 34% knew two vaccine doses are recommended. The CDC says one dose gives 93% protection and two doses give 97%."
+    ],
+    "bigPicture": "Losing elimination status shows how falling vaccination rates can have national consequences, according to the survey's lead researcher, Kathleen Hall Jamieson. Earlier Annenberg research found that people who accept false vaccine claims are less likely to recommend the MMR vaccine to others, so confusion may influence real decisions. Clearer public information about the risks of measles and the recommended two-dose schedule could help families make informed choices. Whether case numbers fall and the status is regained will depend on future vaccination levels and how the disease spreads.",
+    "source": "ScienceDaily",
+    "date": "2026-11-23T01:16:17.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261122060323.htm",
+    "originalTitle": "U.S. loses measles elimination status after 25 years as vaccine myths persist"
+   }
+  ],
+  "technology": [
+   {
+    "id": "technology-1795573778000-2",
+    "headline": "Researchers Send a One-Word Message Through a Wall Using Changes in Gravity",
+    "summary": [
+     "Researchers at the University of Queensland have shown that information can be sent through a solid wall using gravity instead of radio waves. In the university's Parnell Building, they repeatedly moved an old elevator between two floors. This shifted its 1.8-metric-ton counterweight between two positions, and each position stood for a 0 or a 1.",
+     "On the other side of a brick wall, a very sensitive instrument called a gravimeter sat in a bathroom. It picked up the tiny changes in gravitational pull caused by the moving counterweight. By decoding those readings, the team recovered the word \"Gravity.\" The idea grew out of earlier work on a contactless weighbridge, which aims to find the weight of trucks by measuring their tiny gravitational pull."
+    ],
+    "bigPicture": "Ordinary materials can weaken or block radio and Wi-Fi signals, but they do not screen out gravitational fields. That is why this approach is of interest, even though the researchers describe the current system as far from practical. Speed would depend on the size of the mass, how fast it can be moved, and how sensitive the detector is. If better sensors were developed, gravity-based messaging might one day be useful where conventional signals cannot get through, but that remains a possibility rather than a certainty.",
+    "source": "ScienceDaily",
+    "date": "2026-11-25T02:29:38.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
+    "originalTitle": "Physicists just sent an unblockable message through a brick wall using gravity"
+   },
+   {
+    "id": "technology-1795555216000-3",
+    "headline": "Salt-Based Air Conditioner Cuts Energy Use 40% in Georgia Waffle House Test",
+    "summary": [
+     "In July 2025, technicians installed a new kind of air conditioner at a Waffle House in Macon, Georgia, where outdoor temperatures were around 92 degrees Fahrenheit (33 degrees Celsius). The system was co-invented by researchers at the National Laboratory of the Rockies and a startup called Blue Frontier. It was the first real-world pilot of the design. According to the article, the kitchen cooks noticed the difference within minutes and said it was the first time they weren't sweating in the middle of summer.",
+     "The pilot used 40% less energy than the building's earlier air conditioner and cut operating costs by 65%. Power use during peak grid hours, when electricity costs the most, dropped by 89%. The system uses a salt-based liquid to pull moisture from the air, then cools the dried air through evaporative cooling. Because dehumidifying takes up more than half of an air conditioner's energy, handling it separately is a big part of the savings. The system can also be recharged, like a battery, by restoring its salt solution at times when electricity is cheap."
+    ],
+    "bigPicture": "Air conditioning often creates the highest peaks of electricity demand, which can strain power grids. A system that uses less power overall and shifts when it draws electricity could, in theory, help ease that strain and lower costs for the businesses that run it. This was a single pilot at one restaurant, so it is not yet clear how the results would hold up in other buildings or climates. If the approach does scale, it could become one way to keep spaces comfortable during hot weather while reducing pressure on the grid.",
+    "source": "Tech Xplore",
+    "date": "2026-11-24T21:20:16.000Z",
+    "link": "https://techxplore.com/news/2026-11-georgia-waffle-house-cooling-energy.html",
+    "originalTitle": "Georgia Waffle House cuts cooling energy use by 40% with new salt-based AC system"
+   },
+   {
+    "id": "technology-1795534813000-11",
+    "headline": "Korean Team's Thin Lens Brings Clearer Daytime Images to AR Glasses",
+    "summary": [
+     "Augmented reality (AR) glasses place information such as directions or text over the scene in front of the wearer. A research team led by Professor Junsuk Rho of POSTECH, working with Samsung Research, has developed a way to cut down on wasted light inside the thin lens of such glasses. Much of the dimming in current designs comes from light escaping in unintended directions. Because the wasted light is reduced, the images stay brighter, even when the wearer's eye moves.",
+     "The team studied the whole path that light takes through the lens and designed it with great precision at a tiny scale. To handle color, they stacked one layer that mainly passes blue and green light on top of another that mainly passes red and green. This helped even out how efficiently each color reaches the eye. The finished waveguide is 1.5 mm thick. In prototype glasses, it showed white text over real outdoor scenery in bright conditions and color images indoors. The images stayed visible when the eye shifted within a certain range."
+    ],
+    "bigPicture": "For AR glasses to work in daily life, they need to be thin and light like ordinary eyeglasses and still show clear images in bright places. This research suggests that using light more efficiently could help with both goals. The researchers expect the approach could lead to everyday glasses that show directions or work information, and it might also lower power use while keeping the screen bright. Several technical problems remain, so how soon such glasses could appear is still unknown.",
+    "source": "Tech Xplore",
+    "date": "2026-11-24T15:40:13.000Z",
+    "link": "https://techxplore.com/news/2026-11-thin-lenses-images-bright-daylight.html",
+    "originalTitle": "Thin lenses, clear images in bright daylight: A step toward everyday AR glasses"
+   },
+   {
+    "id": "technology-1795533606000-12",
+    "headline": "Rewritable display built on antimony selenide can hold an image for months without power",
+    "summary": [
+     "Researchers at the ARC Centre of Excellence for Transformative Meta-Optical Systems (TMOS) report a reflective display, made with a material called antimony selenide, that can keep an image on screen for months without being powered. Phones, laptops and televisions need a constant supply of power to keep showing a picture. The team, from RMIT and the Australian National University, says its approach could lead to much lower energy use. In one test, an image of a koala was left for three months in ordinary conditions with no noticeable change.",
+     "The material is a phase-change material, meaning its atoms can be rearranged again and again between an irregular (amorphous) state and an orderly (crystalline) one. To erase the screen, the researchers heated it evenly to about 200°C, which resets it to a blank image. To draw, they used short laser pulses that cool quickly and lock the atoms into the irregular state, creating different colored regions. A map of Australia, the TMOS logo and a koala were drawn and erased, and no leftover image was visible even under a 5× microscope. So far the colors range from deep blues through grays to oranges, which lead researcher Dr. Phuong Yen Le describes as a limited range."
+    ],
+    "bigPicture": "If this approach can be developed further, it might lead to displays that use very little energy because they only need power when the image changes. Two big steps remain, according to Le: the current version relies on a laser, and it would need to become a fully electronic device. The color range would also need to widen, which may require changing the device's structure. Whether it can become a commercial product is still an open question.",
+    "source": "Tech Xplore",
+    "date": "2026-11-24T15:20:06.000Z",
+    "link": "https://techxplore.com/news/2026-11-rewritable-displays-image-months-power.html",
+    "originalTitle": "New rewritable displays can show an image for months without power"
+   },
+   {
+    "id": "technology-1795495572000-21",
+    "headline": "IBM and University of Chicago Quantum Computer Completes Hard Task With Verified Results",
+    "summary": [
+     "Researchers at IBM and the University of Chicago report that an IBM quantum computer finished an extremely complex calculation in about 15 minutes. They say the leading ways of simulating that calculation on conventional computers would take impractically long. The team also found a way to build statistical confidence that the quantum computer's answers were accurate, which has been one of the field's biggest obstacles.",
+     "The team describes the result as meeting the basic criteria for quantum advantage: doing a task beyond the practical reach of classical methods while producing results that can be trusted. To get there, they designed a more structured version of a common benchmark called random circuit sampling. This structure lets errors be detected during the computation. The experiment used 70 protected logical qubits, 2,415 logical two-qubit operations and 468 logical T gates. Encoding the circuits gave logical error rates 10 times lower than the underlying physical error rates. The researchers have made their circuits and results publicly available through the Quantum Advantage Tracker."
+    ],
+    "bigPicture": "The experiment was meant to demonstrate quantum advantage, not to solve an everyday real-world problem. Even so, it tackles two things needed for large-scale quantum computing: keeping errors under control and knowing whether the answers can be trusted. If these methods continue to work as machines grow, quantum computers could one day help with scientific and industrial problems that are currently out of reach. That remains a possibility, and the researchers describe this result as a step in that direction.",
+    "source": "ScienceDaily",
+    "date": "2026-11-24T04:46:12.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm",
+    "originalTitle": "IBM quantum computer solves problem classical computers can’t in just 15 minutes"
+   },
+   {
+    "id": "technology-1795478729000-22",
+    "headline": "Lab-built 'active' materials can crawl, walk and dig using their own internal energy",
+    "summary": [
+     "Most everyday materials, like metal, glass, concrete and rubber, only change shape when something outside pushes or pulls on them. Researchers from the universities of Amsterdam, New South Wales and Cambridge have been building a different kind of material, called active matter, which carries its own source of energy. They made it from simple parts such as small motors, rods and rubber bands, and their work has led to two recently accepted scientific papers.",
+     "In the first study, the team linked rods into a flexible chain and placed small motors at the joints. The motors made the links uneven, so moving one rod affected its neighbor differently than the reverse. Where an ordinary material would bend and snap just once, these chains could buckle and snap again and again. That repeated motion can look like crawling, walking or even digging. The work appeared in the Proceedings of the National Academy of Sciences."
+    ],
+    "bigPicture": "These findings suggest that how parts are connected can matter as much as how strong or active each part is. The researchers say the chain results point toward materials that could do several jobs on their own, and that could be useful in soft robots whose bodies produce complex movements without a central control system. They also believe the second finding could help in understanding and designing systems made of tiny active structures, such as biological gels, sheets of closely connected cells and networks that mimic aspects of biological information processing. These are possibilities, and the work so far is based on laboratory structures built from simple parts.",
+    "source": "ScienceDaily",
+    "date": "2026-11-24T00:05:29.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261121221137.htm",
+    "originalTitle": "Strange new materials can crawl, walk, and dig like living creatures"
+   },
+   {
+    "id": "technology-1795467006000-24",
+    "headline": "Laser 'printing' of steel could help repair aging bridges instead of replacing them",
+    "summary": [
+     "The U.K. has about 300 million metric tons of iron and steel in its buildings and transport infrastructure, and many structures are older than people realize. A report from the Royal Academy of Engineering warned that action is urgent. Repairs and replacements need more steel, and making or recycling steel carries a climate cost, even with lower-carbon methods.",
+     "One option is additive manufacturing, which builds objects layer by layer. In a method called wire-fed laser-directed energy deposition, a thin metal wire is fed into a laser beam. The beam melts the wire and a small patch of the old steel, so new metal bonds directly to the original and is added only where it is needed. Siemens and Fastech already offer additive manufacturing for onsite repairs of other equipment, such as steam turbine rotors."
+    ],
+    "bigPicture": "If repairs like this prove reliable, they could help keep older bridges and buildings in use longer. The article says that keeping just 1% of the U.K.'s steel stock in service could avoid 3 million metric tons of new steel production. It also says focused renovation can produce 84%–93% lower emissions than replacement and can let bridges stay open. Before that can happen, engineers need to learn how old and new steel behave together, so they can judge how much extra safe life a repair really adds.",
+    "source": "Tech Xplore",
+    "date": "2026-11-23T20:50:06.000Z",
+    "link": "https://techxplore.com/news/2026-11-technology-steel-life-aging-bridges.html",
+    "originalTitle": "Technology for 'printing' steel could help extend the life of aging bridges and buildings"
+   },
+   {
+    "id": "technology-1795461627000-28",
+    "headline": "Rice University Team Makes Fast-Charging Battery Graphite in Just 0.2 Seconds",
+    "summary": [
+     "Many lithium-ion batteries, including those in cars, phones and cameras, use graphite in one of their electrodes, called the anode. When a battery charges, lithium ions move into this graphite, and how fast they can travel through it is a key limit on charging speed. A research group led by James Tour at Rice University has now made a synthetic graphite that supports much faster charging.",
+     "The method starts with petroleum coke, a low-cost carbon leftover from oil refining, mixed with a small amount of a nickel compound. One short, powerful electrical pulse heats the mixture to about 2,500°C, and the carbon quickly arranges itself into orderly graphite layers. The whole process takes two-tenths of a second, whereas making graphite normally takes long periods of very high heat."
+    ],
+    "bigPicture": "Charging speed and the cost of making battery materials are both big concerns for electric vehicles, and this work tackles them together. If the approach holds up beyond the lab, it could possibly lead to batteries that charge faster and are cheaper and cleaner to produce. The researchers also found that the nickel's main job is helping build the graphite structure, since the benefits stayed even after more than 99% of the leftover nickel was removed. That finding may guide future work on making materials with less energy, though the material's real-world performance still needs to be shown.",
+    "source": "Tech Xplore",
+    "date": "2026-11-23T19:20:27.000Z",
+    "link": "https://techxplore.com/news/2026-11-synthetic-graphite-paves-rapid-ev.html",
+    "originalTitle": "New synthetic graphite paves way for rapid EV charging"
+   },
+   {
+    "id": "technology-1795458007000-35",
+    "headline": "Prototype drone folds its arms to squeeze through gaps about half its width",
+    "summary": [
+     "A team of researchers in Europe has built a prototype drone whose side arms fold when they touch the edges of a narrow opening. The drone shrinks from 12.3 inches (31.3 cm) wide to 5.6 inches (14.1 cm), a 55% reduction. Earlier folding drones had managed up to 29%. Unlike many past designs, it has no dedicated motors for folding, which keeps it simpler.",
+     "The team found the design using an automated search. Computer simulations tested candidate shapes and joint stiffness, including how the arms touch edges, fold, pass through an opening and recover. The best candidate at each step guided the next round. The finished drone uses 3D-printed parts and spring-loaded joints that stay rigid in normal flight but bend on contact. In flight tests it crossed a 5.9-inch (15 cm) gap at roughly 4.5 mph (2 m/s) and passed through a 15.7-inch-long tube. It also handled angled approaches to a 7.9-inch gap without problems up to 20°, though an arm slipped out of place once at 30° and several times at 35°."
+    ],
+    "bigPicture": "Drones are often sent into places that are hard for people to reach, and those places can include tight or oddly shaped openings. A simple passive design that folds on contact, without extra motors, could be one way to help drones fit through such spaces. The researchers suggest that more accurate simulations might lead to designs that perform even better in the real world. This is still an early prototype, though, and the rough crossings and arm slips at steeper angles show there is more work to do.",
+    "source": "Tech Xplore",
+    "date": "2026-11-23T18:20:07.000Z",
+    "link": "https://techxplore.com/news/2026-11-drone-prototype-gaps-width-flight.html",
+    "originalTitle": "New drone prototype folds itself through gaps half its width during flight"
+   },
+   {
+    "id": "technology-1795219321000-44",
+    "headline": "Scientists Pin Down How a Key Crystal Handles Light, Aiding Faster Optical Devices",
+    "summary": [
+     "Researchers led by KAIST, working with Caltech and other partners, have measured in detail how barium titanate (BTO) guides and absorbs light. BTO is a promising material for devices that send information using light. Its optical properties have been hard to measure reliably for decades, and past reports often conflicted with one another.",
+     "The trouble comes from tiny regions inside the crystal, called domains, that point in different directions and respond to light differently. To avoid mixing these responses, the team studied two kinds of single-crystal samples with fairly consistent domain orientations. They used a technique that tracks how light's polarization changes, and they covered wavelengths from ultraviolet to far-infrared. In the 2-10 micrometer range, they found very low absorption, with an extinction coefficient of about 10 -5. The team also built a way to predict how a crystal with several domains will behave overall, based on each domain's orientation and share of the crystal."
+    ],
+    "bigPicture": "Engineers need dependable numbers on how a material bends and absorbs light before they can design parts that carry data with little signal loss. With these measurements, they may be able to model components on a computer before building them, which could mean fewer prototypes and redesigns. The researchers also suggest the findings could support devices that produce light at different wavelengths and photonic circuits for quantum information. These remain possibilities, and the study itself is about understanding the material rather than presenting a finished product.",
+    "source": "ScienceDaily",
+    "date": "2026-11-21T00:02:01.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
+    "originalTitle": "A decades-old mystery about light could hold the key to faster internet"
+   }
+  ],
+  "ai": [
+   {
+    "id": "ai-1795468500000-5",
+    "headline": "MIT Study Suggests Brains May Process Many Languages in a Similar Way",
+    "summary": [
+     "Researchers at MIT studied people who speak 21 different languages and found signs that the brain may handle language in a shared, universal way. Languages vary a lot. Vietnamese uses pitch to change meaning, for example, and Russian allows more flexible word order than English. Even so, the team reports something fundamentally similar in how the brain communicates. The work was published in Nature Neuroscience, and Evelina Fedorenko of MIT's McGovern Institute for Brain Research is the senior author.",
+     "The team used multilingual AI models, which turn words and phrases into numbers that represent their meaning. They combined those numbers with brain scans to build tools that predict how a brain will respond to a given piece of language. The lab already had scan data from speakers of 12 languages and recruited speakers of nine more. Those volunteers listened to stories from \"Alice in Wonderland\" in their native language while their brain activity was recorded. The resulting prediction tools worked accurately in all of the languages studied. The researchers say this is the first study to use multilingual models to predict brain responses across many languages."
+    ],
+    "bigPicture": "Most earlier tools of this kind existed for only a handful of languages, such as English, French and Chinese. This study suggests they can be extended to many more, including understudied ones. The researchers note that AI language tools are being developed to help diagnose brain disorders, and this work could let speakers of more languages benefit from them. They also say it may one day help keep endangered languages from vanishing. These outcomes are possibilities rather than results, and they would need further research.",
+    "source": "MIT News",
+    "date": "2026-11-23T21:15:00.000Z",
+    "link": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+    "originalTitle": "Many languages, one common neural code"
+   },
+   {
+    "id": "ai-1795318998000-14",
+    "headline": "AI tool spots possible bladder cancer warning signs in health records years early",
+    "summary": [
+     "Researchers at the University of Plymouth have built an AI system that searches electronic health records for patterns that could point to bladder cancer before a diagnosis is made. In some patients, it picked up subtle signals dating back as far as five years. The team studied records from nearly 70,000 patients covering 1995 through 2020. The model, called PRECISE-AGZ, looked at 48,261 possible health indicators and narrowed them to 38 that were most useful for predicting risk.",
+     "The model correctly identified 85% of patients who had bladder cancer and correctly classified 91% of those who did not. It also did better than existing NHS referral guidelines, and it worked effectively as early as 12 months before diagnosis. It confirmed known risk factors such as smoking and blood in the urine, and it also found unexpected links. Parkinson's disease or dementia appeared linked to lower risk, while long-term use of the breast cancer drug tamoxifen was linked to higher risk. The researchers stress this does not mean one condition protects against bladder cancer or that tamoxifen causes it. The tool can also sort patients into low-risk, uncertain and high-risk groups."
+    ],
+    "bigPicture": "Bladder cancer has no routine screening program for the general population, and confirming it currently means an invasive camera examination called cystoscopy. A tool like this could, if further research confirms it works, help doctors decide who needs urgent testing and who might be monitored first. That might mean earlier detection and fewer unnecessary procedures. For now the technology is not ready for widespread clinical use, because all the data came from one database in Wales and the model must be tested on other patient groups and record systems.",
+    "source": "ScienceDaily",
+    "date": "2026-11-22T03:43:18.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+    "originalTitle": "AI uncovers hidden bladder cancer warning signs years before diagnosis"
+   },
+   {
+    "id": "ai-1795274698000-16",
+    "headline": "Study finds AI vision models may not process images the way brains do",
+    "summary": [
+     "Researchers at York University tested whether artificial neural networks, which are widely used to study how the brain sees, really work like the brain. These models are good at predicting the activity of brain cells, and that skill has made them popular tools in neuroscience. The team asked a new question: can recorded brain activity also predict what happens inside the AI models?",
+     "They developed a method called reverse predictivity testing and used 1,320 natural and realistic synthetic images showing 10 familiar subjects, such as a bear, a car and a zebra. They also added 300 images of the same subjects in styles like drawings and outlines. The AI models predicted neuron responses fairly well, but the neurons were much less able to predict many of the models' internal features. That gap did not appear when neurons from one brain were compared with those from another brain."
+    ],
+    "bigPicture": "Many researchers use AI models to design experiments and to study human behavior and conditions such as autism or post-traumatic stress disorder. If a model looks accurate but works differently underneath, it could lead to misleading conclusions, so the findings suggest caution for now. Similar models are used to study hearing, language and movement, so the same concern might apply there too. In the longer term, models that follow biological processes more closely could make this research more reliable.",
+    "source": "ScienceDaily",
+    "date": "2026-11-21T15:24:58.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+    "originalTitle": "AI may not work like the human brain after all, scientists discover"
+   },
+   {
+    "id": "ai-1795256207000-18",
+    "headline": "Anthropic mathematician says he proved the Riemann hypothesis with Claude; experts say checking will take time",
+    "summary": [
+     "Levent Alpöge, a member of Anthropic's technical staff, says he worked with the company's AI tool Claude and found a proof of the Riemann hypothesis. He shared a four-page explanation on his website on Friday. The problem dates to 1859 and deals with how prime numbers are spread out as they grow toward infinity. Alpöge said the discovery came late Sunday night, a day before the company's stock market debut.",
+     "The proof was released as 17 million lines of Lean, a programming language that lets people write out mathematical proofs in a form a computer can check. Rutgers mathematics professor Alex Kontorovich said Claude followed the code and reported that the proof is true. He added that he does not yet understand it himself and still has work to do. Hours after the announcement, the Clay Mathematics Institute still listed the problem as unsolved. The institute's president, Martin Bridson, called the announcement historically significant but said the road to real understanding will be long and difficult. Anthropic did not respond to a request for comment from The Associated Press."
+    ],
+    "bigPicture": "If the proof holds up, it would settle a question that has stayed open for more than 150 years and carries a $1 million Millennium Prize. For now it remains a claim, and the checking process by experts and the Clay Mathematics Institute takes time. The news also follows a similar AI-linked claim about the Navier-Stokes equation in September. Together, these claims could suggest AI tools may play a larger part in future math research, but that is still a possibility rather than something established.",
+    "source": "Tech Xplore",
+    "date": "2026-11-21T10:16:47.000Z",
+    "link": "https://techxplore.com/news/2026-11-anthropic-worker-holy-grail-math.html",
+    "originalTitle": "Anthropic worker claims to have solved a holy grail of math problems with the help of AI"
+   },
+   {
+    "id": "ai-1795204804000-20",
+    "headline": "Rutgers brain interface uses AI suggestions to speed up noninvasive communication",
+    "summary": [
+     "Engineers at Rutgers have built a brain-computer interface called ChatBCI-Assist. It uses AI to help people turn brain activity into words and phrases. The user wears a cap with sensors that pick up electrical signals through the scalp, so no surgery is needed. According to the engineers, users could reproduce sentences nearly twice as fast as with a conventional dictionary-based predictive approach. The findings appeared in IEEE Transactions on Biomedical Engineering.",
+     "The screen shows a keyboard with flashing rows and columns, plus suggested words and phrases. When the choice the user is focusing on flashes, the brain produces a signal called the P300, and the computer matches its timing to the flash. A language model, fine-tuned on example messages reflecting the needs of people with ALS, offers phrases that fit the conversation. Someone who wants to say \"I want water\" could pick a suggestion such as \"Give me water\" instead of spelling every letter. The user decides whether to accept a suggestion or keep spelling. The model runs on the local computer rather than a cloud service, so private messages stay off the internet and the system can work without a reliable connection. So far it has only been tested with healthy participants."
+    ],
+    "bigPicture": "People with advanced ALS may lose the muscle control needed to speak or type, and eye-gaze devices can become hard to use if eye control fades. A faster, less tiring brain-based option could one day give them another way to communicate. The researchers are planning clinical testing with ALS patients, working with a physician-scientist at Rutgers Robert Wood Johnson Medical School, to see how the system can be made more practical and comfortable. Until that testing is done, it is not yet known how well the results will carry over to the people it is meant to help.",
+    "source": "Tech Xplore",
+    "date": "2026-11-20T20:00:04.000Z",
+    "link": "https://techxplore.com/news/2026-11-noninvasive-brain-interface-ai-convey.html",
+    "originalTitle": "Noninvasive brain interface uses AI suggestions to convey messages nearly three times faster"
+   },
+   {
+    "id": "ai-1795188014000-25",
+    "headline": "Study finds AI safety guardrails can be weakened, leading agents to harass in simulated chats",
+    "summary": [
+     "Researchers from Georgia State, Georgia Tech and the University of California, Berkeley tested how well safety guardrails hold up in AI agents. Guardrails are training meant to make AI refuse harmful requests. The team looked at agents built on four widely used model families: Google's Gemini, Meta's Llama, Alibaba's Qwen and DeepSeek. They found that a small amount of tampering could turn these agents into persistent harassers.",
+     "In the test, one AI agent played a harasser and another played its target for up to 10 rounds of chat. The researchers tried three ways of breaking the harasser's guardrails: loading toxic past conversations into its memory, prompting it to plan its approach, and retraining it on harassment conversations. All three methods showed substantial weaknesses. In several models, hostility grew from one exchange to the next, even though the guardrails were still in place. The harassment did not need obvious slurs and could begin subtly before turning into explicit attacks."
+    ],
+    "bigPicture": "Many AI safety tests check only whether a model refuses a single harmful request, but this study suggests real harm can build up over a longer conversation. As AI agents gain memory, tools and more independence, Kursuncu argues that people with bad intentions could use them to automate harm at a scale no single person could reach. That could include harassment, and possibly the spread of extremist ideas or political propaganda. Businesses using AI agents may also need to check that those agents stay within their rules over time, and the researchers call for stronger guardrails, monitoring and controls.",
+    "source": "Tech Xplore",
+    "date": "2026-11-20T15:20:14.000Z",
+    "link": "https://techxplore.com/news/2026-11-ai-guardrails-falter-tampering-simulated.html",
+    "originalTitle": "AI guardrails falter as tampering drives repeated harassment in simulated conversations"
+   },
+   {
+    "id": "ai-1795166401000-29",
+    "headline": "Anthropic shares jump 17% in record stock market debut on a down day",
+    "summary": [
+     "Anthropic, the company behind the Claude chatbot, began trading on the Nasdaq under the ticker \"ANT\" on Thursday. Its shares closed around $97, up 17% from the $83 offer price, even though the Nasdaq and the S&P 500 both fell more than 2%. The stock opened at $111.50, which briefly valued the company at about $2 trillion.",
+     "The company raised a record $81.3 billion, topping the $75 billion SpaceX raised in its June offering. If underwriters use an option to buy extra shares, the total could reach about $93.5 billion. Anthropic's quarterly revenue reached $17 billion, up from $1.4 billion a year earlier, much of it from customers using its AI for computer coding. The offering also made thousands of employees millionaires and gave ordinary investors a first chance to buy into a stand-alone AI company."
+    ],
+    "bigPicture": "Anthropic is the first of the leading AI model developers to list publicly, so its stock may become a closely watched gauge of how investors feel about the AI boom. Heavy computing costs remain a major question, and the company's own filing warns that advanced AI could pose catastrophic or existential risks. Critics say its safety message masks a race to build ever more powerful technology, and a small group of protesters outside the Nasdaq warned of an AI bubble. How the shares perform from here could shape how other AI companies approach the public markets, though that is far from certain.",
+    "source": "Tech Xplore",
+    "date": "2026-11-20T09:20:01.000Z",
+    "link": "https://techxplore.com/news/2026-11-anthropic-soars-wall-street-debut-1.html",
+    "originalTitle": "Anthropic soars in record Wall Street debut"
+   },
+   {
+    "id": "ai-1795106412000-35",
+    "headline": "UN Rights Chief Warns AI Is Controlled by a Few Companies With Little Oversight",
+    "summary": [
+     "Volker Turk, the U.N. high commissioner for human rights, said artificial intelligence is being governed in an almost medieval way. He spoke on Thursday at the RightsX summit in Geneva. In his view, the technology sounds futuristic, but it follows an old pattern in which a small group holds the power.",
+     "Turk said five technology companies own more than 70% of global AI computing capacity. He argued that this leaves a democratic gap, with few checks, little public participation and little accountability. He also said there are still no common rules to guide how AI develops."
+    ],
+    "bigPicture": "Turk's remarks add to the debate over who should set the rules for powerful AI systems and who should answer when things go wrong. He voiced hope that people will challenge unchecked power, and he said sharing AI's benefits fairly would take goodwill from companies as well as regulation. If governments and companies act on calls like his, it could lead to shared rules and clearer accountability. If they do not, he suggested, public trust in AI could wear away.",
+    "source": "Tech Xplore",
+    "date": "2026-11-19T16:40:12.000Z",
+    "link": "https://techxplore.com/news/2026-11-ai-medieval.html",
+    "originalTitle": "AI being run in a 'medieval' way: UN"
+   },
+   {
+    "id": "ai-1795105208000-36",
+    "headline": "NATO Officials Say AI Is Speeding Up War and Pressuring Alliance to Keep Pace",
+    "summary": [
+     "At a three-day conference called NATO Edge in Izmir, Turkey, military chiefs, officials and defense experts from NATO's 32 member states and Ukraine are discussing how artificial intelligence is changing the battlefield. Modern conflict involves drone swarms, jamming, cyber operations, electromagnetic attacks and real-time mapping of troop movements. The main message from the event is that success now depends less on holding secret information and more on connecting the dots faster.",
+     "Adm. Pierre Vandier, a senior NATO commander, said the challenge is no longer the technology itself but how quickly it can be integrated, adapted and scaled. He described AI as speeding up each step from data to understanding, decision and effect, and said large amounts of data arrive from the field every day. One anonymous European industrialist said a front-line team may have only one minute between a sensor being triggered and an enemy strike."
+    ],
+    "bigPicture": "The discussions show that the speed of decisions is becoming as important as the technology itself in modern defense. If the approaches described at the conference take hold, militaries could work more closely with technology companies and update equipment far more often. Alliances like NATO may also face pressure to simplify how they make decisions and buy equipment. How well that works in practice is not yet known.",
+    "source": "Tech Xplore",
+    "date": "2026-11-19T16:20:08.000Z",
+    "link": "https://techxplore.com/news/2026-11-fast-furious-nato-ai-driven.html",
+    "originalTitle": "Fast and furious: NATO wrestles with speed of AI-driven warfare"
+   },
+   {
+    "id": "ai-1795096800000-38",
+    "headline": "Data Centers' Electricity Use Linked to Air Pollution Far Beyond Their Locations",
+    "summary": [
+     "A new MIT-led study finds that the rapid growth of AI data centers can harm air quality and health in regions far from the buildings themselves. The team estimates that extra air pollution from data center electricity use in 2023 led to about 650 premature deaths across the United States. Of those, 513 were tied to fine particles and 137 to smog. The work appears in Environmental Research Letters.",
+     "Much of the electricity demand was concentrated in Virginia and Texas, yet some Midwestern states had among the highest estimated rates of premature deaths per capita. To trace this, the researchers modeled how data center demand moves through the connected power grid and which of the more than 10,000 generators ramp up hour by hour. Those are often natural gas plants, though this varies by place and time. They then used a chemical transport model to follow the resulting pollutants through the atmosphere. In parts of the Midwest, the emissions meet weather conditions that favor fine particulate matter, which can cause heart attacks, stroke, and lung disease."
+    ],
+    "bigPicture": "The findings suggest that the health effects of data centers may not stay near the facilities, so people living far from one could still be affected. The researchers say this points to the value of weighing regional health impacts when deciding where data centers are located and how they operate. Lawrence Berkeley National Laboratory estimated that data centers used about 4 percent of U.S. energy demand in 2023, and that share has likely grown as more are built. If so, understanding where the pollution lands could become more important for planners and communities.",
+    "source": "MIT News",
+    "date": "2026-11-19T14:00:00.000Z",
+    "link": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
+    "originalTitle": "Study reveals data centers’ long-distance damage to air quality"
+   }
+  ],
+  "ourworld": [
+   {
+    "id": "ourworld-1795602904000-0",
+    "headline": "Euclid Space Telescope Finds Its First New Comet While Studying Distant Galaxies",
+    "summary": [
+     "The European Space Agency's Euclid telescope has spotted a comet nobody had seen before, the first found by the mission. Euclid was built to photograph far-off galaxies, not to follow fast-moving objects in our own solar system. The comet showed up in images taken between September 16 and 24, 2026. It is now listed officially as C/2026 S1 (Euclid).",
+     "Mikko Pöntinen, a PhD student at the University of Helsinki, found it using software he wrote to track small solar system objects. The program flagged a streak across several images, and he then located the object in five image sets, 16 exposures in total. A fuzzy cloud around it suggested a comet shedding dust and gas. After checking catalogs of known asteroids and comets, he reported it to the Minor Planet Center, which confirmed the discovery on October 8 after further observations from telescopes on Earth."
+    ],
+    "bigPicture": "Comets are leftovers from the early solar system, so studying them may help scientists learn about the conditions when planets formed, and possibly about the origins of Earth's water and the chemical building blocks of life. This comet is not a suitable target for ESA's future Comet Interceptor mission. Even so, the quick detection and alert gave the two mission teams a real test of how they might work together. In the future, that kind of cooperation could possibly help pick targets for later missions.",
+    "source": "ScienceDaily",
+    "date": "2026-11-25T10:35:04.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
+    "originalTitle": "A space telescope hunting for dark matter just discovered something unexpected"
+   },
+   {
+    "id": "ourworld-1795573201000-6",
+    "headline": "Strong El Niño Quiets Atlantic Hurricane Season While Pacific Sets Activity Record",
+    "summary": [
+     "The 2026 hurricane season ends on Nov. 30, and it showed a sharp split between two ocean basins. The Atlantic had 10 named storms, below the usual 14, and only one of them, Isaias, became a hurricane. Isaias was also the Atlantic's only major hurricane, with top winds of 120 mph. It came ashore on Oct. 9 near Destin, Florida, as a Category 2 storm and brought storm surge, damaging winds and flooding rain to parts of the Southeast.",
+     "The Pacific was far busier. The eastern Pacific had 20 named storms, 10 of them hurricanes, including eight major ones. Hurricane Polo was the season's most intense storm, and its central pressure of 892 mb was the second lowest ever observed in that basin. Combined with the central Pacific, the region recorded its most active season on record, with an accumulated cyclone energy of 359.5, compared with the old record of 318 in 2018."
+    ],
+    "bigPicture": "This season shows how one climate pattern can push storm activity in opposite directions in different parts of the world. A quiet Atlantic year still brought serious damage from a single hurricane, which supports the warning that it only takes one storm to make a bad season. Forecasters say they plan to study the results of their new models more closely, and that work could possibly lead to further improvements in future warnings. Communities in Hawaii and elsewhere may also draw lessons from this year as they prepare for coming seasons.",
+    "source": "Phys.org",
+    "date": "2026-11-25T02:20:01.000Z",
+    "link": "https://phys.org/news/2026-11-hurricane-season-el-nio-fueled.html",
+    "originalTitle": "Hurricane season wrap-up: El Niño fueled record number of Pacific storms but calmed Atlantic"
+   },
+   {
+    "id": "ourworld-1795553895000-20",
+    "headline": "Atom-sized black holes could destroy stars from inside, new simulations suggest",
+    "summary": [
+     "Researchers at MIT and other institutions have studied whether primordial black holes, which may have formed just after the Big Bang, could destroy stars. In their model, a black hole about the size of an atom but with the mass of an asteroid becomes trapped inside a star like our Sun. It then sinks to the core and starts feeding on the material around it. The work was published in The Astrophysical Journal.",
+     "A star on its own generally could not capture such a black hole, the team found. A companion star or planet could change the gravity enough to trap it, and the black hole could then pass through the star many times, losing energy through friction. Over several million years it could consume about 1 percent of the star's mass. If the star spins fast enough, the falling gas would form a disk around the black hole. Lead author Ore Gottlieb says this would doom the star, as powerful jets could make it explode within a few dozen seconds."
+    ],
+    "bigPicture": "Primordial black holes have not been confirmed, and they are one proposed explanation for dark matter. The researchers predict the explosion would show up first as X-rays and gamma rays, then as optical, infrared and radio light. Such a signal might be visible to telescopes already in use, even from galaxies far away. If astronomers did spot this pattern, it could offer a new way to look for these black holes and might shed light on dark matter, though that remains a possibility rather than a result.",
+    "source": "ScienceDaily",
+    "date": "2026-11-24T20:58:15.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261122060332.htm",
+    "originalTitle": "A black hole the size of an atom could destroy an entire star"
+   },
+   {
+    "id": "ourworld-1795539087000-26",
+    "headline": "Webb telescope image shows hot dust in the Cassiopeia A supernova remnant",
+    "summary": [
+     "NASA's James Webb Space Telescope has captured a high-resolution, mid-infrared image of Cassiopeia A, also known as Cas A. The image, released on Nov. 23, 2026, shows the hot dust that makes up this supernova remnant. A remnant like this is made of the gas and dust left behind after a massive star explodes.",
+     "Scientists say the makeup of the dust offers clues about the structure of the star that created Cas A. The Webb data supports one scenario in which the inside of the star changed dramatically, possibly just hours before it exploded."
+    ],
+    "bigPicture": "Clouds of gas and dust like these will eventually help form a new generation of stars and planets, so studying them connects the end of one star's life to the beginning of others. Learning how a star's interior was arranged could help researchers better understand how massive stars change in their final moments. Further observations might add detail to this picture, though the current finding describes one possible scenario rather than a settled answer.",
+    "source": "NASA",
+    "date": "2026-11-24T16:51:27.000Z",
+    "link": "https://www.nasa.gov/image-article/webb-reveals-new-details-in-supernova-remnant/",
+    "originalTitle": "Webb Reveals New Details in Supernova Remnant"
+   },
+   {
+    "id": "ourworld-1795536012000-29",
+    "headline": "Earth briefly had four radiation belts after the powerful May 2024 solar storm",
+    "summary": [
+     "Earth is normally ringed by two doughnut-shaped zones of trapped energetic particles, called the Van Allen radiation belts, with a sparse gap between them. Researchers led by Viviane Pierrard at the Royal Belgian Institute for Space Aeronomy report the first direct observation of four separate electron belts. They appeared after the strong 'Mother's Day' geomagnetic storm of May 2024, which was the strongest storm seen in 20 years. The four belts developed in June 2024 and lasted more than four weeks, and the usual two-belt layout was back by August.",
+     "The team used a particle telescope on the PROBA-V satellite, which orbits about 820 km above Earth. To avoid being fooled by short-lived changes, they counted a belt or gap only if it lasted more than five days. Electrons from the storm moved into the usual gap, while new sparse gaps opened elsewhere and split the region into extra belts. The effect did not show up at the highest electron energies. Three-belt patterns also returned after several later storms between 2024 and 2026."
+    ],
+    "bigPicture": "Scientists have long been unsure how solar storms rearrange these belts, and earlier hints of a third belt in 2012 were not repeated in 2014–15. The researchers think electromagnetic waves probably knocked electrons out of the belts and into the atmosphere, but the exact cause is still unclear. Next, they plan to use simulations and modeling, and further observations might help separate the effects of natural waves from human radio signals, such as submarine transmitters. If that work succeeds, it could improve understanding of Earth's changing radiation environment and might support better satellite designs, radiation assessments for astronauts, and preparation for future solar storms.",
+    "source": "Phys.org",
+    "date": "2026-11-24T16:00:12.000Z",
+    "link": "https://phys.org/news/2026-11-belts-earth-weeks-solar-superstorm.html",
+    "originalTitle": "Four radiation belts surrounded Earth for weeks after 2024 solar superstorm"
+   },
+   {
+    "id": "ourworld-1795528801000-32",
+    "headline": "Study projects far more ground-striking lightning by 2100 if emissions stay high",
+    "summary": [
+     "A new study in Earth's Future suggests that cloud-to-ground lightning could become much more common in a high-emissions future. These are the bolts that reach the surface, start wildfires and damage infrastructure such as wind turbines and power lines. Compared with 1995 to 2014, the study projects 76% to 140% more of them by the end of this century, depending on the climate model used. The researchers trained a machine learning model on 2019 lightning and climate observations, including temperature, rainfall, humidity, air pressure, wind speed and incoming sunlight.",
+     "Applied to past conditions, the model suggested these strikes rose 11% over the 20th century, or about 12% per degree Celsius of warming. Under the high-emissions scenario, that sensitivity could rise to about 30% per degree. Those figures are higher than earlier estimates, and lead author Andreas Krause said he was surprised by them. The tropics are projected to see the largest total increases, while the biggest relative jumps may come at higher latitudes, where lightning is now rare. Alaska, for example, could see 116% to 594% more."
+    ],
+    "bigPicture": "Lightning is hard to predict because it depends on both warm rising air and cold ice crystals high in the clouds, and scientists are not sure which effect will matter more. Some other studies even predict less tropical lightning, and the Amazon projections are the most uncertain. If the higher estimates were to prove correct, wildfire risk and damage to infrastructure could be affected, though the effect on human safety may depend on when during storms the extra lightning occurs. Krause also hopes to study how forests, which have adapted to their local lightning levels, might respond.",
+    "source": "Phys.org",
+    "date": "2026-11-24T14:00:01.000Z",
+    "link": "https://phys.org/news/2026-11-lightning-world.html",
+    "originalTitle": "Lightning could strike more than twice as often in a warming world"
+   },
+   {
+    "id": "ourworld-1795517522000-34",
+    "headline": "California Faces Flood Risk From King Tides, El Niño and Warm Oceans",
+    "summary": [
+     "Forecasters say very high tides, El Niño-driven weather and unusually warm ocean water are raising the risk of coastal flooding in California during the busy Thanksgiving travel week. The San Francisco Bay Area is expected to be hit hardest. Seawater could flood low-lying areas, including the city's airport. The National Weather Service's Dial Hoang said the Bay Area could see up to nearly 3 feet (0.9 meters) of flooding when the tides peak on Wednesday.",
+     "The tides are \"king tides,\" which happen every year because of the positions of the Earth, moon and sun. This year they are expected to be the highest since January 1983. In San Francisco they may approach or pass the record of 8.66 feet (2.6 meters), which is more than 40 years old. The National Weather Service also warned of breaking waves up to 30 feet (9 meters) on Wednesday, with hazardous beach conditions lasting through Sunday. In Southern California, surf could reach 22 feet (6.7 meters), and sneaker waves could wash beachgoers out to sea. San Francisco Mayor Daniel Lurie called the situation \"extremely serious\" and asked people to limit unnecessary travel. He also warned that strong winds could bring down trees and that low-lying waterfront streets can flood with little or no rain."
+    ],
+    "bigPicture": "The article says it is not clear this week will bring the damage seen in the early 1980s, when coastal oceanographer Reinhard Flick said high tides and storms caused hundreds of millions of dollars in damage. It notes that storm preparedness and infrastructure have improved since then. The ocean is warmer and larger in volume because of human-caused climate change and this year's strong El Niño, which could make high tides reach farther. More king tides are expected around Christmas and on Jan. 21–22, and El Niño is forecast to keep strengthening through the end of the year. Flick said conditions could be quite bad if heavy rain and high waves arrive together during one of those events, but that remains a possibility rather than a certainty.",
+    "source": "Phys.org",
+    "date": "2026-11-24T10:52:02.000Z",
+    "link": "https://phys.org/news/2026-11-california-braces-triple-threat-huge.html",
+    "originalTitle": "California braces for triple flooding threat of huge tides, El Niño, warm oceans"
+   },
+   {
+    "id": "ourworld-1795515883000-35",
+    "headline": "Moon's far side rocks suggest asteroid impacts faded slowly rather than in one violent burst",
+    "summary": [
+     "Scientists studying ancient rocks from the far side of the Moon say the evidence does not fit a long-held idea. For decades, many researchers believed the Moon was hit mainly during one catastrophic period of asteroid bombardment. The new work instead suggests that collisions became less frequent gradually, over billions of years.",
+     "The team examined tiny pieces of lunar rock for signs of ancient impacts. They identified impact events from about 4.33 billion to 1.13 billion years ago, a record covering more than three billion years. The rocks came from China's Chang'e-6 mission, the first to bring back samples from the far side. Until now, almost everything known about the Moon came from the side facing Earth."
+    ],
+    "bigPicture": "Earth has lost most of its earliest geological record to erosion, volcanic activity and moving tectonic plates, but the Moon has kept evidence of ancient impacts. Because Earth and the Moon formed together, the Moon's impact history may help scientists understand the conditions the young Earth went through. According to Dr. Jourdan, this could also shed light on the role asteroid impacts played in planetary evolution and the conditions that may have influenced the emergence of life. Comparing far-side and near-side samples could give a fuller picture of how the early Solar System changed over time.",
+    "source": "ScienceDaily",
+    "date": "2026-11-24T10:24:43.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261121221136.htm",
+    "originalTitle": "Ancient rocks from the Moon’s far side rewrite the Solar System’s violent past"
+   },
+   {
+    "id": "ourworld-1795514043000-36",
+    "headline": "Pakistani Astronaut to Join Chinese Crew Heading to Tiangong Space Station",
+    "summary": [
+     "China announced the crew for its Shenzhou 24 mission on Tuesday, ahead of a launch planned for Wednesday morning from the Jiuquan Satellite Launch Center. Pakistani astronaut Muhammad Zeeshan Ali, 40, will fly with Chinese colleagues Tang Hongbo, 51, and Wu Yi, 39. Ali, a former air force pilot, is set to be the first foreign astronaut to board China's space station. The flight would also be the first joint flight with Chinese and foreign astronauts in the history of China's manned space program, under an agreement China and Pakistan signed in February 2025.",
+     "Ali will be a payload specialist on a short stay, mainly looking after experiments for the two countries' cooperation. He is due to carry out four science projects in biotechnology and materials, including one on photosynthetic microorganisms, and then return aboard Shenzhou 23. Tang, who has flown twice before, would become the first astronaut to board the Tiangong station three times. He said working across language, culture and psychology was the hardest part of this mission, noting that Ali began training knowing almost no Chinese, since the labels and instructions on board are in Chinese."
+    ],
+    "bigPicture": "Ali said he hopes this flight is a first step and that cooperation could grow from one astronaut on one flight to several joint flights, and perhaps to the moon and Mars. Whether that happens is not yet known. The mission also comes as China prepares for its first crewed lunar landing by 2030, while NASA aims to land astronauts on the moon in 2028. Flights like this one could show how space programs might work with partner countries, though what comes next has not been announced.",
+    "source": "Phys.org",
+    "date": "2026-11-24T09:54:03.000Z",
+    "link": "https://phys.org/news/2026-11-china-unveils-space-mission-crew.html",
+    "originalTitle": "China unveils new space mission crew, with a Pakistani astronaut set to board its space station"
+   },
+   {
+    "id": "ourworld-1795512555000-37",
+    "headline": "Ice Cap Clues Suggest Warming Halted an Early Start to the Next Ice Age",
+    "summary": [
+     "Researchers studying the Barnes Ice Cap on Baffin Island in Arctic Canada say a new glacial period may have started about 2,000 years ago. The ice cap is a surviving piece of the huge Laurentide Ice Sheet, which once covered much of Canada and the northern United States. Their findings, published in the journal Science, suggest the ice sheet was at its smallest around 3,000 years ago and then began to grow again as temperatures cooled.",
+     "To trace this, the team collected ancient plant remains that have emerged from under the ice since it started shrinking in 1960. Because this ice cap is frozen to the bedrock and does not slide, plants buried beneath it stayed in place. Radiocarbon dating showed when the plants were covered, which let the scientists follow how the ice edge advanced. By the 1960s, though, rising summer temperatures meant the ice cap was losing more ice than winter snow could replace, and it began to shrink."
+    ],
+    "bigPicture": "The study suggests that human-driven warming may have interrupted a natural climate cycle that was just getting started. The researchers say the early growth would have taken about 30,000 years to rebuild the ice sheet to its former size, so it would not have changed the world quickly. Models suggest the Barnes Ice Cap could vanish within a few centuries, and because past ice sheets helped kick off new glaciation, its loss might affect how future glacial periods develop. The team's view also differs from climate-model studies that placed the next glaciation thousands of years away, partly because scientists define the start of a glacial period differently.",
+    "source": "ScienceDaily",
+    "date": "2026-11-24T09:29:15.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+    "originalTitle": "Earth's next ice age may have already begun. Global warming stopped it"
+   }
+  ],
+  "wellbeing": [
+   {
+    "id": "wellbeing-1795579919000-1",
+    "headline": "Brain scans reveal three biological patterns that cut across ADHD and anxiety diagnoses",
+    "summary": [
+     "A study led by Stanford Medicine, published in Nature Mental Health, used brain scans and an AI model to look for biological patterns in children with ADHD, anxiety, or both. The team found three brain types, which they call biotypes. Each one involves disruptions in a different set of brain circuits. The data came from a large U.S. study of children who were 9 or 10 years old when they joined, and the results were checked against scans from another 224 children in a separate project.",
+     "The three biotypes are called externalizing-disinhibited, internalizing-distressed and mixed. The first is linked to more impulsivity and rule-breaking and is more often seen with ADHD. The second is tied to guilt, tension, perfectionism and anxiety or depression symptoms, and is more often seen with anxiety. The mixed group had more trouble with attention, irritability and self-injury, and was more likely to have an ADHD diagnosis. Even so, every pairing of biotype and diagnosis turned up among the children studied."
+    ],
+    "bigPicture": "Doctors now diagnose ADHD and anxiety with symptom checklists, even though the two conditions often share symptoms. Adding biological information could someday help clinicians spot these conditions sooner and choose treatments that suit each child, which may reduce the trial and error of trying several medications. The researchers do not expect biotypes to replace symptom-based diagnoses, and they hope future clinical trials will test how different treatments affect each pattern. For now, this is early research, and what it could mean for care is still a possibility rather than a result.",
+    "source": "ScienceDaily",
+    "date": "2026-11-25T04:11:59.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261124055713.htm",
+    "originalTitle": "Stanford scientists discover 3 hidden brain types behind ADHD and anxiety"
+   },
+   {
+    "id": "wellbeing-1795399330000-2",
+    "headline": "Researchers find brain cells in mice that build the urge to sleep",
+    "summary": [
+     "Scientists at the University of Basel in Switzerland have found two groups of brain cells in mice that grow more active the longer the animals stay awake. The cells are in the brainstem and are known as GABAergic and serotonergic neurons. Their activity drops once the mice fall asleep. The team, led by Professor Alex Schier, worked with colleagues from Beth Israel Deaconess Medical Center and Auburn University.",
+     "The researchers then tested whether these cells only keep track of time awake or actually help create the need for sleep. When both groups were switched on artificially, the mice slept longer and more deeply, much like recovery sleep after a long stretch awake. When the cells were held back, the mice slept much less and stayed alert. Suppressing both groups for an extended period cut sleep by about 70%. Many of those mice also avoided some of the serious behavioral problems usually linked to long-term sleep loss, which surprised the team."
+    ],
+    "bigPicture": "Scientists have long wondered how the brain turns time spent awake into a growing need for sleep, and this work points to specific brain circuits that help produce it. The researchers hope to learn how these cells communicate with other parts of the brain and what happens at the molecular level. Over time, the findings could improve understanding of sleep disorders and of how the body adapts to long periods without sleep. The authors suggest it may eventually lead to new treatments or ways to build resilience to sleep deprivation, but that is a possibility, and this research was done in mice.",
+    "source": "ScienceDaily",
+    "date": "2026-11-23T02:02:10.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261122060336.htm",
+    "originalTitle": "Mice slept 70% less after scientists switched off these brain cells"
+   },
+   {
+    "id": "wellbeing-1795394742000-3",
+    "headline": "Lower spinal bone density linked to faster brain aging in Johns Hopkins study",
+    "summary": [
+     "Researchers at Johns Hopkins University found that people with lower bone density in the spine tended to show faster cognitive decline as they aged. They also saw quicker changes in the brain's white matter, the tissue that helps brain regions communicate. The work was published in the journal Radiology.",
+     "The team used an AI tool to measure spinal bone density from chest CT scans that participants in an existing health study, MESA, had already had. After applying the study's requirements, 715 people had the bone, brain MRI and thinking-test data needed. Lower bone density was tied to more white matter changes in the corpus callosum, which supports attention and working memory. It was also tied to a sharper drop in white matter integrity in a region called the anterior limb of the internal capsule."
+    ],
+    "bigPicture": "Chest CT scans are often done for other reasons, such as lung cancer screening. If bone density can be measured from them, doctors might gain extra information about who could be at higher risk of brain decline. That could possibly allow earlier screening and better management of risk factors that affect both bones and the brain. The researchers say more work is needed to understand the biology involved, and the approach may also help scientists study why age-related conditions often appear together.",
+    "source": "ScienceDaily",
+    "date": "2026-11-23T00:45:42.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261121221132.htm",
+    "originalTitle": "Scientists discover a surprising link between weak bones and faster brain aging"
+   },
+   {
+    "id": "wellbeing-1795178679000-7",
+    "headline": "Small trial: low-carb keto diet cut liver fat more than two other diets",
+    "summary": [
+     "A clinical trial published in Cell Metabolism compared three eating plans in 42 adults who had obesity, prediabetes and fatty liver disease. Participants were randomly assigned to a ketogenic, Mediterranean or low-fat, plant-focused diet. The researchers supplied all meals and set up weekly dietitian visits. They also adjusted calories so each group lost about 10% of starting body weight, which took roughly four to five months.",
+     "Even with similar weight loss, the keto group saw liver fat fall by an average of 67%, compared with 45% in each of the other two groups. About half of the keto group no longer met the criteria for prediabetes, versus 29% on the Mediterranean diet and 7% on the low-fat diet. All three groups improved insulin sensitivity and lost body fat. The keto group did not show a rise in blood fat or cholesterol, which the researchers found surprising given how much fat they ate. The study team noted that dropping below the prediabetes threshold does not necessarily mean the condition is permanently reversed."
+    ],
+    "bigPicture": "The results hint that what people eat may affect metabolic health in ways that go beyond the number on the scale. The researchers suggest cutting carbohydrates could influence liver fat through routes other than weight loss, and they point out that this could matter as weight-loss medications such as GLP-1 drugs become more widely used. Still, this was a small study with 42 people, and all their meals were provided, which is different from everyday life. Larger and longer studies would be needed to know whether the benefits hold up over time and for other groups of people.",
+    "source": "ScienceDaily",
+    "date": "2026-11-20T12:44:39.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
+    "originalTitle": "Keto diet slashes liver fat by 67% in just 4 months"
+   },
+   {
+    "id": "wellbeing-1795176367000-8",
+    "headline": "Reading for pleasure is linked to better brain health and lower stress",
+    "summary": [
+     "A review in Psychological Medicine, by Cambridge researchers Barbara Sahakian and Christelle Langley with Vicki Perrin of The Queen's Reading Room, looked at the evidence on reading for enjoyment. It found links with better mental health, stronger empathy and a lower risk of dementia. The authors say the format and type of reading matter less than how much a person enjoys it. Reading together, such as in book clubs or when parents share stories with children, may add further benefits.",
+     "In children, a study of more than 10,000 young people found that those who began reading for pleasure early tended to do better on attention, memory and executive functioning. They also showed stronger school results, fewer mental health problems, more sleep and less screen time. For adults, a 2024 study commissioned by The Queen's Reading Room found that five minutes of fiction could lower stress by as much as 20%. Another investigation linked reading newspapers, magazines and books with a 33% lower risk of Alzheimer's disease. The researchers stress that most studies show associations and do not prove that reading prevents dementia."
+    ],
+    "bigPicture": "Reading is a low-cost habit that many people already find relaxing, so these findings may encourage families to make more room for it. The researchers suggest starting with topics children already like, such as a TV program or a game, and note that comics and graphic novels may feel less intimidating. Reading for enjoyment has become less common among young people, so wider efforts to encourage it could matter. Because much of the evidence is correlational, future research may help show how much reading itself contributes to brain health.",
+    "source": "ScienceDaily",
+    "date": "2026-11-20T12:06:07.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
+    "originalTitle": "This simple habit is linked to a 33% lower risk of Alzheimer's"
+   },
+   {
+    "id": "wellbeing-1795165757000-9",
+    "headline": "Exercising Regularly May Matter More Than Intensity for Students' Mental Health, Study Finds",
+    "summary": [
+     "Researchers in Norway followed 10,460 full-time higher education students, aged 18 to 35, to see how their exercise habits related to later mental health. At the start, students answered questions about how often they exercised, how hard they worked, how long each session lasted and how many hours they were active in total each week. A year later, they completed a self-administered diagnostic assessment for common mental health disorders. The study was led by Michael Grasdalsmoen of Western Norway University of Applied Sciences and was published in PLOS One.",
+     "Students who reported less physical activity were more likely to meet the criteria for anxiety or depression a year later. Of all the exercise measures, how often students worked out was the most consistently linked to later mental health, more so than intensity or time spent. Some differences appeared between the sexes: among women, lower intensity was linked to more anxiety and depression, while among men, fewer total weekly hours showed a stronger link. The likelihood of these conditions fell as weekly exercise rose, up to about 10 hours per week. The researchers noted that the findings fit with the World Health Organization's advice of at least 150 minutes of moderate-to-vigorous activity each week."
+    ],
+    "bigPicture": "Because this was an observational study, it cannot show that exercise itself prevented depression or anxiety, only that the two were connected. Even so, the authors suggest that making physical activity easy and a natural part of student life could be a useful piece of wider efforts to support student well-being. That could matter especially for students who are starting to struggle but have not reached the point of a clinical diagnosis. For many people, the takeaway may be that a steady routine could count for more than occasional, intense workouts.",
+    "source": "ScienceDaily",
+    "date": "2026-11-20T09:09:17.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261119194601.htm",
+    "originalTitle": "For better mental health, how often you exercise may matter more than how hard"
+   },
+   {
+    "id": "wellbeing-1795086809000-12",
+    "headline": "UK Study Finds Fungal Toxins in Plant-Based Foods, but at Levels Under EU Guidelines",
+    "summary": [
+     "Researchers from the University of Parma in Italy, working with Cranfield University, tested 212 vegetarian and vegan products sold in the UK. These included meat alternatives such as vegan burgers, sausages and chicken-style pieces, plus oat, almond and soy milks. Every product contained at least one of 19 mycotoxins, which are natural poisons made by certain fungi, including molds. Many products held more than one.",
+     "Importantly, all of the products had toxin levels below recommended European Union guidelines. The researchers said this reflects the high food quality standards of the UK food industry. Finding a toxin also does not automatically make a food unsafe, since the risk depends on the type of toxin, how much is present and how much a person eats over time. Grains, legumes and seeds can pick up mold during farming or storage, which is why these ingredients are especially prone to the problem."
+    ],
+    "bigPicture": "The researchers say the main question is not any single product but how exposure adds up for people who eat many plant-based foods regularly. Eating these products occasionally is unlikely to cause problems at the reported levels, and the study does not show that the products cause illness. Cranfield's Andrea Patriarca noted that mycotoxins cannot be fully avoided and that people should not be put off eating a varied diet. The team is continuing its work, and the findings could help shape future food safety policies and the monitoring of newer, multi-ingredient foods, which currently have no established mycotoxin regulations.",
+    "source": "ScienceDaily",
+    "date": "2026-11-19T11:13:29.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+    "originalTitle": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins"
+   },
+   {
+    "id": "wellbeing-1795037309000-15",
+    "headline": "Mouse study links overtraining to lingering changes in brain dopamine",
+    "summary": [
+     "Researchers in Brazil studied how very heavy exercise affects the brain, not just the muscles. In a study published in the journal Neuroscience, they looked at the hippocampus, a brain region involved in memory and emotional regulation. Mice that followed a demanding training schedule still had raised dopamine levels 48 hours after a performance test, even though they were supposed to be recovering.",
+     "The mice trained for eight weeks, with the workload rising gradually. By the final week they were doing two sessions a day, with only four hours of rest between them. Mice that ran just one exhausting session also showed a rise in dopamine, but it was the long training program that led to the lasting change. Levels of serotonin, another brain chemical long linked to fatigue, did not differ significantly between the animals."
+    ],
+    "bigPicture": "Overtraining is already known to bring ongoing tiredness, muscle pain, a higher risk of injury and changes in immune function. This work suggests brain chemistry could be another part of the picture. If similar changes are found in people, they might help explain why some overtrained athletes have trouble sleeping or feel anxious, though that link has not been established. The researchers' practical advice is to balance training with proper recovery and expert guidance. The team is also taking part in a new international project to find which body systems show strain first when exercise goes beyond what is helpful.",
+    "source": "ScienceDaily",
+    "date": "2026-11-18T21:28:29.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
+    "originalTitle": "Too much exercise could leave your brain stuck in overdrive"
+   },
+   {
+    "id": "wellbeing-1795003604000-16",
+    "headline": "Study finds the aging brain's overnight waste-clearing fluid waves grow weaker",
+    "summary": [
+     "MIT researchers report that the brain's natural cleaning process during sleep becomes less effective with age. The process relies on waves of cerebrospinal fluid that help carry waste out of the brain. In the study, these waves were significantly weaker in older adults, and the difference could not be explained simply by older people sleeping less.",
+     "The team compared volunteers aged 18 to 39 with volunteers aged 60 to 84. They used brain imaging and electrical recordings as many participants dozed off in the scanner. When younger adults entered deep non-REM sleep, their slow brain waves strengthened and larger fluid waves followed. In older adults, the average fluid waves were much smaller."
+    ],
+    "bigPicture": "The findings raise the question of whether weaker nighttime brain cleaning might contribute to Alzheimer's disease and other forms of dementia, though the study does not show that it does. Researchers hope changes in these fluid waves could someday help identify people at greater risk of cognitive decline. They also want to explore whether treatments or other interventions could strengthen the clearing process in older adults. These are open possibilities that will need more research.",
+    "source": "ScienceDaily",
+    "date": "2026-11-18T12:06:44.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
+    "originalTitle": "MIT discovers that aging weakens the brain’s nighttime cleaning system"
+   },
+   {
+    "id": "wellbeing-1795002921000-17",
+    "headline": "Why Farts Smell: Sulfur Gases From Gut Bacteria Do the Work",
+    "summary": [
+     "A healthy person passes gas roughly 14 to 20 times a day. Most of it is made of odorless gases that are also in the air we breathe, such as nitrogen, carbon dioxide, hydrogen and methane. Trillions of gut microbes help break down food the stomach can't handle, and they release these gases as a byproduct. Passing gas is a normal sign that the microbes are doing their job, and it also relieves pressure that could cause bloating and cramps.",
+     "The smell comes from a small group of sulfur-containing gases. Hydrogen sulfide smells like rotten eggs, methanethiol like cabbage or sewage, and dimethyl sulfide like cooked corn or seafood. Very small amounts are enough to notice. Meat, dairy and eggs, along with vegetables like cabbage, broccoli, Brussels sprouts and cauliflower, supply sulfur that gut microbes turn into these gases. High-fiber foods, candy and artificial sweeteners can lead to bigger, louder farts, but loud ones are not always the smelliest."
+    ],
+    "bigPicture": "Knowing that smell depends on diet and gut microbes helps explain why it varies from person to person and day to day. The author notes that persistent foul-smelling gas can sometimes point to a problem such as irritable bowel syndrome or a food intolerance, so it may be worth discussing with a doctor. Researchers have also designed seat cushions and blankets with sulfur-absorbing materials like activated charcoal, which could appeal to people who travel. Our sensitive noses likely developed to warn us of rotting material and unsafe places, so the smell is a useful signal.",
+    "source": "ScienceDaily",
+    "date": "2026-11-18T11:55:21.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
+    "originalTitle": "Why do farts smell so bad? The secret is brewing in your gut"
+   }
+  ]
+ }
+}
