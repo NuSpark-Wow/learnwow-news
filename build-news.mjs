@@ -117,14 +117,24 @@ async function articleText(url) {
 }
 
 async function claude(prompt, maxTokens = 1200) {
-  const r = await fetch("https://api.anthropic.com/v1/messages", {
-    method: "POST",
-    headers: { "x-api-key": API_KEY, "anthropic-version": "2023-06-01", "content-type": "application/json" },
-    body: JSON.stringify({ model: MODEL, max_tokens: maxTokens, messages: [{ role: "user", content: prompt }] }),
-  });
-  if (!r.ok) throw new Error(`Claude ${r.status}: ${(await r.text()).slice(0, 300)}`);
-  const j = await r.json();
-  return j.content.map((c) => c.text || "").join("");
+  for (let attempt = 1; attempt <= 4; attempt++) {
+    try {
+      const r = await fetch("https://api.anthropic.com/v1/messages", {
+        method: "POST",
+        headers: { "x-api-key": API_KEY, "anthropic-version": "2023-06-01", "content-type": "application/json" },
+        body: JSON.stringify({ model: MODEL, max_tokens: maxTokens, messages: [{ role: "user", content: prompt }] }),
+        signal: AbortSignal.timeout(90000),
+      });
+      if (r.ok) { const j = await r.json(); return j.content.map((c) => c.text || "").join(""); }
+      const msg = `Claude ${r.status}: ${(await r.text()).slice(0, 300)}`;
+      if (![429, 500, 502, 503, 529].includes(r.status) || attempt === 4) throw new Error(msg);
+      console.log(`  busy, retrying (${msg.slice(0, 60)})`);
+    } catch (e) {
+      if (attempt === 4 || /Claude 4(0|1|3)/.test(e.message)) throw e;
+      console.log(`  retrying after: ${e.message.slice(0, 80)}`);
+    }
+    await new Promise((res) => setTimeout(res, attempt * 8000));
+  }
 }
 function json(text) {
   const a = text.indexOf("{"), b = text.lastIndexOf("}");
@@ -180,6 +190,7 @@ async function main() {
 
       for (const n of picks) {
         const it = items[n];
+        try {
         const body = await articleText(it.link);
         const out = json(await claude(
           `Write a news highlight for "The Last 7 Days of Learn...Wow! News" (${cat.name}). Readers are curious adults and families.\n\n` +
@@ -204,6 +215,7 @@ async function main() {
         });
         usedLinks.add(it.link); usedTitles.add(key(it.title));
         console.log(`  + ${out.headline}`);
+        } catch (e) { console.log(`  story skipped: ${e.message.slice(0, 120)}`); }
       }
       existing.sort((a, b) => Date.parse(b.date) - Date.parse(a.date));
     } catch (e) {
