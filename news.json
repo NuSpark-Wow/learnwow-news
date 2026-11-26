@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-25T11:43:33.135Z",
+ "updated": "2026-11-26T19:29:57.714Z",
  "categories": {
   "science": [
+   {
+    "id": "science-1795689977000-18",
+    "headline": "X-ray scans reveal famous 'early reptile' fossil was actually a water-dwelling animal",
+    "summary": [
+     "A small fossil found in Scotland in 1984 was seen for almost thirty years as one of the earliest known reptiles. Nicknamed \"Lizzie\" and named Westlothiana lizziae, it is about 345 million years old. New research in Nature, led by scientists at the American Museum of Natural History and the University of Oxford, now suggests it was a very different kind of animal.",
+     "The skeleton is preserved in two crushed slabs of rock, which made it hard to read. Researchers used powerful X-ray imaging at the European Synchrotron Radiation Facility in Grenoble, France, to look inside and rebuild hidden parts of the animal. They found a primitive skull, internal gills containing bone, and a fish-like mouth with thousands of tiny teeth. These features rule out a place in the family line leading to reptiles, and point to an aquatic or amphibious creature."
+    ],
+    "bigPicture": "Lizzie had long served as a reference point for when and how amniotes first evolved, so reclassifying it affects how scientists picture that early history. The study suggests that land-style features built up gradually in animals that lived both in and out of the water. It may also affect how fossil footprints are interpreted. Some tracks once credited to early amniotes could instead have been left by older amphibious relatives, though that would need further study.",
+    "source": "ScienceDaily",
+    "date": "2026-11-26T10:46:17.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm",
+    "originalTitle": "This 345-million-year-old fossil had scientists fooled for decades"
+   },
+   {
+    "id": "science-1795651206000-34",
+    "headline": "Giant deer bones hint people may have reached Ireland earlier than thought",
+    "summary": [
+     "Researchers studying Ballynamintra Cave, near Dungarvan in County Waterford, found signs that hunter-gatherers may have been in southern Ireland about 13,500 years ago. That would be nearly a thousand years before the earliest firm evidence now accepted. The study was published on Nov. 26 in the Proceedings of the Royal Irish Academy. It combines new digging at the cave with a fresh look at animal bones first collected there in 1878–1882 and kept at the National Museum of Ireland.",
+     "In that old collection, the team found two leg bones from the extinct giant deer that carry marks consistent with butchery of fresh bone. One upper foreleg bone has a flat chopping mark that fits a heavy stone blade used on the elbow joint, plus wolf gnaw marks. A lower hindleg bone has a possible impact mark and tiny cracks from splitting it open for marrow. Oxford radiocarbon dating put that bone at 13,573–13,321 years ago. The current earliest firm evidence in Ireland is a butchered brown bear bone from a County Clare cave, dated to roughly 12,800–12,600 years ago."
+    ],
+    "bigPicture": "If people really were in Ireland 13,500 years ago, it would push back the known arrival of humans there and change how scientists picture early movement across northwest Europe at the end of the last Ice Age. The team also showed that undisturbed Ice Age layers still survive in the cave, which overturns the idea that 19th-century diggers emptied Ireland's bone caves. Further excavations are scheduled, and Ice Age deposits appear to continue into unexplored passages. Those digs could turn up stone tools or bone points that might confirm early settlement, though that remains a possibility rather than a result.",
+    "source": "Phys.org",
+    "date": "2026-11-26T00:00:06.000Z",
+    "link": "https://phys.org/news/2026-11-giant-deer-bones-human-ireland.html",
+    "originalTitle": "Giant deer bones may push human arrival in Ireland back by 1,000 years"
+   },
    {
     "id": "science-1795601182000-3",
     "headline": "Northwestern physicists trap and cool a single positron, opening the way to a precise antimatter test",
@@ -134,6 +160,32 @@
    }
   ],
   "medical": [
+   {
+    "id": "medical-1795711202000-4",
+    "headline": "Experimental drug PHI-101 targets resistant FLT3 leukemia in early lab and animal studies",
+    "summary": [
+     "Researchers at Johns Hopkins report that an experimental drug called PHI-101 may help with a hard-to-treat form of acute myeloid leukemia (AML) known as FLT3-positive AML. Changes in the FLT3 gene occur in about one-third of people with AML. Existing FLT3-blocking drugs have helped, but some patients develop extra mutations that let the cancer escape them. The findings were published Oct. 12 in the journal Leukemia.",
+     "The team focused on a resistance mutation called F691L, sometimes described as a \"gatekeeper\" mutation. In lab tests, PHI-101 worked better than two FDA-approved drugs, gilteritinib and quizartinib, against cells with this change, and it had little effect on other cells. In mice with the F691L mutation, median survival was 44.4 days with PHI-101, compared with 21.4 days with gilteritinib and 19.4 days with no treatment. In another mouse experiment using human AML cells with a FLT3 mutation, median survival was 191 days with PHI-101, 133 days with gilteritinib and 108 days untreated."
+    ],
+    "bigPicture": "Resistance to treatment is a major limit for people with FLT3-positive AML, so a drug that still works against resistant cells could eventually add a useful option. These results come from lab and animal studies, and human trials are still at an early stage, so it is too soon to know how well the drug will work for patients. The researchers are also interested in whether PHI-101 could be used earlier in treatment or combined with other drugs, which might help improve responses and possibly prevent resistance from developing.",
+    "source": "Medical Xpress",
+    "date": "2026-11-26T16:40:02.000Z",
+    "link": "https://medicalxpress.com/news/2026-11-experimental-drug-treatment-resistance-aggressive.html",
+    "originalTitle": "Experimental drug shows promise in overcoming treatment resistance in aggressive acute myeloid leukemia"
+   },
+   {
+    "id": "medical-1795655062000-21",
+    "headline": "Large UK Trial Finds Robotic Knee Replacement Matches Standard Surgery After One Year",
+    "summary": [
+     "A large UK trial called RACER-Knee compared robot-assisted knee replacement with conventional surgery. The robotic system helped surgeons work with greater precision. Even so, patients in both groups reported similar pain, mobility and recovery twelve months after their operations. The results were published in The Lancet.",
+     "The study included 339 patients treated by 33 surgeons at 10 hospitals. The main measure was the Forgotten Joint Score, which shows how aware people are of their artificial joint in daily life, and the two groups scored about the same. Robotic surgery was not linked to a higher risk of serious adverse events. It took about 10.5 minutes longer and cost roughly £950 more per procedure. By current NHS spending thresholds, it was not considered cost-effective in the first year."
+    ],
+    "bigPicture": "Robotic systems are already used in a share of knee replacements around the world, so clear evidence about how patients fare is useful for families weighing their options and for health services deciding where to spend money. The researchers suggest the technology could become more valuable if surgeons learn the ideal placement of a knee joint for each patient and use the robot's precision to tailor the operation. They also plan to follow participants for ten years, which may show whether robotic assistance reduces the need for further knee surgery. These are possibilities, and the long-term findings will show whether any benefit appears.",
+    "source": "ScienceDaily",
+    "date": "2026-11-26T01:04:22.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261124055904.htm",
+    "originalTitle": "World’s largest trial of robotic knee replacement reveals surprising results"
+   },
    {
     "id": "medical-1795605227000-0",
     "headline": "Fewer older adults with cognitive disorders take risky medications, but one in three still do",
@@ -293,6 +345,32 @@
   ],
   "technology": [
    {
+    "id": "technology-1795717201000-0",
+    "headline": "New Rubberlike Semiconductor Stretches and Springs Back While Conducting Electricity Well",
+    "summary": [
+     "Researchers have developed a polymer semiconductor that can stretch like rubber and return to its original shape. The work was led by Professor Joon Hak Oh at Seoul National University, with teams from Queensland University of Technology in Australia and Fudan University in China. It is an n-type material, a kind of semiconductor that uses electrons to carry charge. Stretchable n-type materials have so far performed far worse electrically than their p-type counterparts.",
+     "The team added about 10% of a poorly soluble molecular structure, once seen as a drawback, to an n-type polymer with strong electrical performance. These molecules stack together and act as \"nano-anchors\" that hold the soft polymer chains in place, helping them return to their original arrangement after stretching while keeping paths open for electricity. In tests, a conventional n-type polymer cracked after a single stretch to 1.75 times its length. The new material showed no cracking after 1,000 cycles of stretching to twice its length and releasing."
+    ],
+    "bigPicture": "Electronics that bend and stretch with the body need materials that can survive repeated movement without losing performance. Because stretchable n-type semiconductors have lagged behind p-type ones, this result may help close that gap. The researchers expect the technology could eventually be used in wearable health devices that move with the skin while measuring signals such as pulse and blood oxygen levels. It could also be used in wearable displays and electronic skin for robots, though these remain possible future uses rather than finished products.",
+    "source": "Tech Xplore",
+    "date": "2026-11-26T18:20:01.000Z",
+    "link": "https://techxplore.com/news/2026-11-rubberlike-semiconductor-combines-elasticity-high.html",
+    "originalTitle": "Rubberlike semiconductor combines elasticity and high electrical performance for stretchable electronics"
+   },
+   {
+    "id": "technology-1795687140000-8",
+    "headline": "Experimental bionic hand lets a user feel pressure, and he's testing it at home",
+    "summary": [
+     "Avi Davidson lost his left hand as a teenager. He now uses an experimental prosthetic that is wired to nerves in his forearm and lets him sense pressure. He says he can handle delicate things such as grapes, eggs and a loved one's hand. He is the ninth person in a University of Utah clinical trial to have the device implanted, and the first to take it home and use it on his own.",
+     "The hand is part of the LUKE arm, which was approved by the FDA in 2014. The trial focuses less on the arm itself and more on a new way of linking it to the nervous system, so users can control movement and get feedback about pressure. Surgeons placed electrode arrays in three nerves in his arm and added 24 electrodes in nearby muscles. A computer system was then trained to turn nerve signals into hand and wrist movements. Teaching it to produce sensations took much longer, about three days according to the lab director."
+    ],
+    "bigPicture": "Researchers want to learn how useful this kind of hand really is in daily life, when it helps, and where it falls short. They also want to see how it affects Davidson's well-being, brain and nervous system. What they find could help shape future prosthetics that offer both movement and a sense of touch. Because this is an early trial with a small number of participants, it is too soon to say how widely such devices might be used.",
+    "source": "MIT Technology Review",
+    "date": "2026-11-26T09:59:00.000Z",
+    "link": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+    "originalTitle": "The next generation of bionic hands is here—and they can feel"
+   },
+   {
     "id": "technology-1795606801000-0",
     "headline": "EU Unveils Quantum Act, Hoping to Avoid Repeating Its Mistakes on AI",
     "summary": [
@@ -451,6 +529,32 @@
   ],
   "ai": [
    {
+    "id": "ai-1795689601000-0",
+    "headline": "Anthropic CEO rejects claim he wants people to give up free will to AI",
+    "summary": [
+     "Dario Amodei, the chief executive of Anthropic, said on Wednesday that he does not think humans should hand over their free will to AI systems. In a long post on X, he called the suggestion \"absurd\" and wrote that legitimacy and self-determination should never be given up for the sake of efficiency or security. The post came a week after Anthropic's record-setting stock market debut.",
+     "He was responding to an Axios article on the AI debate. Without naming anyone, he criticized \"some AI CEOs\" who say AI should be just a tool but do not do anything different in their products. Meta's chief AI officer Alexandr Wang and OpenAI CEO Sam Altman have both recently said similar things about keeping human agency. Elon Musk reposted Amodei's statement with the single word \"interesting.\""
+    ],
+    "bigPicture": "This exchange shows that leading AI companies are publicly working out how much control machines should have and how much should stay with people. Anthropic's IPO filing says each new Claude version speeds up development of the next, and that Claude wrote over 90% of the contributions to its codebase in September. That makes the question of limits on self-improving AI more concrete. If the companies spell out where those limits sit, it could shape how future products are built and how the public judges them. For now, the lines remain unspecified, so it is unclear what any limits would look like.",
+    "source": "Tech Xplore",
+    "date": "2026-11-26T10:40:01.000Z",
+    "link": "https://techxplore.com/news/2026-11-anthropic-chief-denies-humans-surrender.html",
+    "originalTitle": "Anthropic chief denies wanting humans to 'surrender' free will to AI"
+   },
+   {
+    "id": "ai-1795686088000-2",
+    "headline": "Singapore's Punggol Digital District Serves as a Real-World Testing Ground for Robots and AI",
+    "summary": [
+     "In a government-built district called Punggol Digital District, Singapore is trying out technology that could become part of daily life. In a staged demonstration, AI-powered cameras and sensors spotted a coffee spill at an office block. A cleaning robot then left its dock, rode an elevator to the eighth floor and cleaned up the mess without human help.",
+     "The district covers 50 hectares and has eight businesses and office blocks, a mall, a university campus and a metro station. A central digital platform gathers data from thousands of cameras and sensors, and AI analyzes it, with human operators helping. The system can respond to problems, anticipate disruption and cut energy use and waste. For example, it can reduce elevator movements when demand is low and adjust air-conditioning in real time. Staff also use a digital replica of the district on a giant screen to spot or predict problems."
+    ],
+    "bigPicture": "Testing robots and connected systems across a whole district, rather than in separate places, may help companies see how the technology works in everyday settings. A Panasonic executive said similar trials in Japan took longer because he had to deal with many separate building managers, regulators and agencies. If the approach works, it could possibly help cities cope with fewer workers while keeping public spaces clean and safe. Safety rules are still being developed, and the people interviewed said they had no privacy worries, so how these tools are received more widely remains to be seen.",
+    "source": "Tech Xplore",
+    "date": "2026-11-26T09:41:28.000Z",
+    "link": "https://techxplore.com/news/2026-11-robots-roam-singapore-urban-ai.html",
+    "originalTitle": "Robots roam Singapore's urban AI testing ground"
+   },
+   {
     "id": "ai-1795606006000-0",
     "headline": "AI-made holiday ads promote products that don't exist, leaving shoppers with losses",
     "summary": [
@@ -592,48 +696,35 @@
     "date": "2026-11-20T09:20:01.000Z",
     "link": "https://techxplore.com/news/2026-11-anthropic-soars-wall-street-debut-1.html",
     "originalTitle": "Anthropic soars in record Wall Street debut"
-   },
-   {
-    "id": "ai-1795106412000-35",
-    "headline": "UN Rights Chief Warns AI Is Controlled by a Few Companies With Little Oversight",
-    "summary": [
-     "Volker Turk, the U.N. high commissioner for human rights, said artificial intelligence is being governed in an almost medieval way. He spoke on Thursday at the RightsX summit in Geneva. In his view, the technology sounds futuristic, but it follows an old pattern in which a small group holds the power.",
-     "Turk said five technology companies own more than 70% of global AI computing capacity. He argued that this leaves a democratic gap, with few checks, little public participation and little accountability. He also said there are still no common rules to guide how AI develops."
-    ],
-    "bigPicture": "Turk's remarks add to the debate over who should set the rules for powerful AI systems and who should answer when things go wrong. He voiced hope that people will challenge unchecked power, and he said sharing AI's benefits fairly would take goodwill from companies as well as regulation. If governments and companies act on calls like his, it could lead to shared rules and clearer accountability. If they do not, he suggested, public trust in AI could wear away.",
-    "source": "Tech Xplore",
-    "date": "2026-11-19T16:40:12.000Z",
-    "link": "https://techxplore.com/news/2026-11-ai-medieval.html",
-    "originalTitle": "AI being run in a 'medieval' way: UN"
-   },
-   {
-    "id": "ai-1795105208000-36",
-    "headline": "NATO Officials Say AI Is Speeding Up War and Pressuring Alliance to Keep Pace",
-    "summary": [
-     "At a three-day conference called NATO Edge in Izmir, Turkey, military chiefs, officials and defense experts from NATO's 32 member states and Ukraine are discussing how artificial intelligence is changing the battlefield. Modern conflict involves drone swarms, jamming, cyber operations, electromagnetic attacks and real-time mapping of troop movements. The main message from the event is that success now depends less on holding secret information and more on connecting the dots faster.",
-     "Adm. Pierre Vandier, a senior NATO commander, said the challenge is no longer the technology itself but how quickly it can be integrated, adapted and scaled. He described AI as speeding up each step from data to understanding, decision and effect, and said large amounts of data arrive from the field every day. One anonymous European industrialist said a front-line team may have only one minute between a sensor being triggered and an enemy strike."
-    ],
-    "bigPicture": "The discussions show that the speed of decisions is becoming as important as the technology itself in modern defense. If the approaches described at the conference take hold, militaries could work more closely with technology companies and update equipment far more often. Alliances like NATO may also face pressure to simplify how they make decisions and buy equipment. How well that works in practice is not yet known.",
-    "source": "Tech Xplore",
-    "date": "2026-11-19T16:20:08.000Z",
-    "link": "https://techxplore.com/news/2026-11-fast-furious-nato-ai-driven.html",
-    "originalTitle": "Fast and furious: NATO wrestles with speed of AI-driven warfare"
-   },
-   {
-    "id": "ai-1795096800000-38",
-    "headline": "Data Centers' Electricity Use Linked to Air Pollution Far Beyond Their Locations",
-    "summary": [
-     "A new MIT-led study finds that the rapid growth of AI data centers can harm air quality and health in regions far from the buildings themselves. The team estimates that extra air pollution from data center electricity use in 2023 led to about 650 premature deaths across the United States. Of those, 513 were tied to fine particles and 137 to smog. The work appears in Environmental Research Letters.",
-     "Much of the electricity demand was concentrated in Virginia and Texas, yet some Midwestern states had among the highest estimated rates of premature deaths per capita. To trace this, the researchers modeled how data center demand moves through the connected power grid and which of the more than 10,000 generators ramp up hour by hour. Those are often natural gas plants, though this varies by place and time. They then used a chemical transport model to follow the resulting pollutants through the atmosphere. In parts of the Midwest, the emissions meet weather conditions that favor fine particulate matter, which can cause heart attacks, stroke, and lung disease."
-    ],
-    "bigPicture": "The findings suggest that the health effects of data centers may not stay near the facilities, so people living far from one could still be affected. The researchers say this points to the value of weighing regional health impacts when deciding where data centers are located and how they operate. Lawrence Berkeley National Laboratory estimated that data centers used about 4 percent of U.S. energy demand in 2023, and that share has likely grown as more are built. If so, understanding where the pollution lands could become more important for planners and communities.",
-    "source": "MIT News",
-    "date": "2026-11-19T14:00:00.000Z",
-    "link": "https://news.mit.edu/2026/study-reveals-data-centers-long-distance-damage-air-quality-1119",
-    "originalTitle": "Study reveals data centers’ long-distance damage to air quality"
    }
   ],
   "ourworld": [
+   {
+    "id": "ourworld-1795701602000-5",
+    "headline": "Astronomers find the most distant quasar yet, from the universe's early days",
+    "summary": [
+     "A German-led team has reported the most distant quasar known so far. A quasar is the bright core of a galaxy with a black hole at its center. This one is seen as it was about 630 million years after the Big Bang, roughly 13.1 billion years ago, when the universe was less than 5% of its present age.",
+     "The team, led by Julien Wolf of the European Southern Observatory, found it while searching through a huge number of observations from the European Space Agency's Euclid telescope. Hubble, Webb and other observatories confirmed the result. Webb data showed that the black hole has a mass equal to about 360 million Suns, even though it takes in surrounding material fairly slowly."
+    ],
+    "bigPicture": "Finding such a large black hole so early in the universe raises a puzzle that Wolf put simply as \"but how?\" Studying this object could help researchers test ideas about how black holes grew so large so soon after the Big Bang. The record may not last long, though. Wolf said it could be broken within months or could stand for years, so more distant discoveries remain possible.",
+    "source": "Phys.org",
+    "date": "2026-11-26T14:00:02.000Z",
+    "link": "https://phys.org/news/2026-11-scientists-quasar-mere-million-years.html",
+    "originalTitle": "Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record"
+   },
+   {
+    "id": "ourworld-1795691175000-6",
+    "headline": "Strange trenches on Australia's Nullarbor Plain point to hidden collapsing caves below",
+    "summary": [
+     "Researchers have worked out what created long, shallow trenches scattered across the Nullarbor Plain in southern Australia. The plain covers more than 200,000 square kilometers and is one of the world's largest areas of limestone. The trenches run roughly north-south, reach up to 20 km in length and are only a few meters deep. They are almost invisible from the ground but show up clearly in digital landscape models.",
+     "The trenches look a little like flat-bottomed valleys, but rivers did not make them. They start and stop abruptly, are not linked to drainage networks and contain no sign of sediment left by flowing water. To find the cause, the team combined drone and aerial photos, satellite-based landscape models, measurements from boreholes and caves, and geophysical methods that let them see inside the ground."
+    ],
+    "bigPicture": "Knowing where hidden voids lie underground can matter for planning buildings, roads, tunnels and sewers, for reducing geological hazards, and for protecting groundwater. Caves can also preserve records of ancient environments and shelter unusual life forms, so finding them is a first step toward studying them. The authors suggest the same approach might help spot caves on other planets such as Mars, where caves could be possible places to look for life or to base future explorers. They say similar trenches have probably been overlooked in other places, though how many hidden cave systems exist is not yet known.",
+    "source": "ScienceDaily",
+    "date": "2026-11-26T11:06:15.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
+    "originalTitle": "Deep beneath Australia, hidden caves could unlock the secrets of alien worlds"
+   },
    {
     "id": "ourworld-1795606804000-0",
     "headline": "California Prepares for Flooding as Very High Tides Meet El Niño Storms",
@@ -819,6 +910,32 @@
   ],
   "wellbeing": [
    {
+    "id": "wellbeing-1795692750000-1",
+    "headline": "Is Loneliness a Medical Problem or a Social One? New Study Weighs In",
+    "summary": [
+     "A University of Michigan study, published in Social Problems, looks at how loneliness came to be seen as a health issue. Researchers had linked chronic loneliness and social isolation to illness, earlier death and higher healthcare costs. One estimate in the study compared a lack of social connection to smoking 15 cigarettes a day, and another tied loneliness, isolation and living alone to about a 30% higher risk of premature death. Separate research put the cost of social isolation to Medicare at $6.7 billion a year for older adults' care.",
+     "Doctoral student Sofia Hiltner interviewed experts and reviewed more than a decade of media coverage, medical journal articles and academic literature. She found that the health link helped loneliness gain credibility, but it also encouraged the idea that anything affecting health should be handled by the healthcare system. In her view, doctors can screen patients and connect them to services, but they cannot rebuild communities or shorten work hours. She also found that the medical community was at first reluctant to take on loneliness, and that much of the push came from academic researchers, government health officials and insurance companies."
+    ],
+    "bigPicture": "The study suggests that calling loneliness a medical issue can raise awareness and prompt action, but it may also pull attention and resources away from the social conditions that leave people isolated. Hiltner says limited time and money mean one approach could crowd out others, though she also notes that a medical framing may inspire more action than would otherwise happen. She hopes policymakers will look further upstream and consider ways to prevent loneliness before it becomes a health concern. If they do, that could mean giving more thought to community life and the way people live and work, alongside healthcare support.",
+    "source": "ScienceDaily",
+    "date": "2026-11-26T11:32:30.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261124055906.htm",
+    "originalTitle": "Loneliness is making us sick, but we may be treating it all wrong"
+   },
+   {
+    "id": "wellbeing-1795665228000-3",
+    "headline": "Kidney Protein Linked to Phosphate Balance and Blood Vessel Aging in Animal Study",
+    "summary": [
+     "Researchers at the University of Colorado Anschutz School of Medicine have identified a kidney protein, called TMEM174, that helps control phosphate levels in the blood. In animal models, a shortage of the protein led to faster stiffening of blood vessels and a much shorter lifespan. The effects were strongest when the animals ate a diet high in phosphate, and cutting back on phosphate eased some of the damage. The study was published in October 2026.",
+     "Phosphate is a mineral that the body needs, and it is found in meat, fish, grains, nuts, legumes and dairy. It is also added to processed foods and drinks, and the body absorbs these additives more quickly than the phosphates in whole foods. When blood phosphate stays high, cells in blood vessel walls can start depositing bone-like crystals, which hardens the vessels. The researchers think TMEM174 works as a brake on another protein, NPT2A, which pulls phosphate back into the blood after the kidneys filter it."
+    ],
+    "bigPicture": "High blood phosphate is uncommon in the general population but much more common in people with chronic kidney disease, so this finding could matter most for them. The researchers suggest TMEM174 could become a target for future medicines that lower the phosphate the kidneys send back into the blood, though this has not yet been shown in people. Eating fewer processed foods such as fast food, deli meats and sodas may help somewhat, but the senior author notes that diet alone is hard to rely on because phosphate appears in so many foods. Further research is planned to learn more about how these kidney proteins work and why calcium builds up in the blood vessels of people with kidney disease.",
+    "source": "ScienceDaily",
+    "date": "2026-11-26T03:53:48.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261124055847.htm",
+    "originalTitle": "Too much of this common nutrient could be accelerating blood vessel aging"
+   },
+   {
     "id": "wellbeing-1795603980000-0",
     "headline": "Small daily doses of peppermint oil linked to lower blood pressure in small study",
     "summary": [
@@ -921,58 +1038,6 @@
     "date": "2026-11-20T09:09:17.000Z",
     "link": "https://www.sciencedaily.com/releases/2026/11/261119194601.htm",
     "originalTitle": "For better mental health, how often you exercise may matter more than how hard"
-   },
-   {
-    "id": "wellbeing-1795086809000-12",
-    "headline": "UK Study Finds Fungal Toxins in Plant-Based Foods, but at Levels Under EU Guidelines",
-    "summary": [
-     "Researchers from the University of Parma in Italy, working with Cranfield University, tested 212 vegetarian and vegan products sold in the UK. These included meat alternatives such as vegan burgers, sausages and chicken-style pieces, plus oat, almond and soy milks. Every product contained at least one of 19 mycotoxins, which are natural poisons made by certain fungi, including molds. Many products held more than one.",
-     "Importantly, all of the products had toxin levels below recommended European Union guidelines. The researchers said this reflects the high food quality standards of the UK food industry. Finding a toxin also does not automatically make a food unsafe, since the risk depends on the type of toxin, how much is present and how much a person eats over time. Grains, legumes and seeds can pick up mold during farming or storage, which is why these ingredients are especially prone to the problem."
-    ],
-    "bigPicture": "The researchers say the main question is not any single product but how exposure adds up for people who eat many plant-based foods regularly. Eating these products occasionally is unlikely to cause problems at the reported levels, and the study does not show that the products cause illness. Cranfield's Andrea Patriarca noted that mycotoxins cannot be fully avoided and that people should not be put off eating a varied diet. The team is continuing its work, and the findings could help shape future food safety policies and the monitoring of newer, multi-ingredient foods, which currently have no established mycotoxin regulations.",
-    "source": "ScienceDaily",
-    "date": "2026-11-19T11:13:29.000Z",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
-    "originalTitle": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins"
-   },
-   {
-    "id": "wellbeing-1795037309000-15",
-    "headline": "Mouse study links overtraining to lingering changes in brain dopamine",
-    "summary": [
-     "Researchers in Brazil studied how very heavy exercise affects the brain, not just the muscles. In a study published in the journal Neuroscience, they looked at the hippocampus, a brain region involved in memory and emotional regulation. Mice that followed a demanding training schedule still had raised dopamine levels 48 hours after a performance test, even though they were supposed to be recovering.",
-     "The mice trained for eight weeks, with the workload rising gradually. By the final week they were doing two sessions a day, with only four hours of rest between them. Mice that ran just one exhausting session also showed a rise in dopamine, but it was the long training program that led to the lasting change. Levels of serotonin, another brain chemical long linked to fatigue, did not differ significantly between the animals."
-    ],
-    "bigPicture": "Overtraining is already known to bring ongoing tiredness, muscle pain, a higher risk of injury and changes in immune function. This work suggests brain chemistry could be another part of the picture. If similar changes are found in people, they might help explain why some overtrained athletes have trouble sleeping or feel anxious, though that link has not been established. The researchers' practical advice is to balance training with proper recovery and expert guidance. The team is also taking part in a new international project to find which body systems show strain first when exercise goes beyond what is helpful.",
-    "source": "ScienceDaily",
-    "date": "2026-11-18T21:28:29.000Z",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
-    "originalTitle": "Too much exercise could leave your brain stuck in overdrive"
-   },
-   {
-    "id": "wellbeing-1795003604000-16",
-    "headline": "Study finds the aging brain's overnight waste-clearing fluid waves grow weaker",
-    "summary": [
-     "MIT researchers report that the brain's natural cleaning process during sleep becomes less effective with age. The process relies on waves of cerebrospinal fluid that help carry waste out of the brain. In the study, these waves were significantly weaker in older adults, and the difference could not be explained simply by older people sleeping less.",
-     "The team compared volunteers aged 18 to 39 with volunteers aged 60 to 84. They used brain imaging and electrical recordings as many participants dozed off in the scanner. When younger adults entered deep non-REM sleep, their slow brain waves strengthened and larger fluid waves followed. In older adults, the average fluid waves were much smaller."
-    ],
-    "bigPicture": "The findings raise the question of whether weaker nighttime brain cleaning might contribute to Alzheimer's disease and other forms of dementia, though the study does not show that it does. Researchers hope changes in these fluid waves could someday help identify people at greater risk of cognitive decline. They also want to explore whether treatments or other interventions could strengthen the clearing process in older adults. These are open possibilities that will need more research.",
-    "source": "ScienceDaily",
-    "date": "2026-11-18T12:06:44.000Z",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
-    "originalTitle": "MIT discovers that aging weakens the brain’s nighttime cleaning system"
-   },
-   {
-    "id": "wellbeing-1795002921000-17",
-    "headline": "Why Farts Smell: Sulfur Gases From Gut Bacteria Do the Work",
-    "summary": [
-     "A healthy person passes gas roughly 14 to 20 times a day. Most of it is made of odorless gases that are also in the air we breathe, such as nitrogen, carbon dioxide, hydrogen and methane. Trillions of gut microbes help break down food the stomach can't handle, and they release these gases as a byproduct. Passing gas is a normal sign that the microbes are doing their job, and it also relieves pressure that could cause bloating and cramps.",
-     "The smell comes from a small group of sulfur-containing gases. Hydrogen sulfide smells like rotten eggs, methanethiol like cabbage or sewage, and dimethyl sulfide like cooked corn or seafood. Very small amounts are enough to notice. Meat, dairy and eggs, along with vegetables like cabbage, broccoli, Brussels sprouts and cauliflower, supply sulfur that gut microbes turn into these gases. High-fiber foods, candy and artificial sweeteners can lead to bigger, louder farts, but loud ones are not always the smelliest."
-    ],
-    "bigPicture": "Knowing that smell depends on diet and gut microbes helps explain why it varies from person to person and day to day. The author notes that persistent foul-smelling gas can sometimes point to a problem such as irritable bowel syndrome or a food intolerance, so it may be worth discussing with a doctor. Researchers have also designed seat cushions and blankets with sulfur-absorbing materials like activated charcoal, which could appeal to people who travel. Our sensitive noses likely developed to warn us of rotting material and unsafe places, so the smell is a useful signal.",
-    "source": "ScienceDaily",
-    "date": "2026-11-18T11:55:21.000Z",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
-    "originalTitle": "Why do farts smell so bad? The secret is brewing in your gut"
    }
   ]
  }
