@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-26T19:29:57.714Z",
+ "updated": "2026-11-27T19:25:45.188Z",
  "categories": {
   "science": [
+   {
+    "id": "science-1795804806000-6",
+    "headline": "Particle collisions at CERN hint at a long-predicted effect in empty space",
+    "summary": [
+     "The ATLAS Collaboration at CERN's Large Hadron Collider found more proton collisions with a particular particle pattern than expected. Researchers at the University of Bonn, working with colleagues from Oxford and Prague, played a leading role in the analysis. The excess could be a sign of QCD instanton processes, which the Standard Model of particle physics has predicted for about 50 years but which have never been directly observed.",
+     "The force that holds quarks together inside protons and neutrons has an associated field, and that field has structure even in empty space. It can be pictured as twisting around itself in different ways, and through a quantum effect called tunneling it can switch from one arrangement to another. Instantons describe those switches. Theory says such an event should produce many lower-energy particles spreading out almost evenly in all directions. To look for this, the team trained a neural network to recognize ordinary proton collisions, so that unusual ones would stand out. Collisions with especially even particle spread turned up significantly more often than expected."
+    ],
+    "bigPicture": "If the signal holds up, it would show that the structure of empty space has measurable effects on particle collisions, and it would let scientists test a decades-old prediction in the laboratory. It might also offer new ways to study why the universe contains more matter than antimatter. Instanton processes themselves do not change the balance of matter and antimatter, but they involve the kind of field structure that makes other balance-shifting processes possible. For now, further checks are needed before anyone can say what the excess really is.",
+    "source": "Phys.org",
+    "date": "2026-11-27T18:40:06.000Z",
+    "link": "https://phys.org/news/2026-11-atlas-hints-hidden-vacuum.html",
+    "originalTitle": "ATLAS finds hints of the hidden structure of the vacuum"
+   },
+   {
+    "id": "science-1795773699000-30",
+    "headline": "X-ray scans reveal two opposing spirals hidden inside the narwhal's tusk",
+    "summary": [
+     "The narwhal's long spiral tusk was once sold in Europe as a unicorn horn. It is actually a tooth, usually the male's upper left canine, which grows forward through the lip and twists counterclockwise. It can reach about two meters (6.6 feet), as much as half the animal's body length.",
+     "An international team used powerful X-rays at three European synchrotron facilities to study how the tusk's tiny building blocks relate to its visible twist. They used a method called tensor tomography, which rotates the tooth in the beam and combines millions of measurements into a 3D picture of its internal structure. At first they could not find the spiral they expected. They then compared how neighboring points were oriented, and a pattern appeared."
+    ],
+    "bigPicture": "The study shows how a structure measured in billionths of a meter can shape a tooth meters long, and how a material can be both hard and flexible. It also gives a clearer picture of how the tusk is built, although what narwhals use it for is still not fully understood. Researchers suggest it plays a role in mate selection. The imaging approach might also help scientists study other natural composite materials, such as bone and other teeth.",
+    "source": "ScienceDaily",
+    "date": "2026-11-27T10:01:39.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+    "originalTitle": "The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret"
+   },
    {
     "id": "science-1795689977000-18",
     "headline": "X-ray scans reveal famous 'early reptile' fossil was actually a water-dwelling animal",
@@ -160,6 +186,32 @@
    }
   ],
   "medical": [
+   {
+    "id": "medical-1795803944000-1",
+    "headline": "Uganda begins testing an mRNA vaccine against Bundibugyo Ebola, the strain in Congo",
+    "summary": [
+     "Uganda's virus research institute said on Friday that it has started a trial of an experimental vaccine for the Bundibugyo strain of Ebola. This is the strain behind the current outbreak in neighboring Democratic Republic of Congo. The institute described the study as Africa's first mRNA phase 1 clinical trial, run together with the U.S.-based company Moderna.",
+     "The study will enroll 224 healthy volunteers aged 1 to 65. Its goals are to check the vaccine's safety and to see what kind of immune response it might produce. Separately, two experimental vaccines are due to begin testing on Monday in eastern DRC, where the outbreak is centered, with a focus on contacts of cases and people at high risk of infection."
+    ],
+    "bigPicture": "At present there are no approved vaccines or treatments for the Bundibugyo strain, so early studies like this one are a first step toward finding out whether a vaccine could be safe and effective. A phase 1 trial is an early stage, so it cannot show yet whether the vaccine protects people. If the results are encouraging, they could guide later and larger studies, and they might help health officials plan how to respond to future outbreaks of this strain. The use of mRNA technology, known from the COVID pandemic, may also show whether this approach suits Ebola vaccines.",
+    "source": "Medical Xpress",
+    "date": "2026-11-27T18:25:44.000Z",
+    "link": "https://medicalxpress.com/news/2026-11-mrna-ebola-vaccine-trial-uganda.html",
+    "originalTitle": "mRNA Ebola vaccine trial starts in Uganda: Institute"
+   },
+   {
+    "id": "medical-1795794017000-13",
+    "headline": "Trial tests flexible, step-by-step plan for locally advanced lung cancer treatment",
+    "summary": [
+     "A clinical trial published in Nature Medicine looked at a more flexible way to treat locally advanced non-small-cell lung cancer, which makes up 80% to 85% of lung cancer cases. Usually, the treatment plan is set at diagnosis, based on cancer stage, overall health and whether surgery looks possible. In this study, called MDT-BRIDGE, 142 patients at 43 centers in 11 countries all began with two cycles of chemotherapy plus the immunotherapy drug durvalumab. A multidisciplinary team then reassessed each person.",
+     "Those considered suitable for surgery had one or two more cycles of chemotherapy and immunotherapy before the operation. The others had about six weeks of chemotherapy combined with radiation. Both groups could then receive durvalumab for up to a year. Overall, 92.3% of patients received treatment meant to cure, including more than 30% of those whose tumors were first judged borderline for surgery. The researchers reported no new safety signals. They also tracked circulating tumor DNA in the blood, and about 37% of patients tested no longer had detectable levels before surgery or chemoradiation. Those patients were more likely to be considered eligible for surgery and had more favorable early survival outcomes."
+    ],
+    "bigPicture": "Lung cancer remains the leading cause of cancer-related deaths worldwide, so any way to offer more people a treatment aimed at cure is of interest. The study suggests that checking how a cancer responds to early treatment, rather than deciding everything at diagnosis, could help match patients to the best option. The blood tests might also give treatment teams useful information, and the researchers say they could one day help in deciding whether some treatment steps can be skipped. These are possibilities that would need further evidence, since this was a phase 2 trial.",
+    "source": "Medical Xpress",
+    "date": "2026-11-27T15:40:17.000Z",
+    "link": "https://medicalxpress.com/news/2026-11-approach-curative-lung-cancer-treatment.html",
+    "originalTitle": "New approach could make curative lung cancer treatment possible for more patients"
+   },
    {
     "id": "medical-1795711202000-4",
     "headline": "Experimental drug PHI-101 targets resistant FLT3 leukemia in early lab and animal studies",
@@ -345,6 +397,32 @@
   ],
   "technology": [
    {
+    "id": "technology-1795796404000-4",
+    "headline": "Warming Oceans May Shift Fishing Toward Undersea Internet Cables, Study Finds",
+    "summary": [
+     "Much of daily life, from online banking to video calls, depends on cables lying on the seafloor. A new study in the journal Climate Risk Management suggests climate change could add to the risks these cables face. A warming ocean may change where fish live, and that in turn may change where fishing takes place.",
+     "Researchers say this is the first worldwide assessment to pair projections of future fishing with the routes of existing cables. Under future climate scenarios, about 34,600 kilometers (21,500 miles) of cable could be newly exposed to trawling by 2100. Trawling could also increase along another 157,000 kilometers (97,600 miles) of cable routes. Some areas may see less fishing activity, but new hot spots could appear, particularly in parts of the North Atlantic and the western to northwestern Pacific."
+    ],
+    "bigPicture": "Places that seem low risk today may not stay that way, so planning based only on past fishing patterns may fall short. The researchers point out that islands and remote communities could be especially affected. The findings suggest that adapting to climate change might involve protecting the cables that keep people and businesses connected, as well as coastlines and ecosystems. If operators and fishing communities work together, it may be possible to guard the cables while limiting the harm to either side.",
+    "source": "Tech Xplore",
+    "date": "2026-11-27T16:20:04.000Z",
+    "link": "https://techxplore.com/news/2026-11-climate-expose-underwater-internet-cables.html",
+    "originalTitle": "Climate change could expose underwater internet cables to fishing damage"
+   },
+   {
+    "id": "technology-1795749740000-23",
+    "headline": "Harvard-Led Team Builds Tiny Chip That Makes Far More Ultraviolet Light",
+    "summary": [
+     "Researchers led by Harvard have built a microscopic device that produces about 120 times more ultraviolet (UV) power than similar earlier devices. UV light is hard to use on a chip because it quickly loses power as it travels through the tiny channels that carry light. So the team made the UV light inside the chip itself, turning red light into UV with a process called frequency upconversion. The work was done in Marko Lončar's lab and published in Nature Communications.",
+     "The device is built on thin-film lithium niobate, a transparent crystal material. To make the conversion efficient, the crystal's orientation has to be reversed in a precise pattern along the channel. The team developed a method called \"sidewall poling,\" placing tiny finger-like metal electrodes right beside the etched channel. The chip produced 4.2 milliwatts of UV power at a wavelength of 390 nanometers, while earlier experiments with this material reached only tens of microwatts."
+    ],
+    "bigPicture": "Compact, stronger UV light sources could help shrink technologies that now need bulkier equipment. The researchers point to trapped-ion quantum computers, which use charged atoms and need near-ultraviolet light, as one possible use. The same kind of light might also help ultra-precise atomic clocks and small sensors that monitor greenhouse gases and other air pollutants. These are possibilities rather than promises, and the researchers say there are some nonlinear effects in the device they do not yet fully understand.",
+    "source": "ScienceDaily",
+    "date": "2026-11-27T03:22:20.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm",
+    "originalTitle": "Harvard’s tiny UV light chip could help shrink quantum computers"
+   },
+   {
     "id": "technology-1795717201000-0",
     "headline": "New Rubberlike Semiconductor Stretches and Springs Back While Conducting Electricity Well",
     "summary": [
@@ -529,6 +607,32 @@
   ],
   "ai": [
    {
+    "id": "ai-1795798801000-1",
+    "headline": "Survey: Three in four Australians have mistaken AI-made content for real",
+    "summary": [
+     "A representative survey of 2,000 Australian adults, carried out in August and September 2026, found that 76% had recently come across content they first thought was real and later learned was made by AI. Most Australians have used or tried generative AI tools such as ChatGPT, Copilot and Gemini. About half (51%) use them at least weekly, 28% use them daily, and 96% know of at least one platform.",
+     "The people most likely to say they had been fooled were those with high education and high AI literacy. The researchers suggest this is because these people are better at noticing when they have been misled. People with low education and lower AI literacy were the most likely to say they did not know whether they had been fooled."
+    ],
+    "bigPicture": "The findings suggest many people may not realise when they have met AI-made content, even as more of them turn to AI tools for information. When people suspect something is AI-generated, most just look closer and trust their own judgment. Few check labels or independent sources, and this approach may work less well as AI content becomes more convincing. The authors argue for clearer and more consistent labeling by digital platforms, and for media and AI literacy education for adults as well as children. If those steps were taken, people might find it easier to judge what they see online.",
+    "source": "Tech Xplore",
+    "date": "2026-11-27T17:00:01.000Z",
+    "link": "https://techxplore.com/news/2026-11-australians-struggling-real-ai-content.html",
+    "originalTitle": "76% of Australians are struggling to tell apart real and AI content"
+   },
+   {
+    "id": "ai-1795773914000-8",
+    "headline": "Los Angeles Schools Turn Off Google's AI Search Summaries as Dispute With Google Grows",
+    "summary": [
+     "Los Angeles Unified, the district with half a million students, has quietly turned off Google's AI Overview summaries in searches on school-issued devices. It did not make a formal announcement, and parents and students were caught off guard. The change came on the Monday after a Friday, Nov. 13 meeting of the school board's AI committee, where members of the group Schools Beyond Screens LA spoke. The district said the suspension is temporary and meant to keep student experiences age-appropriate and safe.",
+     "The step comes amid a wider standoff. Google has said it cannot separate AI from its search product. A Google education executive told The New York Times that if schools ban AI, students will not have access to search. In early November, Google said it would turn off Gemini and search tools by default for K-12 schools in the coming months, so administrators would need to switch each one on. Some Google employees signed a petition asking the company to let schools turn off AI without losing search, and other districts, such as Fairfax County in Virginia, have built plug-ins that remove AI summaries. Google has offered a pilot \"guided learning\" tool rather than an AI-free search for schools."
+    ],
+    "bigPicture": "Google's Chromebooks and education apps are widely used in American classrooms, so this disagreement affects many schools. Districts may keep looking at other search providers or at their own technical workarounds, and Google could come under more pressure to offer a version of search without AI. How the dispute is settled might shape how much control schools have over the AI tools their students see. For now, it is unclear how long Los Angeles will keep the feature disabled or how it was done.",
+    "source": "Tech Xplore",
+    "date": "2026-11-27T10:05:14.000Z",
+    "link": "https://techxplore.com/news/2026-11-google-threatens-schools-access-los.html",
+    "originalTitle": "As Google threatens to cut schools' search access, Los Angeles blocks AI features"
+   },
+   {
     "id": "ai-1795689601000-0",
     "headline": "Anthropic CEO rejects claim he wants people to give up free will to AI",
     "summary": [
@@ -670,35 +774,22 @@
     "date": "2026-11-20T20:00:04.000Z",
     "link": "https://techxplore.com/news/2026-11-noninvasive-brain-interface-ai-convey.html",
     "originalTitle": "Noninvasive brain interface uses AI suggestions to convey messages nearly three times faster"
-   },
-   {
-    "id": "ai-1795188014000-25",
-    "headline": "Study finds AI safety guardrails can be weakened, leading agents to harass in simulated chats",
-    "summary": [
-     "Researchers from Georgia State, Georgia Tech and the University of California, Berkeley tested how well safety guardrails hold up in AI agents. Guardrails are training meant to make AI refuse harmful requests. The team looked at agents built on four widely used model families: Google's Gemini, Meta's Llama, Alibaba's Qwen and DeepSeek. They found that a small amount of tampering could turn these agents into persistent harassers.",
-     "In the test, one AI agent played a harasser and another played its target for up to 10 rounds of chat. The researchers tried three ways of breaking the harasser's guardrails: loading toxic past conversations into its memory, prompting it to plan its approach, and retraining it on harassment conversations. All three methods showed substantial weaknesses. In several models, hostility grew from one exchange to the next, even though the guardrails were still in place. The harassment did not need obvious slurs and could begin subtly before turning into explicit attacks."
-    ],
-    "bigPicture": "Many AI safety tests check only whether a model refuses a single harmful request, but this study suggests real harm can build up over a longer conversation. As AI agents gain memory, tools and more independence, Kursuncu argues that people with bad intentions could use them to automate harm at a scale no single person could reach. That could include harassment, and possibly the spread of extremist ideas or political propaganda. Businesses using AI agents may also need to check that those agents stay within their rules over time, and the researchers call for stronger guardrails, monitoring and controls.",
-    "source": "Tech Xplore",
-    "date": "2026-11-20T15:20:14.000Z",
-    "link": "https://techxplore.com/news/2026-11-ai-guardrails-falter-tampering-simulated.html",
-    "originalTitle": "AI guardrails falter as tampering drives repeated harassment in simulated conversations"
-   },
-   {
-    "id": "ai-1795166401000-29",
-    "headline": "Anthropic shares jump 17% in record stock market debut on a down day",
-    "summary": [
-     "Anthropic, the company behind the Claude chatbot, began trading on the Nasdaq under the ticker \"ANT\" on Thursday. Its shares closed around $97, up 17% from the $83 offer price, even though the Nasdaq and the S&P 500 both fell more than 2%. The stock opened at $111.50, which briefly valued the company at about $2 trillion.",
-     "The company raised a record $81.3 billion, topping the $75 billion SpaceX raised in its June offering. If underwriters use an option to buy extra shares, the total could reach about $93.5 billion. Anthropic's quarterly revenue reached $17 billion, up from $1.4 billion a year earlier, much of it from customers using its AI for computer coding. The offering also made thousands of employees millionaires and gave ordinary investors a first chance to buy into a stand-alone AI company."
-    ],
-    "bigPicture": "Anthropic is the first of the leading AI model developers to list publicly, so its stock may become a closely watched gauge of how investors feel about the AI boom. Heavy computing costs remain a major question, and the company's own filing warns that advanced AI could pose catastrophic or existential risks. Critics say its safety message masks a race to build ever more powerful technology, and a small group of protesters outside the Nasdaq warned of an AI bubble. How the shares perform from here could shape how other AI companies approach the public markets, though that is far from certain.",
-    "source": "Tech Xplore",
-    "date": "2026-11-20T09:20:01.000Z",
-    "link": "https://techxplore.com/news/2026-11-anthropic-soars-wall-street-debut-1.html",
-    "originalTitle": "Anthropic soars in record Wall Street debut"
    }
   ],
   "ourworld": [
+   {
+    "id": "ourworld-1795803605000-4",
+    "headline": "Antarctic ozone hole is among the largest in decades, but recovery stays on track",
+    "summary": [
+     "This year's ozone hole over Antarctica is one of the biggest seen in the 48 years of observations. That is a sharp change from 2025, when it was the fifth smallest since 1992. By Sept. 20, 2026, it covered 27.3 million square km (10.5 million square miles), which is larger than Antarctica itself. That is about 31% above the 20-year average for that time of year.",
+     "Researchers point to an unusually strong and long-lasting polar vortex. It kept the Antarctic stratosphere cold enough for ozone loss to continue for longer. Data from the Copernicus Sentinel-5P satellite also show that the hole was not especially deep. Ozone depletion stayed close to average, so the hole was wide but not as deep as other large ones on record."
+    ],
+    "bigPicture": "The size of the ozone hole changes naturally from year to year, so one large season does not by itself mean the ozone layer has stopped recovering. Long-term recovery is described as on track following the global phaseout of ozone-depleting substances under the Montreal Protocol. Satellites like Sentinel-5P build steady records that help scientists tell normal ups and downs from longer-term trends. Newer missions, including Sentinel-5 and Altius, could help track the ozone layer's recovery more accurately in the coming years.",
+    "source": "Phys.org",
+    "date": "2026-11-27T18:20:05.000Z",
+    "link": "https://phys.org/news/2026-11-ozone-hole-largest-decades.html",
+    "originalTitle": "Ozone hole one of the largest in decades"
+   },
    {
     "id": "ourworld-1795701602000-5",
     "headline": "Astronomers find the most distant quasar yet, from the universe's early days",
@@ -724,6 +815,19 @@
     "date": "2026-11-26T11:06:15.000Z",
     "link": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
     "originalTitle": "Deep beneath Australia, hidden caves could unlock the secrets of alien worlds"
+   },
+   {
+    "id": "ourworld-1795658433000-40",
+    "headline": "Mystery object called Phoebe could be a black hole from the early universe",
+    "summary": [
+     "On December 18, 2019, astronomers saw a star in the Large Magellanic Cloud, a small galaxy near the Milky Way, slowly brighten for about an hour and then return to normal. The change was smooth and symmetrical, with no explosion or flare. It looked as if an unseen object had passed in front of the star and bent its light toward Earth, an effect called gravitational microlensing. Researchers at Swinburne University in Melbourne spotted the signal in survey data and named the object Phoebe.",
+     "The team found three possible explanations. Phoebe could be a rogue planet drifting alone through the Milky Way, or a similar wandering planet inside the Large Magellanic Cloud. In the second case, it would be the first planet found by microlensing beyond our galaxy. The third option is a primordial black hole, which would have formed in the first fractions of a second after the Big Bang, long before the first stars."
+    ],
+    "bigPicture": "If Phoebe turns out to be a primordial black hole, it could be one of the oldest objects ever detected, and it might offer new clues about dark matter. For now, its identity is still uncertain, and the rogue planet explanations remain possible. Further observations and analysis could help show which explanation fits best. The result also shows how a single brief change in a star's brightness can open a window onto very large questions about the universe.",
+    "source": "ScienceDaily",
+    "date": "2026-11-26T02:00:33.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm",
+    "originalTitle": "Astronomers may have discovered a black hole born before the first stars"
    },
    {
     "id": "ourworld-1795606804000-0",
@@ -910,6 +1014,32 @@
   ],
   "wellbeing": [
    {
+    "id": "wellbeing-1795769106000-1",
+    "headline": "Large study finds exercise for fun and physical work may relate differently to dementia risk",
+    "summary": [
+     "Researchers at the University of Southern California looked at 74 earlier studies covering more than 4.2 million people aged 45 to 93 in 30 countries. They followed diagnoses of dementia, Alzheimer's disease and vascular dementia over a median of 10 years. The work was published in The Lancet Public Health.",
+     "People who did more recreational activity, such as walking, cycling, running, swimming or sports, had a 24% lower risk of dementia than the least active people. By contrast, people with more physically demanding jobs had a 20% higher risk. Household chores seemed to help and active commuting seemed to carry a small added risk, but each of these findings rested on very few studies."
+    ],
+    "bigPicture": "This study is observational, so it cannot show that physical work causes dementia, and the authors say it should not discourage anyone from taking an active job. Most studies relied on people reporting their own activity, and most came from high-income countries. The findings suggest that the setting in which people move may matter as much as how much they move. The authors say that could point public health efforts toward safe parks, walking trails, adequate leisure time and fewer harmful workplace exposures, though more research would be needed to know what works.",
+    "source": "ScienceDaily",
+    "date": "2026-11-27T08:45:06.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261125045246.htm",
+    "originalTitle": "One type of physical activity is linked to a 20% higher dementia risk"
+   },
+   {
+    "id": "wellbeing-1795751766000-3",
+    "headline": "Study links screen time at ages 1 and 6 to weaker learning and memory",
+    "summary": [
+     "A study that followed children from age 1 to 8 suggests that the timing of screen use may matter as well as the amount. Children who spent more time on screens in infancy and around the start of elementary school tended to do worse academically at age 9. They also had weaker working memory at age 10.5. Working memory is the ability to briefly hold and use information, which helps children follow instructions, solve math problems and understand sentences.",
+     "Researchers from Inserm and the National University of Singapore looked at 502 children in the GUSTO birth cohort. Parents reported screen habits at six points between infancy and middle childhood. The links were strongest at age 1 and age 6, while ages 2 and 3 showed no significant links. Children with more total screen time over childhood also tended to have lower academic scores. The study shows associations only, so it cannot prove that screens caused these outcomes. One possible explanation is that screen time can displace conversation, imaginative play and hands-on exploration."
+    ],
+    "bigPicture": "The findings suggest that healthy screen habits may deserve attention both in infancy and when children start formal schooling, not only in the toddler years. The researchers note that a small difference for one child may not be noticeable, but similar patterns across a large population could mean more children face academic difficulties. Future studies may examine content quality, device types and whether parents watch along with their children. That work could eventually lead to more targeted advice about when and how children use screens, though this remains a possibility rather than a certainty.",
+    "source": "ScienceDaily",
+    "date": "2026-11-27T03:56:06.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm",
+    "originalTitle": "Scientists identify two ages when children may be most vulnerable to screen time"
+   },
+   {
     "id": "wellbeing-1795692750000-1",
     "headline": "Is Loneliness a Medical Problem or a Social One? New Study Weighs In",
     "summary": [
@@ -999,45 +1129,6 @@
     "date": "2026-11-23T00:45:42.000Z",
     "link": "https://www.sciencedaily.com/releases/2026/11/261121221132.htm",
     "originalTitle": "Scientists discover a surprising link between weak bones and faster brain aging"
-   },
-   {
-    "id": "wellbeing-1795178679000-7",
-    "headline": "Small trial: low-carb keto diet cut liver fat more than two other diets",
-    "summary": [
-     "A clinical trial published in Cell Metabolism compared three eating plans in 42 adults who had obesity, prediabetes and fatty liver disease. Participants were randomly assigned to a ketogenic, Mediterranean or low-fat, plant-focused diet. The researchers supplied all meals and set up weekly dietitian visits. They also adjusted calories so each group lost about 10% of starting body weight, which took roughly four to five months.",
-     "Even with similar weight loss, the keto group saw liver fat fall by an average of 67%, compared with 45% in each of the other two groups. About half of the keto group no longer met the criteria for prediabetes, versus 29% on the Mediterranean diet and 7% on the low-fat diet. All three groups improved insulin sensitivity and lost body fat. The keto group did not show a rise in blood fat or cholesterol, which the researchers found surprising given how much fat they ate. The study team noted that dropping below the prediabetes threshold does not necessarily mean the condition is permanently reversed."
-    ],
-    "bigPicture": "The results hint that what people eat may affect metabolic health in ways that go beyond the number on the scale. The researchers suggest cutting carbohydrates could influence liver fat through routes other than weight loss, and they point out that this could matter as weight-loss medications such as GLP-1 drugs become more widely used. Still, this was a small study with 42 people, and all their meals were provided, which is different from everyday life. Larger and longer studies would be needed to know whether the benefits hold up over time and for other groups of people.",
-    "source": "ScienceDaily",
-    "date": "2026-11-20T12:44:39.000Z",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261120070904.htm",
-    "originalTitle": "Keto diet slashes liver fat by 67% in just 4 months"
-   },
-   {
-    "id": "wellbeing-1795176367000-8",
-    "headline": "Reading for pleasure is linked to better brain health and lower stress",
-    "summary": [
-     "A review in Psychological Medicine, by Cambridge researchers Barbara Sahakian and Christelle Langley with Vicki Perrin of The Queen's Reading Room, looked at the evidence on reading for enjoyment. It found links with better mental health, stronger empathy and a lower risk of dementia. The authors say the format and type of reading matter less than how much a person enjoys it. Reading together, such as in book clubs or when parents share stories with children, may add further benefits.",
-     "In children, a study of more than 10,000 young people found that those who began reading for pleasure early tended to do better on attention, memory and executive functioning. They also showed stronger school results, fewer mental health problems, more sleep and less screen time. For adults, a 2024 study commissioned by The Queen's Reading Room found that five minutes of fiction could lower stress by as much as 20%. Another investigation linked reading newspapers, magazines and books with a 33% lower risk of Alzheimer's disease. The researchers stress that most studies show associations and do not prove that reading prevents dementia."
-    ],
-    "bigPicture": "Reading is a low-cost habit that many people already find relaxing, so these findings may encourage families to make more room for it. The researchers suggest starting with topics children already like, such as a TV program or a game, and note that comics and graphic novels may feel less intimidating. Reading for enjoyment has become less common among young people, so wider efforts to encourage it could matter. Because much of the evidence is correlational, future research may help show how much reading itself contributes to brain health.",
-    "source": "ScienceDaily",
-    "date": "2026-11-20T12:06:07.000Z",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
-    "originalTitle": "This simple habit is linked to a 33% lower risk of Alzheimer's"
-   },
-   {
-    "id": "wellbeing-1795165757000-9",
-    "headline": "Exercising Regularly May Matter More Than Intensity for Students' Mental Health, Study Finds",
-    "summary": [
-     "Researchers in Norway followed 10,460 full-time higher education students, aged 18 to 35, to see how their exercise habits related to later mental health. At the start, students answered questions about how often they exercised, how hard they worked, how long each session lasted and how many hours they were active in total each week. A year later, they completed a self-administered diagnostic assessment for common mental health disorders. The study was led by Michael Grasdalsmoen of Western Norway University of Applied Sciences and was published in PLOS One.",
-     "Students who reported less physical activity were more likely to meet the criteria for anxiety or depression a year later. Of all the exercise measures, how often students worked out was the most consistently linked to later mental health, more so than intensity or time spent. Some differences appeared between the sexes: among women, lower intensity was linked to more anxiety and depression, while among men, fewer total weekly hours showed a stronger link. The likelihood of these conditions fell as weekly exercise rose, up to about 10 hours per week. The researchers noted that the findings fit with the World Health Organization's advice of at least 150 minutes of moderate-to-vigorous activity each week."
-    ],
-    "bigPicture": "Because this was an observational study, it cannot show that exercise itself prevented depression or anxiety, only that the two were connected. Even so, the authors suggest that making physical activity easy and a natural part of student life could be a useful piece of wider efforts to support student well-being. That could matter especially for students who are starting to struggle but have not reached the point of a clinical diagnosis. For many people, the takeaway may be that a steady routine could count for more than occasional, intense workouts.",
-    "source": "ScienceDaily",
-    "date": "2026-11-20T09:09:17.000Z",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261119194601.htm",
-    "originalTitle": "For better mental health, how often you exercise may matter more than how hard"
    }
   ]
  }
