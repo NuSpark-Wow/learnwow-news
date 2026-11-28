@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-27T19:25:45.188Z",
+ "updated": "2026-11-28T18:05:01.709Z",
  "categories": {
   "science": [
+   {
+    "id": "science-1795874402000-4",
+    "headline": "Siberian Tomb Seeds and Hair May Show Cannabis Use 2,800 Years Ago",
+    "summary": [
+     "A team of archaeologists from Germany, Russia, Sweden and Switzerland reports what they describe as the earliest known use of cannabis to get high. The evidence comes from a large burial mound at the Tunnug 1 site in the Uyuk Valley of southern Siberia. The tomb is one of the earliest monumental tombs showing the material culture of the Scythians, ancient nomads who migrated from Central Asia to southern Russia and Ukraine. If the finding holds up, it would put cannabis use at least 300 years before the earlier known use in neighboring China.",
+     "The dig began in 2017. Alongside weapons, horse gear and animal-style motifs, the team found more than 1,000 tiny cannabis seeds and preserved human hair. Radiocarbon dating on some of the seeds helped establish their age. Co-author Gino Caspari of the University of Bern said the seeds were placed in the tomb on purpose, which suggests the plant mattered to the community. He also said it is not clear whether the cannabis was inhaled or eaten."
+    ],
+    "bigPicture": "Cannabis seeds can be pressed for oil and its fibers can be made into cloth, so finding seeds alone does not prove anyone used the plant as a drug. Ancient written accounts, such as those by the Greek historian Herodotus, are also not treated as reliable without supporting evidence. Physical evidence like this could help researchers understand what role the plant played in ancient societies. The disagreement among experts suggests that further testing, possibly with more forensic toxicology expertise, might help settle the question.",
+    "source": "Phys.org",
+    "date": "2026-11-28T14:00:02.000Z",
+    "link": "https://phys.org/news/2026-11-seeds-hair-tomb-oldest-cannabis.html",
+    "originalTitle": "Seeds, preserved hair in tomb point to oldest signs of cannabis high 2,800 years ago, study suggests"
+   },
+   {
+    "id": "science-1795814401000-30",
+    "headline": "Fossil Teeth From Southern China Point to Denisovans and a Mystery Human Lineage",
+    "summary": [
+     "Researchers have studied four fossil teeth from two caves in Guangxi, in southern China, and reported their findings in the journal Nature. The caves are called Chuanshandong and Longchuandong. They lie in the Lingnan region, where fossils of ancient mammals are common but human remains from this period are rare. The team was led by Qiaomei Fu of the Institute of Vertebrate Paleontology and Paleoanthropology, and the first author is Song Xing.",
+     "The warm, humid climate makes it hard for ancient DNA to survive, so the team looked at proteins preserved in tooth enamel and also compared the teeth's shapes. They recovered proteins from three of the four teeth, and all three came from males. The Longchuandong teeth, dated to about 104,500 and 42,600 years ago, fit a population with Denisovan affinities. The molar closely resembles a fossil from Denisova Cave in Siberia, and the proteins carry a variant seen in other remains linked to Denisovans."
+    ],
+    "bigPicture": "This is the first evidence of Denisovans in the Lingnan region. It suggests they could live in many kinds of places, from cold Siberia and the high Tibetan Plateau to tropical and subtropical Asia. The Chuanshandong teeth may come from a primitive lineage that survived late in southern China, possibly because Lingnan's conditions made it a refuge. The authors say more fossils and molecular evidence are needed to learn where this lineage came from and whether it is related to Homo erectus.",
+    "source": "Phys.org",
+    "date": "2026-11-27T21:20:01.000Z",
+    "link": "https://phys.org/news/2026-11-denisovan-unknown-archaic-human-lineage.html",
+    "originalTitle": "Denisovan remains and an unknown archaic human lineage discovered in southern China"
+   },
    {
     "id": "science-1795804806000-6",
     "headline": "Particle collisions at CERN hint at a long-predicted effect in empty space",
@@ -186,6 +212,32 @@
    }
   ],
   "medical": [
+   {
+    "id": "medical-1795858678000-6",
+    "headline": "First Cholesterol-Lowering PCSK9 Pill, Enlicitide, Gains FDA Approval as Alternative to Injections",
+    "summary": [
+     "The FDA has recently approved Lipfendra (enlicitide), a once-daily pill. It is the first PCSK9 inhibitor available in pill form. Until now, this type of drug, which helps the liver clear cholesterol from the blood, had to be given by injection. In patients already taking statins, the pill lowered LDL (\"bad\") cholesterol by about 57% to 65%, similar to the injectable versions.",
+     "Researchers at Binghamton University School of Pharmacy and Pharmaceutical Sciences reviewed the evidence in Annals of Pharmacotherapy. In comparison trials, enlicitide lowered LDL by about 65%, versus about 6% for bempedoic acid and 28% for ezetimibe, two other oral treatments. Side effects were relatively few. Diarrhea and dizziness were reported slightly more often than with a placebo. The pill is taken first thing in the morning on an empty stomach, followed by a 30-minute wait before eating or drinking anything except water, black coffee, or plain tea. It costs $315 for a 30-day supply."
+    ],
+    "bigPicture": "For people who dislike injections, or whose cholesterol stays high on other pills, enlicitide adds another option for managing it. Its price may also make it more affordable than injectable PCSK9 drugs. One important question remains open, though: researchers have not yet established whether the pill lowers the risk of heart attacks or strokes. Until that is known, its long-term value for protecting heart health is uncertain, and anyone considering it should talk with their healthcare provider.",
+    "source": "ScienceDaily",
+    "date": "2026-11-28T09:37:58.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261128014259.htm",
+    "originalTitle": "New once-daily pill slashes “bad” cholesterol by up to 65%"
+   },
+   {
+    "id": "medical-1795831961000-9",
+    "headline": "Small Swedish trial finds one psilocybin dose eased depression for about three months",
+    "summary": [
+     "Researchers at Karolinska Institutet ran Sweden's first randomized, double-blind trial of psilocybin, the psychedelic compound in magic mushrooms, for depression. It included 35 adults aged 20 to 65 who had recurring episodes of moderate to severe depression. Half received a single 25 mg dose of psilocybin, and half received niacin, a vitamin chosen as an active placebo because it causes a noticeable physical reaction. All participants also had psychological support across five sessions.",
+     "Eight days after treatment, depression scores had dropped by an average of 9.7 points with psilocybin, compared with 2.4 points with the placebo. Participants' own ratings suggested benefits began as early as day two and lasted a little over three months. At six weeks, 53% of the psilocybin group were in remission, compared with 6% of the placebo group. At one year, 53% of the psilocybin group were still in remission, but many placebo participants had also recovered, so the groups could no longer be told apart statistically."
+    ],
+    "bigPicture": "Standard antidepressants can take weeks to work and do not help everyone, so there is interest in options that act faster. This small study suggests psilocybin might be one such option when quick symptom relief matters, though the authors say its long-term effects are uncertain and repeated treatments might be needed to prevent relapse. Larger studies are needed, including work on how expectations and the difficulty of blinding affect results. The team also plans to look at brain scans and fluid samples to explore whether psilocybin changes the connections between nerve cells, which could help explain how it works.",
+    "source": "ScienceDaily",
+    "date": "2026-11-28T02:12:41.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261126063324.htm",
+    "originalTitle": "A single psychedelic dose may relieve depression in just 48 hours"
+   },
    {
     "id": "medical-1795803944000-1",
     "headline": "Uganda begins testing an mRNA vaccine against Bundibugyo Ebola, the strain in Congo",
@@ -397,6 +449,32 @@
   ],
   "technology": [
    {
+    "id": "technology-1795880401000-0",
+    "headline": "Solar-powered device collects drinking water from very dry Saudi desert air",
+    "summary": [
+     "Researchers led by Ali H. Alawadhi built a prototype that pulls moisture from desert air and tested it near Al-Muzahmiyya in Saudi Arabia. Over a three-day trial, it collected an average of 47 milliliters of water per day, just over 3 tablespoons. The conditions were tough: daytime humidity averaged only 12.4%, and frequent sandstorms dimmed the sunlight the device relied on. The team reported these as the most severe field conditions for any water harvester so far.",
+     "At night, a fan drew air through 80 aluminum disks coated with a porous material called a metal–organic framework, which soaks up water. At sunrise, valves sealed the tube and sunlight warmed the disks, pushing the water out as vapor. The vapor then condensed on a cooled metal surface and dripped into a vial. A solar panel and battery ran the fans and controls, and the device used humidity changes inside the tube to switch between collecting and releasing water on its own."
+    ],
+    "bigPicture": "The amount of water is small, and the researchers say it does not solve water scarcity. Still, the test suggests this kind of water-capturing chemistry can work in very dry, dusty places without a power grid. An improved version could possibly add to water supplies at remote sites that cannot rely on nearby groundwater or seawater. The design might also lead to modular systems that recover more water, though that remains a possibility rather than a proven result.",
+    "source": "Tech Xplore",
+    "date": "2026-11-28T15:40:01.000Z",
+    "link": "https://techxplore.com/news/2026-11-grid-harvester-tablespoons-day-saudi.html",
+    "originalTitle": "Off-grid harvester draws three tablespoons of water a day from Saudi desert air"
+   },
+   {
+    "id": "technology-1795810802000-3",
+    "headline": "Researchers Develop Hair Dyes That Turn Strands Into Brain-Signal Electrodes",
+    "summary": [
+     "Doctors usually record brain activity by placing electrodes on the scalp, but hair can make it harder to get a clear signal. A team of scientists has created two hair dyes that make hair itself conductive, so it can work as an EEG electrode. They call the result \"eHAIR.\"",
+     "The first dye uses a conductive polymer called PEDOT:PSS, applied after a polydopamine treatment that helps it stick. It conducted electricity better in lab tests, but shampoo washed it off within minutes. The second dye uses enzymes such as horseradish peroxidase to form conductive polymers on each hair. It held up better to daily washing, and a citric acid treatment could restore its conductivity."
+    ],
+    "bigPicture": "This work is still at the proof-of-concept stage, so it does not yet show that the approach is ready for clinical use. If the dyes can be made durable and tested in more people, they could offer a different way to deal with hair getting in the way of EEG recordings. The researchers also showed that treated hair could be part of electronic components that amplify electrical signals, which hints at uses beyond brain monitoring. Whether any of that becomes practical will depend on further testing.",
+    "source": "Tech Xplore",
+    "date": "2026-11-27T20:20:02.000Z",
+    "link": "https://techxplore.com/news/2026-11-dyes-hair-electrodes-brain.html",
+    "originalTitle": "Conductive dyes turn hair into electrodes for brain monitoring"
+   },
+   {
     "id": "technology-1795796404000-4",
     "headline": "Warming Oceans May Shift Fishing Toward Undersea Internet Cables, Study Finds",
     "summary": [
@@ -590,19 +668,6 @@
     "date": "2026-11-23T18:20:07.000Z",
     "link": "https://techxplore.com/news/2026-11-drone-prototype-gaps-width-flight.html",
     "originalTitle": "New drone prototype folds itself through gaps half its width during flight"
-   },
-   {
-    "id": "technology-1795219321000-44",
-    "headline": "Scientists Pin Down How a Key Crystal Handles Light, Aiding Faster Optical Devices",
-    "summary": [
-     "Researchers led by KAIST, working with Caltech and other partners, have measured in detail how barium titanate (BTO) guides and absorbs light. BTO is a promising material for devices that send information using light. Its optical properties have been hard to measure reliably for decades, and past reports often conflicted with one another.",
-     "The trouble comes from tiny regions inside the crystal, called domains, that point in different directions and respond to light differently. To avoid mixing these responses, the team studied two kinds of single-crystal samples with fairly consistent domain orientations. They used a technique that tracks how light's polarization changes, and they covered wavelengths from ultraviolet to far-infrared. In the 2-10 micrometer range, they found very low absorption, with an extinction coefficient of about 10 -5. The team also built a way to predict how a crystal with several domains will behave overall, based on each domain's orientation and share of the crystal."
-    ],
-    "bigPicture": "Engineers need dependable numbers on how a material bends and absorbs light before they can design parts that carry data with little signal loss. With these measurements, they may be able to model components on a computer before building them, which could mean fewer prototypes and redesigns. The researchers also suggest the findings could support devices that produce light at different wavelengths and photonic circuits for quantum information. These remain possibilities, and the study itself is about understanding the material rather than presenting a finished product.",
-    "source": "ScienceDaily",
-    "date": "2026-11-21T00:02:01.000Z",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
-    "originalTitle": "A decades-old mystery about light could hold the key to faster internet"
    }
   ],
   "ai": [
@@ -618,6 +683,32 @@
     "date": "2026-11-27T17:00:01.000Z",
     "link": "https://techxplore.com/news/2026-11-australians-struggling-real-ai-content.html",
     "originalTitle": "76% of Australians are struggling to tell apart real and AI content"
+   },
+   {
+    "id": "ai-1795797604000-1",
+    "headline": "Auckland Team's AI Dance Partner Shows a Different Way to Build AI",
+    "summary": [
+     "Researchers in an Auckland dance studio spent 10 months building an AI dance partner in extended reality, which blends the physical world with digital elements. The partner was an architectural avatar, a digital structure that moved in response to a dancer. A choreographer, an architectural designer and two professional dancers developed and tested it. The dancers wore motion-capture suits tracked by 10 cameras, and the AI learned from their movements instead of from text.",
+     "The team found that a small set of choreographed duets taught the system better than a large library of generic movement. Mixing dance styles produced bland, in-between moves, and for most of the project the partner could only follow. They also noticed that when the system stopped responding to a dancer's small gestures, the dancer stopped making them. The dancers kept ownership of their data, recordings stayed on local encrypted drives, and any choreography was credited as a joint creation."
+    ],
+    "bigPicture": "The authors contrast their approach with companies racing toward \"superintelligence,\" which rely on more data, computing power and scale. They suggest that keeping skilled people closely involved could make AI more accountable, and that a smaller country could build AI suited to its own users. They also say New Zealand's light-touch regulation could change, perhaps giving skilled people a say in how AI is used in areas like health, justice, education and welfare. The study is one small example, and the authors say the open challenge is whether institutions will recognize and reward alternatives like it.",
+    "source": "Tech Xplore",
+    "date": "2026-11-27T16:40:04.000Z",
+    "link": "https://techxplore.com/news/2026-11-built-ai-taught-technology-responsibly.html",
+    "originalTitle": "We built an AI you can dance with. It taught us about developing the technology responsibly"
+   },
+   {
+    "id": "ai-1795791610000-4",
+    "headline": "Tooth-mounted sensor lets people give silent commands to AI by mouthing words",
+    "summary": [
+     "Researchers at ETH Zurich have developed InvisiSpeech, a small device that sits between a back molar and the cheek and picks up silent speech. The wearer shapes words with their tongue as usual, without making a sound or moving their lips. This creates tiny vibrations in the mouth, which the sensor detects and sends wirelessly to a smartphone. An AI model built by the researchers then decodes the words and carries out the command.",
+     "In a study with 15 people, the system correctly recognized about 90% of 50 preset English commands after a short calibration for each person. Background noise had little effect, which the researchers say is an advantage over microphone-based systems. Tested uses included switching devices on and off, looking up information during a meeting, and translating foreign-language content with AI glasses. The device does not read brain signals, and it can be put in and taken out without surgery."
+    ],
+    "bigPicture": "The team hopes silent speech could one day allow natural, private conversations with AI, with answers delivered through earphones, for example on a train or while commuting. They also suggest it could help with everyday tasks, accessible communication and controlling AI glasses. For now, the device is still in development. The researchers say it needs to handle longer, more complex sentences and work reliably when the wearer is walking or moving quickly before it is practical for everyday use.",
+    "source": "Tech Xplore",
+    "date": "2026-11-27T15:00:10.000Z",
+    "link": "https://techxplore.com/news/2026-11-gadget-straight-james-bond-tiny.html",
+    "originalTitle": "A gadget straight out of a James Bond film: Tiny tooth-mounted sensor recognizes silent speech"
    },
    {
     "id": "ai-1795773914000-8",
@@ -735,48 +826,35 @@
     "date": "2026-11-22T03:43:18.000Z",
     "link": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
     "originalTitle": "AI uncovers hidden bladder cancer warning signs years before diagnosis"
-   },
-   {
-    "id": "ai-1795274698000-16",
-    "headline": "Study finds AI vision models may not process images the way brains do",
-    "summary": [
-     "Researchers at York University tested whether artificial neural networks, which are widely used to study how the brain sees, really work like the brain. These models are good at predicting the activity of brain cells, and that skill has made them popular tools in neuroscience. The team asked a new question: can recorded brain activity also predict what happens inside the AI models?",
-     "They developed a method called reverse predictivity testing and used 1,320 natural and realistic synthetic images showing 10 familiar subjects, such as a bear, a car and a zebra. They also added 300 images of the same subjects in styles like drawings and outlines. The AI models predicted neuron responses fairly well, but the neurons were much less able to predict many of the models' internal features. That gap did not appear when neurons from one brain were compared with those from another brain."
-    ],
-    "bigPicture": "Many researchers use AI models to design experiments and to study human behavior and conditions such as autism or post-traumatic stress disorder. If a model looks accurate but works differently underneath, it could lead to misleading conclusions, so the findings suggest caution for now. Similar models are used to study hearing, language and movement, so the same concern might apply there too. In the longer term, models that follow biological processes more closely could make this research more reliable.",
-    "source": "ScienceDaily",
-    "date": "2026-11-21T15:24:58.000Z",
-    "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
-    "originalTitle": "AI may not work like the human brain after all, scientists discover"
-   },
-   {
-    "id": "ai-1795256207000-18",
-    "headline": "Anthropic mathematician says he proved the Riemann hypothesis with Claude; experts say checking will take time",
-    "summary": [
-     "Levent Alpöge, a member of Anthropic's technical staff, says he worked with the company's AI tool Claude and found a proof of the Riemann hypothesis. He shared a four-page explanation on his website on Friday. The problem dates to 1859 and deals with how prime numbers are spread out as they grow toward infinity. Alpöge said the discovery came late Sunday night, a day before the company's stock market debut.",
-     "The proof was released as 17 million lines of Lean, a programming language that lets people write out mathematical proofs in a form a computer can check. Rutgers mathematics professor Alex Kontorovich said Claude followed the code and reported that the proof is true. He added that he does not yet understand it himself and still has work to do. Hours after the announcement, the Clay Mathematics Institute still listed the problem as unsolved. The institute's president, Martin Bridson, called the announcement historically significant but said the road to real understanding will be long and difficult. Anthropic did not respond to a request for comment from The Associated Press."
-    ],
-    "bigPicture": "If the proof holds up, it would settle a question that has stayed open for more than 150 years and carries a $1 million Millennium Prize. For now it remains a claim, and the checking process by experts and the Clay Mathematics Institute takes time. The news also follows a similar AI-linked claim about the Navier-Stokes equation in September. Together, these claims could suggest AI tools may play a larger part in future math research, but that is still a possibility rather than something established.",
-    "source": "Tech Xplore",
-    "date": "2026-11-21T10:16:47.000Z",
-    "link": "https://techxplore.com/news/2026-11-anthropic-worker-holy-grail-math.html",
-    "originalTitle": "Anthropic worker claims to have solved a holy grail of math problems with the help of AI"
-   },
-   {
-    "id": "ai-1795204804000-20",
-    "headline": "Rutgers brain interface uses AI suggestions to speed up noninvasive communication",
-    "summary": [
-     "Engineers at Rutgers have built a brain-computer interface called ChatBCI-Assist. It uses AI to help people turn brain activity into words and phrases. The user wears a cap with sensors that pick up electrical signals through the scalp, so no surgery is needed. According to the engineers, users could reproduce sentences nearly twice as fast as with a conventional dictionary-based predictive approach. The findings appeared in IEEE Transactions on Biomedical Engineering.",
-     "The screen shows a keyboard with flashing rows and columns, plus suggested words and phrases. When the choice the user is focusing on flashes, the brain produces a signal called the P300, and the computer matches its timing to the flash. A language model, fine-tuned on example messages reflecting the needs of people with ALS, offers phrases that fit the conversation. Someone who wants to say \"I want water\" could pick a suggestion such as \"Give me water\" instead of spelling every letter. The user decides whether to accept a suggestion or keep spelling. The model runs on the local computer rather than a cloud service, so private messages stay off the internet and the system can work without a reliable connection. So far it has only been tested with healthy participants."
-    ],
-    "bigPicture": "People with advanced ALS may lose the muscle control needed to speak or type, and eye-gaze devices can become hard to use if eye control fades. A faster, less tiring brain-based option could one day give them another way to communicate. The researchers are planning clinical testing with ALS patients, working with a physician-scientist at Rutgers Robert Wood Johnson Medical School, to see how the system can be made more practical and comfortable. Until that testing is done, it is not yet known how well the results will carry over to the people it is meant to help.",
-    "source": "Tech Xplore",
-    "date": "2026-11-20T20:00:04.000Z",
-    "link": "https://techxplore.com/news/2026-11-noninvasive-brain-interface-ai-convey.html",
-    "originalTitle": "Noninvasive brain interface uses AI suggestions to convey messages nearly three times faster"
    }
   ],
   "ourworld": [
+   {
+    "id": "ourworld-1795838597000-1",
+    "headline": "Endangered Leatherback Turtles Are Nesting in New Places Along Ecuador's Coast",
+    "summary": [
+     "Researchers recorded an unprecedented number of eastern Pacific leatherback nests on several Ecuadorian beaches during the 2025-2026 nesting season. These beaches are more than 1,000 miles from the turtles' traditional nesting areas in Mexico and Costa Rica. Leatherbacks are the world's largest sea turtle, and this population is critically endangered. It has dropped by more than 90% since the 1980s.",
+     "The team reviewed more than 45 years of records from Ecuador's coast and compared them with El Niño and La Niña cycles. Over the past decade, turtle activity and nesting rose during La Niña, when the water is cooler. Eggs per nest and hatching success were similar to those at the established northern sites, and some nests produced more hatchlings than usual. One female, nicknamed Bella, was tracked nesting four to five times in 2026. Streetlights confused her on her first attempt, but two nights later she nested on a quieter stretch of beach. In all, 134 of her 146 eggs hatched, a rate of 91.8%."
+    ],
+    "bigPicture": "The researchers suggest the turtles may be responding to warming oceans by looking for cooler coastal waters, though this is an interpretation of the pattern rather than a proven cause. The study's lead author describes the findings as a sign of hope, but the population still faces serious threats. These include accidental capture in fishing gear, plastic pollution, boat collisions, egg harvesting and damage to nesting habitat. He says long-term survival would likely depend on continued monitoring, steps to reduce accidental catches, and careful care of coastal areas, with local communities involved. If protections for these new beaches are put in place, they could become a valuable refuge, but that is not guaranteed.",
+    "source": "ScienceDaily",
+    "date": "2026-11-28T04:03:17.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261127203623.htm",
+    "originalTitle": "Facing extinction, the world’s largest sea turtle is making a surprising move"
+   },
+   {
+    "id": "ourworld-1795810806000-12",
+    "headline": "Hera's first images show a stadium-sized crater on asteroid Dimorphos",
+    "summary": [
+     "The European Space Agency's Hera spacecraft has reached the asteroid pair visited by NASA's DART probe, which hit the small asteroid Dimorphos on Sept. 26, 2022. That impact shortened Dimorphos's orbit by 33 minutes, much more than predicted. Until now, scientists did not know whether the impact had left a crater, changed the asteroid's shape, or changed nothing at all. Hera's first images suggest the answer is all three together.",
+     "The face DART struck has been flattened into a crater about the size of a sports stadium, stretching across the asteroid's whole width. The rest of Dimorphos looks much as it did in DART's 2022 images. Hera also shows that Dimorphos is now tumbling wildly in its orbit. In addition, hundreds of previously unknown boulders, each just a few meters across, circle the two asteroids. The team will need to account for them as Hera moves closer."
+    ],
+    "bigPicture": "The DART mission showed that an asteroid's orbit can be changed, and Hera is now showing what the impact did to the asteroid itself. Mission leaders say this could help make asteroid deflection a more reliable tool for protecting Earth, though that is a goal and not yet a proven capability. Hera is due to move to about 13 km from the pair in December. Two small CubeSats are planned for January 2027, one of which will use radar to probe an asteroid's interior for the first time. A separate ESA mission, Ramses, is being developed to study the asteroid Apophis during its safe close pass of Earth in 2029.",
+    "source": "Phys.org",
+    "date": "2026-11-27T20:20:06.000Z",
+    "link": "https://phys.org/news/2026-11-hera-reveals-stadium-sized-asteroid.html",
+    "originalTitle": "Hera reveals stadium-sized asteroid crater from spacecraft impact"
+   },
    {
     "id": "ourworld-1795803605000-4",
     "headline": "Antarctic ozone hole is among the largest in decades, but recovery stays on track",
@@ -1013,6 +1091,32 @@
    }
   ],
   "wellbeing": [
+   {
+    "id": "wellbeing-1795867461000-4",
+    "headline": "Disrupted sleep or sleeping 9+ hours after 50 linked to shorter working lives",
+    "summary": [
+     "A large Finnish study found that sleep habits after age 50 may be linked to how long people stay in paid work. Researchers looked at two Finnish studies, one with 70,339 public sector employees and another with 6,071 working-age adults. They estimated working life expectancy between ages 50 and 68, using sleep survey answers and national employment records.",
+     "People with moderate sleep problems were expected to work nearly 5 fewer months than those with none, and those with severe problems about 8 fewer months. Sleeping 9 or more hours a night was linked to roughly 9 fewer months of work in one study and just over 30 fewer months in the other, compared with sleeping 7 to 8½ hours. The researchers found no clear difference between short sleepers and mid-range sleepers. Because the work was observational, it cannot show that sleep directly affects how long people work, and it could not account for factors such as physical and mental health, medical conditions, risky health behaviors or shift work."
+    ],
+    "bigPicture": "Many countries have raised retirement ages, so more people are expected to keep working later in life. The findings suggest that supporting sleep health in midlife could be one useful consideration, especially for people with lower socioeconomic status. The researchers mention possibilities such as cognitive behavioral therapy for insomnia through occupational health services, or workplace programs that educate people about sleep. More research would be needed to know whether improving sleep actually changes how long people stay employed.",
+    "source": "ScienceDaily",
+    "date": "2026-11-28T12:04:21.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261127203617.htm",
+    "originalTitle": "Sleeping 9 hours a night after 50 may be a surprising warning sign"
+   },
+   {
+    "id": "wellbeing-1795825705000-6",
+    "headline": "Regular Coffee Drinking Linked to Differences in Gut Bacteria and Digestive Function",
+    "summary": [
+     "Researchers at the University of Copenhagen studied how regular coffee drinking relates to what happens inside the digestive system. Participants swallowed a small electronic capsule that recorded data as it travelled through the gut, including transit speed, temperature, acidity and muscle contractions. People who drank one to five cups a day on more than three of eight recorded days counted as frequent coffee drinkers, and everyone else formed the comparison group.",
+     "Frequent coffee drinkers had a greater variety of gut microorganisms, which fits with earlier research. They also had more acidic conditions in the small intestine and more muscular contractions in the colon. Those contractions help move material through the digestive system. The team notes that it is not yet clear whether the higher acidity is good or bad for health."
+    ],
+    "bigPicture": "Many people deal with constipation and irregular bowel movements, so understanding how coffee affects digestion could be useful. The researchers say the next step would be a controlled study in which participants' coffee intake is regulated, comparing periods of high consumption with periods of none. If that work confirms a direct effect, it might point toward natural ways of encouraging gut movement. For now, the findings show an association and do not offer health advice.",
+    "source": "ScienceDaily",
+    "date": "2026-11-28T00:28:25.000Z",
+    "link": "https://www.sciencedaily.com/releases/2026/11/261126063321.htm",
+    "originalTitle": "Your daily coffee may be changing your gut in surprising ways"
+   },
    {
     "id": "wellbeing-1795769106000-1",
     "headline": "Large study finds exercise for fun and physical work may relate differently to dementia risk",
